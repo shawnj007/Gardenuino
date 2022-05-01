@@ -188,7 +188,7 @@ Wire Wire Line
 	5900 7200 6850 7200
 Connection ~ 6850 5800
 Text Label 5250 3750 2    50   ~ 0
-SS_RAM
+SS_AUX
 Wire Wire Line
 	6850 5800 6850 7200
 Wire Wire Line
@@ -1596,7 +1596,7 @@ F 3 "~" H 8000 5450 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 Text Label 8050 5900 0    50   ~ 0
-SS_RAM
+SS_AUX
 $Comp
 L Jumper:SolderJumper_2_Open SSRAM1
 U 1 1 62E26A6C
@@ -1647,7 +1647,7 @@ SDA
 Text Label 10750 6000 2    50   ~ 0
 SCL
 Text Label 10750 5800 2    50   ~ 0
-SS_RAM
+SS_AUX
 Text Label 10750 5900 2    50   ~ 0
 MISO
 Text Label 10750 5700 2    50   ~ 0
