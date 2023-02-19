@@ -1,30 +1,30 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 33,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
-      "tracks": 0.4000000059604645,
-      "vias": 0.4099999964237213,
-      "zones": 0.25999999046325684
+      "tracks": 1.0,
+      "vias": 1.0,
+      "zones": 0.6
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
-      "graphics": false,
-      "keepouts": false,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": true,
-      "otherItems": false,
-      "pads": false,
-      "text": false,
-      "tracks": false,
-      "vias": false,
-      "zones": false
+      "otherItems": true,
+      "pads": true,
+      "text": true,
+      "tracks": true,
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       0,
@@ -63,10 +63,10 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "nutrient V0.1f.kicad_prl",
+    "filename": "nutrient.kicad_prl",
     "version": 3
   },
   "project": {
