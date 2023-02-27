@@ -48,7 +48,13 @@
           "min_clearance": 0.0
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "items_not_allowed|153390600|71831200|0a8dfc5c-35dc-4e44-a2bf-5968ebf90cca|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|153390600|71831200|c9badf80-21f8-404a-b5df-18e98bffebf9|00000000-0000-0000-0000-000000000000",
@@ -125,8 +131,18 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.25,
+        0.5,
+        1.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -380,7 +396,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SpectDrone.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
