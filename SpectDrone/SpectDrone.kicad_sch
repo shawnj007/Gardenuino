@@ -3776,7 +3776,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 01b2f623-e0a2-477b-910c-92f195b6643f)
   )
-  (label "S2" (at 185.42 152.4 0)
+  (label "S1" (at 185.42 152.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 04773b2a-6212-4b80-831e-f5bfc9f69c15)
   )
@@ -3996,7 +3996,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4d780c6a-a88d-444d-a294-c1e121dc6f2f)
   )
-  (label "S2" (at 222.25 16.51 180)
+  (label "S2" (at 222.25 24.13 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4e08b8a3-e30c-4fa6-b7b9-858cd0645950)
   )
@@ -4064,7 +4064,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 6f0fb779-08f1-46f6-92ec-a15eb512394f)
   )
-  (label "S1" (at 185.42 119.38 0)
+  (label "S2" (at 185.42 119.38 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6f4e631e-a257-4ca6-ab24-95183f7b4492)
   )
@@ -4316,7 +4316,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c512477b-44d6-49db-be02-7dbdafc77e8d)
   )
-  (label "S1" (at 222.25 24.13 180)
+  (label "S1" (at 222.25 16.51 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c617dea1-2a6a-497b-8915-ba81ecdd193f)
   )
@@ -5530,7 +5530,7 @@
   (symbol (lib_id "Sensor_Optical:S13360-3025CS") (at 146.05 116.84 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9c3344ad-2b12-4670-9290-da422ffdbe3c)
-    (property "Reference" "D4" (id 0) (at 149.86 113.03 90))
+    (property "Reference" "PD2" (id 0) (at 149.86 113.03 90))
     (property "Value" "S1336-18BK" (id 1) (at 147.32 107.95 90))
     (property "Footprint" "Package_TO_SOT_THT:TO-18-4_Lens" (id 2) (at 144.78 121.285 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5843,7 +5843,7 @@
   (symbol (lib_name "S13360-3025CS_1") (lib_id "Sensor_Optical:S13360-3025CS") (at 146.05 149.86 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c1de7c16-0fb5-4855-9c92-9e6b4b6586a6)
-    (property "Reference" "D5" (id 0) (at 149.86 146.05 90))
+    (property "Reference" "PD1" (id 0) (at 149.86 146.05 90))
     (property "Value" "S1336-18BK" (id 1) (at 147.32 140.97 90))
     (property "Footprint" "Package_TO_SOT_THT:TO-18-4_Lens" (id 2) (at 144.78 154.305 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6268,12 +6268,6 @@
     (path "/d4a29348-d493-4924-894f-81676203cdc1"
       (reference "D3") (unit 1) (value "Ge") (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal")
     )
-    (path "/9c3344ad-2b12-4670-9290-da422ffdbe3c"
-      (reference "D4") (unit 1) (value "S1336-18BK") (footprint "Package_TO_SOT_THT:TO-18-4_Lens")
-    )
-    (path "/c1de7c16-0fb5-4855-9c92-9e6b4b6586a6"
-      (reference "D5") (unit 1) (value "S1336-18BK") (footprint "Package_TO_SOT_THT:TO-18-4_Lens")
-    )
     (path "/ca03f054-8c98-4670-99f2-ac2394c6b901"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad_TopBottom")
     )
@@ -6408,6 +6402,12 @@
     )
     (path "/24c3ed88-b44c-461f-a72a-c41465279cde"
       (reference "JVIN1") (unit 1) (value "Conn_01x01_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/c1de7c16-0fb5-4855-9c92-9e6b4b6586a6"
+      (reference "PD1") (unit 1) (value "S1336-18BK") (footprint "Package_TO_SOT_THT:TO-18-4_Lens")
+    )
+    (path "/9c3344ad-2b12-4670-9290-da422ffdbe3c"
+      (reference "PD2") (unit 1) (value "S1336-18BK") (footprint "Package_TO_SOT_THT:TO-18-4_Lens")
     )
     (path "/b2849f68-fe47-4de0-b285-7371cb755c79"
       (reference "Q1") (unit 1) (value "FDN340P") (footprint "Package_TO_SOT_SMD:SOT-23")
