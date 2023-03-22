@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.8,
-          "width": 3.8
+          "height": 0.5,
+          "width": 1.325
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "items_not_allowed|184125900|77597000|23f55bc5-218f-4c81-bcc4-297aa64fa0b2|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|184125900|77597000|8c1da091-33e1-4814-81ca-eb036c70d0dc|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|184125900|77597000|e55e4943-90c5-452e-a1fc-b9fa676b6d1b|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|219685900|143624100|1c7dfc69-97a1-49a8-a148-4a8d5ef0bf33|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|219685900|77584100|3d9cfcdb-ccfa-44ba-bd1b-f316c3905870|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
