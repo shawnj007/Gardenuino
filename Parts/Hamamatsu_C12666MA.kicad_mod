@@ -1,6 +1,6 @@
 (footprint "Hamamatsu_C12666MA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 642091EC)
+  (tedit 6424B3F8)
   (descr "Hamamatsu spectrometer, see http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf")
   (tags "opto spectrometer Hamamatsu")
   (attr through_hole)
@@ -46,7 +46,7 @@
   (pad "8" thru_hole circle (at 7.62 10.16) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp 45f30d7c-9a0c-4f55-84b7-004d998eabf5))
   (pad "9" thru_hole circle (at 7.62 2.54) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp 207573bf-d62d-48fd-9561-5b32dc21d062))
   (pad "10" thru_hole circle (at 7.62 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp ced60393-2178-4318-b85d-755a763b2a35))
-  (model "/home/proton/gits/Gardenuino/Parts/C12666MA-Fusion006.step"
+  (model "$USER_HOME/gits/Gardenuino/Parts/C12666MA-Fusion006.step"
     (offset (xyz 3.81 -7.62 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

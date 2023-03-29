@@ -1,6 +1,6 @@
 (footprint "TO-92_Eline" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 64209308)
+  (tedit 64244611)
   (property "Sheetfile" "SpectDrone.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
@@ -26,7 +26,7 @@
   (pad "1" thru_hole rect (at -1.27 0) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (tstamp 3e1244a8-cc3a-40a5-9b6b-cf964637d707))
   (pad "2" thru_hole oval (at 0 0) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (tstamp b03cc85d-dcbf-46e4-b2d2-bc231654e46e))
   (pad "3" thru_hole oval (at 1.27 0) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (tstamp 0a595de8-49f3-499c-ae51-7b72e1bd481e))
-  (model "/home/proton/gits/Gardenuino/Parts/TO-92 eline.step"
+  (model "$USER_HOME/gits/Gardenuino/Parts/TO-92 eline.step"
     (offset (xyz 0 0 5.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
