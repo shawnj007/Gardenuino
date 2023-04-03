@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Gardenuino_Custom")(type "KiCad")(uri "${USER_HOME}/gits/Gardenuino/Parts/Gardenuino_Custom.kicad_sym")(options "")(descr ""))
+)
