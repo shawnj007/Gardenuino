@@ -8,9 +8,9 @@
     "net_color_mode": 1,
     "opacity": {
       "pads": 0.3799999952316284,
-      "tracks": 0.3700000047683716,
+      "tracks": 0.699999988079071,
       "vias": 0.3799999952316284,
-      "zones": 0.3100000023841858
+      "zones": 0.46000000834465027
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {

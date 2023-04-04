@@ -8,7 +8,7 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref,,,,
 7,"JP2,JP1",SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm,2,SolderJumper_3_Bridged12,,PCB,,,0
 8,JGPS1,PinHeader_1x05_P2.54mm_Vertical,1,GPS,,Amazon,,,0
 9,"PD1,PD2",S1336,2,S1336-18BK,,In Hand,3,,1.5
-10,"UT2,UT1",TO-92_Eline,2,TSIC506F-TO92,,Digikey,5,2952-TSIC506FTO92-ND,2.5
+10,"UT2,UT1",TO-92_Eline,2,TSIC506F-TO92,,Digikey,6,2952-TSIC506FTO92-ND,3
 11,BT1,BatteryHolder_Keystone_103_1x20mm,1,Battery_Cell,,Digikey,10,2057-BH-98-1-ND,10
 12,"TP4,TP1,TP2,TP3,TPv1-1,TPv1-2,TP5",TestPoint_Keystone_5000-5004_Miniature,7,TestPoint,,PCB,,,0
 13,"U4,U5",SOT-89-3,2,MCP112-450E/TO,,Digikey,12,MCP112T-450E/MBCT-ND,6
@@ -41,7 +41,7 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref,,,,
 40,JALT1,JST_EH_S7B-EH_1x07_P2.50mm_Horizontal,1,ALTITUDE,,Digikey,10,23-0022057075-ND,10
 41,J3,BarrelJack_Horizontal,1,Barrel_Jack,,Digikey,10,2073-DCJ200-10-A-K1-K-ND,10
 42,JIR1,PinHeader_1x04_P2.54mm_Horizontal,1,Infrared,,Amazon,,,0
-43,U10,SSOP-8_2.95x2.8mm_P0.65mm,1,PCA9306DC,,Digikey,3,296-17988-1-ND,3
+43,U10,SSOP-8_2.95x2.8mm_P0.65mm,1,PCA9306DC,,Digikey,10,296-17988-1-ND,10
 44,JDIS2,PinSocket_1x11_P2.54mm_Vertical,1,Display,,Amazon,,,0
 45,"U9,U8",SOT-23,2,ADR510,,Digikey,10,505-ADR510ARTZ-REEL7CT-ND,5
 46,C2,C_0603_1608Metric,1,10uF,,Digikey,15,399-11939-1-ND,15
@@ -52,5 +52,5 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref,,,,
 51,JGPS2,PinSocket_1x05_P2.54mm_Vertical,1,GPS,,Amazon,,,0
 52,"RS1,RS4",C_0805_2012Metric,2,833,,Digikey,10,,5
 53,"R4,R5",C_0805_2012Metric,2,402,,Digikey,25,P20973CT-ND,12.5
-54,D3,D_T-1_P5.08mm_Horizontal,1,Ge,,,,,0
+54,D3,D_T-1_P5.08mm_Horizontal,1,Ge,,Digikey,20,PMEG120G20ELRX,20
 55,JDIS1,PinSocket_1x08_P2.54mm_Vertical,1,Display,,Amazon,,,0
