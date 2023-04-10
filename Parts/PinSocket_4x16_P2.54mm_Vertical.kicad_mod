@@ -1,6 +1,6 @@
 (footprint "PinSocket_4x16_P2.54mm_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 642E3473)
+  (tedit 6432F041)
   (descr "Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
   (tags "Through hole socket strip THT 1x15 2.54mm single row")
   (attr through_hole board_only exclude_from_bom)
@@ -110,7 +110,7 @@
   (pad "62" thru_hole oval (at -7.62 33.02) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp bd41378b-e69c-4014-bb70-37757a30c88b))
   (pad "63" thru_hole oval (at -7.62 35.56) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 4d844dc1-09e2-4da6-8a9c-dfda4611426d))
   (pad "64" thru_hole oval (at -7.62 38.1) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 43ca1704-7581-4f3c-9592-22f1fe44f6fe))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x15_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x15_P2.54mm_Vertical.wrl" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

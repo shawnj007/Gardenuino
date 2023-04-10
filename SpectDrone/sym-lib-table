@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Gardenuino_Custom")(type "KiCad")(uri "${USER_HOME}/gits/Gardenuino/Parts/Gardenuino_Custom.kicad_sym")(options "")(descr ""))
+  (lib (name "4x16_Connector")(type "KiCad")(uri "${USER_HOME}/gits/Gardenuino/SpectDrone/4x16_Connector.kicad_sym")(options "")(descr ""))
 )
