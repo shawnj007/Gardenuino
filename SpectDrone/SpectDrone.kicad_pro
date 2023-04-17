@@ -133,6 +133,7 @@
       "track_widths": [
         0.0,
         0.25,
+        0.4,
         0.45,
         0.5,
         0.75,
@@ -643,6 +644,10 @@
     [
       "380a736e-c8ff-4ce5-baac-153e7a6e24f1",
       "Prototyping connectors"
+    ],
+    [
+      "fafd8878-d160-401f-a009-514363fc108e",
+      "18bADC"
     ]
   ],
   "text_variables": {}
