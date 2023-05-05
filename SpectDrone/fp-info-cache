@@ -1,4 +1,4 @@
-20187561019335396
+20189244328756259
 Arduino
 Arduino_101_Shield
 https://docs.arduino.cc/retired/boards/arduino-101-619
@@ -53150,6 +53150,13 @@ TO-18-4_Lens Lens
 0
 2
 2
+Gardenuino Custom
+SolderJumper-4_P1.3mm_Bridged2Bar12_RoundedPad
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+net tie solder jumper bridged
+0
+4
+4
 Gardenuino Custom
 TO-92_Eline
 
