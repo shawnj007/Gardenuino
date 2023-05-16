@@ -10158,7 +10158,7 @@
       (reference "R4") (unit 1) (value "402") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/12400bec-a035-4aa2-9a39-f72c9ebb9aa4"
-      (reference "R5") (unit 1) (value "100") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R5") (unit 1) (value "174") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/bc8309e2-f529-40ab-b63c-a391f710836e"
       (reference "R6") (unit 1) (value "200K") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -10173,7 +10173,7 @@
       (reference "R9") (unit 1) (value "470K") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/a0032689-e541-4f0e-b571-7f4776bbc742"
-      (reference "R10") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R10") (unit 1) (value "X") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/b830ae61-5cf3-45d7-b837-1eb84500b62b"
       (reference "R11") (unit 1) (value "2K2") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -10332,7 +10332,7 @@
       (reference "U8") (unit 1) (value "ADR510") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/b15f1833-1c73-492c-922e-ef0f8affc888"
-      (reference "U9") (unit 1) (value "ADR5043B") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U9") (unit 1) (value "LM4040B") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/721b0118-f7ed-41a6-8c66-6d4a657f1174"
       (reference "U10") (unit 1) (value "TXS0102DCUR") (footprint "Package_SO:SSOP-8_2.95x2.8mm_P0.65mm")
@@ -10344,7 +10344,7 @@
       (reference "U12") (unit 1) (value "AD7991") (footprint "Package_TO_SOT_SMD:SOT-23-8")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/bed00ef8-7ad5-4aee-8105-bde4dec392a7"
-      (reference "U13") (unit 1) (value "ADR5045B") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U13") (unit 1) (value "X") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/fafd8878-d160-401f-a009-514363fc108e/e57f5dcd-3d96-42b8-8e35-41e755f6d487"
       (reference "U14") (unit 1) (value "MCP3422A0") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")

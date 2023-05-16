@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -8,21 +8,21 @@
     "net_color_mode": 1,
     "opacity": {
       "pads": 0.4099999964237213,
-      "tracks": 0.4099999964237213,
+      "tracks": 0.699999988079071,
       "vias": 0.4000000059604645,
       "zones": 0.4099999964237213
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": false,
-      "footprints": true,
+      "footprints": false,
       "graphics": false,
       "keepouts": false,
       "lockedItems": true,
-      "otherItems": true,
+      "otherItems": false,
       "pads": false,
       "text": true,
-      "tracks": true,
+      "tracks": false,
       "vias": false,
       "zones": false
     },
@@ -33,7 +33,6 @@
       3,
       4,
       5,
-      8,
       9,
       10,
       11,
@@ -62,7 +61,7 @@
       35,
       36
     ],
-    "visible_layers": "ffcffdf_ffffffff",
+    "visible_layers": "ffcfff4_7fffffff",
     "zone_display_mode": 0
   },
   "meta": {

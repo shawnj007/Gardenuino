@@ -1,30 +1,30 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.41999998688697815,
-      "tracks": 0.6299999952316284,
-      "vias": 0.4399999976158142,
-      "zones": 0.5400000214576721
+      "pads": 0.49000000953674316,
+      "tracks": 0.4699999988079071,
+      "vias": 0.4699999988079071,
+      "zones": 0.49000000953674316
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
       "graphics": true,
-      "keepouts": false,
+      "keepouts": true,
       "lockedItems": true,
       "otherItems": true,
-      "pads": false,
-      "text": false,
-      "tracks": false,
-      "vias": false,
-      "zones": false
+      "pads": true,
+      "text": true,
+      "tracks": true,
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       0,
@@ -57,15 +57,16 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36
     ],
-    "visible_layers": "000903f_80000001",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "SpectDroneControl.kicad_prl",
+    "filename": "TestComponents.kicad_prl",
     "version": 3
   },
   "project": {
