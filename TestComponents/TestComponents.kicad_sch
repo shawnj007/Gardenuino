@@ -2377,10 +2377,10 @@
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/613d28b1-4496-4c8d-a5ea-48b1f01e39ab"
       (reference "CS13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
-    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/6f75ea3e-6135-44f5-9313-1aad839ab6f6"
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/92cf4db4-2dba-4763-9cd8-3c7f8aff8f24"
       (reference "J2-1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/92cf4db4-2dba-4763-9cd8-3c7f8aff8f24"
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/6f75ea3e-6135-44f5-9313-1aad839ab6f6"
       (reference "J2-2") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/21f0c995-97eb-43ed-8e0f-a133d3e4b10f"
