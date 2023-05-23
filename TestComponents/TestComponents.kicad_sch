@@ -2555,10 +2555,16 @@
       (reference "R_{PD.bias}2") (unit 1) (value "0") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/1bef5b1c-5aba-4e23-8748-ea44cb5e23bb"
-      (reference "R_{PD}1") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{PD}1") (unit 1) (value "1M") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/5ec35fb6-fbea-4c53-bc7c-52d581e3adb1"
+      (reference "R_{PD}1.1") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/941744c3-43df-4c8c-89c7-828cc479a95d"
-      (reference "R_{PD}2") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{PD}2") (unit 1) (value "1M") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/050d915f-ac57-4e84-bd9d-48abcef1bb87"
+      (reference "R_{PD}2.1") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/11a85d83-ca23-4a66-9a7a-3b010acc3da7"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN")
