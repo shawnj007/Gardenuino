@@ -1961,7 +1961,7 @@
     (uuid 21f0c995-97eb-43ed-8e0f-a133d3e4b10f)
     (property "Reference" "J3V1" (id 0) (at 127 100.33 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 127 102.87 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 126.365 106.045 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (id 2) (at 126.365 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 126.365 106.045 0)
@@ -2176,7 +2176,7 @@
     (uuid f686aee0-011d-49d4-b9f1-91a248d4901a)
     (property "Reference" "JVIN1" (id 0) (at 127 109.22 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 127 111.76 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 126.365 114.3 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (id 2) (at 126.365 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 126.365 114.3 0)
@@ -2378,13 +2378,13 @@
       (reference "CS13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/92cf4db4-2dba-4763-9cd8-3c7f8aff8f24"
-      (reference "J2-1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J2-1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/6f75ea3e-6135-44f5-9313-1aad839ab6f6"
-      (reference "J2-2") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J2-2") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/21f0c995-97eb-43ed-8e0f-a133d3e4b10f"
-      (reference "J3V1") (unit 1) (value "Conn_01x01_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+      (reference "J3V1") (unit 1) (value "Conn_01x01_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
     )
     (path "/f1a9fb80-4cc4-410f-9616-e19c969dcab5"
       (reference "J5") (unit 1) (value "RFShield_OnePiece") (footprint "RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm")
@@ -2393,19 +2393,19 @@
       (reference "J6") (unit 1) (value "RFShield_OnePiece") (footprint "RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/815a0815-7930-45ec-8d6e-dc110f979c75"
-      (reference "JADC1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "JADC1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/7d4fcb23-c914-48df-941d-94cf5f1f85b5"
-      (reference "JAPC1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "JAPC1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/95a40d19-41c6-4680-9b37-9cb1bed1a413"
-      (reference "JAUX1") (unit 1) (value "AUX") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
+      (reference "JAUX1") (unit 1) (value "AUX") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/0df376e0-b3b8-4926-8318-ef70bcc43326"
-      (reference "JD1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "JD1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/70b53718-ed58-494c-b8a6-19eb974c07c4"
-      (reference "JGPS1") (unit 1) (value "GPS") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+      (reference "JGPS1") (unit 1) (value "GPS") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
     )
     (path "/6f675e5f-8fe6-4148-baf1-da97afc770f8"
       (reference "JP11") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm")
@@ -2435,10 +2435,10 @@
       (reference "JPD6") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/24cb67fc-f0c9-4f6e-88c1-7636ab854c5e"
-      (reference "JUT1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "JUT1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/f686aee0-011d-49d4-b9f1-91a248d4901a"
-      (reference "JVIN1") (unit 1) (value "Conn_01x01_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+      (reference "JVIN1") (unit 1) (value "Conn_01x01_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/35afb089-9fdf-4674-9ec7-76a0c05da5b2"
       (reference "PD1") (unit 1) (value "S1336-18BK") (footprint "Gardenuino Custom:S1336")
@@ -2546,7 +2546,10 @@
       (reference "RS8") (unit 1) (value "330") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/81975237-87d0-4ccf-948f-3491e3cf30f9"
-      (reference "RV1") (unit 1) (value "10K") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "RV1") (unit 1) (value "10K") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal")
+    )
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/25915a5f-4800-4383-a1d4-70417d5200b6"
+      (reference "R_{C}1") (unit 1) (value "500") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/d890e3ce-0d5d-49bd-a448-e1b7e92c15f8"
       (reference "R_{PD.bias}1") (unit 1) (value "0") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -2569,11 +2572,17 @@
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/11a85d83-ca23-4a66-9a7a-3b010acc3da7"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN")
     )
-    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/7c9345d3-5ddc-475b-b1b4-0007c3029eac"
-      (reference "SW2") (unit 1) (value "SW_SP3T") (footprint "Button_Switch_SMD:SW_SP3T_PCM13")
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/2f3c1326-d3aa-454b-a6fd-3e9f6ecf7423"
+      (reference "SW2") (unit 1) (value "SW_DP3T") (footprint "Gardenuino Custom:SW_DP3T_CK_JS203011JAQN")
     )
-    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/1175f0f4-71a1-40e9-8071-75f5dbc0b5f1"
-      (reference "SW3") (unit 1) (value "SW_SP3T") (footprint "Button_Switch_SMD:SW_SP3T_PCM13")
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/b6c14fc4-0ee3-4260-a55d-aa7b944a260e"
+      (reference "SW2") (unit 2) (value "SW_DP3T") (footprint "Gardenuino Custom:SW_DP3T_CK_JS203011JAQN")
+    )
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/b9465500-820c-4a81-b13b-d156e8995357"
+      (reference "SW3") (unit 1) (value "SW_DPDT") (footprint "Gardenuino Custom:SW_DPDT_CK_JS202011JAQN")
+    )
+    (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/b37bacae-9217-4ba2-884a-61ed1df647ae"
+      (reference "SW3") (unit 2) (value "SW_DPDT") (footprint "Gardenuino Custom:SW_DPDT_CK_JS202011JAQN")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/50a66564-4ba6-42ac-a9d9-7efe41dfbb5a"
       (reference "TP5v0-1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
