@@ -2401,6 +2401,9 @@
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/95a40d19-41c6-4680-9b37-9cb1bed1a413"
       (reference "JAUX1") (unit 1) (value "AUX") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical")
     )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/bf74c99b-6291-4cef-a3b3-a7e4ae401405"
+      (reference "JAUX2") (unit 1) (value "AUX") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical")
+    )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/0df376e0-b3b8-4926-8318-ef70bcc43326"
       (reference "JD1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
@@ -2570,7 +2573,7 @@
       (reference "R_{PD}2.1") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/11a85d83-ca23-4a66-9a7a-3b010acc3da7"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN")
+      (reference "SW1") (unit 1) (value "SW_DPDT") (footprint "Gardenuino Custom:SW_DPDT_CK_JS202011JAQN")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/2f3c1326-d3aa-454b-a6fd-3e9f6ecf7423"
       (reference "SW2") (unit 1) (value "SW_DP3T") (footprint "Gardenuino Custom:SW_DP3T_CK_JS203011JAQN")
