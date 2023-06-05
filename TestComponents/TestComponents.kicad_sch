@@ -2257,6 +2257,12 @@
   )
 
   (symbol_instances
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/6518b2c8-2d0c-4d34-a0bc-2759b84d0200"
+      (reference "B1") (unit 1) (value "Conn_02x20_Top_Bottom") (footprint "Gardenuino Custom:PinHeader_CornerB1")
+    )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/5d628b74-e4cb-4589-a4c2-0a35278908b3"
+      (reference "B2") (unit 1) (value "Conn_02x20_Top_Bottom") (footprint "Gardenuino Custom:PinHeader_CornerB2")
+    )
     (path "/45e963d4-c964-476f-a306-2109d40fe957"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
