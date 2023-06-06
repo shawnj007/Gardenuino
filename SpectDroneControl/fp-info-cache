@@ -1,4 +1,172 @@
-20152405174115113
+20202729627895260
+Arduino
+Arduino_101_Shield
+https://docs.arduino.cc/retired/boards/arduino-101-619
+
+0
+38
+38
+Arduino
+Arduino_Due_Shield
+https://docs.arduino.cc/hardware/due
+
+0
+92
+91
+Arduino
+Arduino_Leonardo_Shield
+https://docs.arduino.cc/hardware/leonardo
+
+0
+38
+37
+Arduino
+Arduino_M0_Pro_Shield
+https://docs.arduino.cc/retired/boards/arduino-m0-pro
+
+0
+38
+37
+Arduino
+Arduino_MKR_1000_WiFi_Socket
+https://docs.arduino.cc/hardware/mkr-1000-wifi
+
+0
+28
+28
+Arduino
+Arduino_MKR_FOX_1200_Socket
+https://docs.arduino.cc/hardware/mkr-fox-1200
+
+0
+28
+28
+Arduino
+Arduino_MKR_Vidor_4000_Socket
+https://docs.arduino.cc/hardware/mkr-vidor-4000
+
+0
+28
+28
+Arduino
+Arduino_MKR_WiFi_1010_Socket
+https://docs.arduino.cc/hardware/mkr-wifi-1010
+
+0
+28
+28
+Arduino
+Arduino_MKR_Zero_Socket
+https://docs.arduino.cc/hardware/mkr-zero
+
+0
+28
+28
+Arduino
+Arduino_Mega2560_Shield
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+92
+91
+Arduino
+Arduino_Micro_Socket
+https://docs.arduino.cc/hardware/micro
+
+0
+34
+32
+Arduino
+Arduino_Mini_Socket
+https://docs.arduino.cc/retired/boards/arduino-mini-05
+
+0
+35
+35
+Arduino
+Arduino_Mini_Socket_NoSPH
+https://docs.arduino.cc/retired/boards/arduino-mini-05
+
+0
+30
+30
+Arduino
+Arduino_Nano_33_IoT_Socket
+https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+Arduino
+Arduino_Nano_33_IoT_Tile
+https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+Arduino
+Arduino_Nano_Every_Socket
+https://docs.arduino.cc/hardware/nano-every
+
+0
+30
+30
+Arduino
+Arduino_Nano_Every_Tile
+https://docs.arduino.cc/hardware/nano-every
+
+0
+30
+30
+Arduino
+Arduino_Nano_Socket
+https://docs.arduino.cc/hardware/nano
+
+0
+30
+30
+Arduino
+Arduino_Pro_Mini_Socket
+https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
+0
+34
+34
+Arduino
+Arduino_Pro_Mini_Socket_NoSPH
+https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
+0
+28
+28
+Arduino
+Arduino_Uno_Shield
+https://docs.arduino.cc/hardware/uno-rev3
+
+0
+38
+37
+Arduino
+Arduino_Zero_Shield
+https://docs.arduino.cc/hardware/zero
+
+0
+38
+38
+Arduino
+Pro_Mini_Clone_Socket
+https://www.addicore.com/Pro-Mini-p/ad249.htm
+
+0
+35
+35
+Arduino
+Pro_Mini_Clone_Socket_NoSPH
+https://www.addicore.com/Pro-Mini-p/ad249.htm
+
+0
+29
+29
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52969,6 +53137,20 @@ Through hole pin header THT 2x04 2.54mm double row
 37
 37
 Gardenuino Custom
+PinHeader_CornerB1
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+200
+200
+Gardenuino Custom
+PinHeader_CornerB2
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+195
+195
+Gardenuino Custom
 PinSocket_2x04_P2.54mm_Vertical_renumber
 Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x04 2.54mm double row
@@ -52989,6 +53171,27 @@ TO-18-4_Lens Lens
 0
 2
 2
+Gardenuino Custom
+SW_DP3T_CK_JS203011JAQN
+Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
+switch DPDT SMT
+0
+8
+8
+Gardenuino Custom
+SW_DPDT_CK_JS202011JAQN
+Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
+switch DPDT SMT
+0
+6
+6
+Gardenuino Custom
+SW_DPDT_CK_JS202011JCQN
+Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
+switch DPDT SMT
+0
+6
+6
 Gardenuino Custom
 SolderJumper-4_P1.3mm_Bridged2Bar12_RoundedPad
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
@@ -77990,6 +78193,13 @@ Resistor_THT
 R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical
 Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+Resistor_THT
+R_Axial_DIN0204_L3.6mm_D1.6mm_P3.30mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
 0
 2
 2

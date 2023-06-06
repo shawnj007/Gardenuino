@@ -573,7 +573,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "SpectDrone.step",
+      "step": "../SpectDrone.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

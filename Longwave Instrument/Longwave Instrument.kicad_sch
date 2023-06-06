@@ -2323,7 +2323,7 @@
     (property "Value" "10K" (id 1) (at 257.175 41.275 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" (id 2) (at 254.635 43.815 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal" (id 2) (at 254.635 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 254.635 43.815 0)
