@@ -1,4 +1,4 @@
-20160829845273984
+20160838948313897
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52980,8 +52980,8 @@ PinHeader_CornerB2
 Through hole straight pin header, 2x04, 2.54mm pitch, double rows
 Through hole pin header THT 2x04 2.54mm double row
 0
-195
-195
+204
+204
 Gardenuino Custom
 PinSocket_2x04_P2.54mm_Vertical_renumber
 Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated

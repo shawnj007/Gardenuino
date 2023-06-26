@@ -2407,9 +2407,6 @@
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/95a40d19-41c6-4680-9b37-9cb1bed1a413"
       (reference "JAUX1") (unit 1) (value "AUX") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
     )
-    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/bf74c99b-6291-4cef-a3b3-a7e4ae401405"
-      (reference "JAUX2") (unit 1) (value "AUX") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical")
-    )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/0df376e0-b3b8-4926-8318-ef70bcc43326"
       (reference "JD1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
@@ -2593,14 +2590,17 @@
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/b37bacae-9217-4ba2-884a-61ed1df647ae"
       (reference "SW3") (unit 2) (value "SW_DPDT") (footprint "Gardenuino Custom:SW_DPDT_CK_JS202011JAQN")
     )
-    (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/50a66564-4ba6-42ac-a9d9-7efe41dfbb5a"
-      (reference "TP5v0-1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
+    (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/c2ed08f1-320a-467e-a34c-84c341ab399b"
+      (reference "TPGND-1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/ade51b1a-cf59-4641-a362-c8895a668f2b"
-      (reference "TPv1-1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
+      (reference "TPV1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/db3a1cb3-4a02-436e-8d3d-b8e2b30f53f8"
-      (reference "TPv1-2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
+      (reference "TPV3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
+    )
+    (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/50a66564-4ba6-42ac-a9d9-7efe41dfbb5a"
+      (reference "TPV5") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
     )
     (path "/9dcdc92b-2219-4a4a-8954-45f02cc3ab25"
       (reference "U1") (unit 1) (value "AD7991") (footprint "Package_TO_SOT_SMD:SOT-23-8")

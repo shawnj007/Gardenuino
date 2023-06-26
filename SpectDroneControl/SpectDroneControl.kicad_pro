@@ -435,7 +435,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../SpectDroneControl.step",
+      "step": "../../SpectDroneControl.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
