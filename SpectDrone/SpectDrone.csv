@@ -1,56 +1,91 @@
-Id,Designator,Package,Quantity,Designation,Supplier and ref,,,,
-1,"RS8,RS7,RS6,RS3,R3",C_0805_2012Metric,5,330,,Digikey,25,P20537CT-ND,5
-53,"R4,R5",C_0805_2012Metric,2,402,,Digikey,25,P20973CT-ND,12.5
-52,"RS1,RS4",C_0805_2012Metric,2,833,,Digikey,10,,5
-27,"C9,CS5,C5,C8,CS10,C3,C7,C10",C_0805_2012Metric,8,0.1uF,,Digikey,50,399-C0805C104K3RAC7800CT-ND,6.25
-38,"C11,C12,C1",C_0603_1608Metric,3,0.1uF,,Digikey,50,399-C0805C104K3RAC7800CT-ND,16.6666666666667
-18,"CS8,CS7,CS2,CS3",C_0805_2012Metric,4,1.11pF,,Digikey,10,712-QSCT251Q1R1A1GV001ECT-ND,2.5
-29,"R2,R1",C_0805_2012Metric,2,100K,,Digikey,25,P20822CT-ND,12.5
-16,"RV2,RV1",Potentiometer_Bourns_3296W_Vertical,2,10K,,Digikey,10,3296W-103LF-ND,5
-32,RSW1,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,10K,,Digikey,10,BC3239CT-ND,10
-24,"CS4,CS9,C6,C4",C_0805_2012Metric,4,10uF,,Digikey,50,399-11939-1-ND,12.5
-46,C2,C_0603_1608Metric,1,10uF,,Digikey,15,399-11939-1-ND,15
-23,"CS6,CS1",C_0805_2012Metric,2,11.1pF,,Digikey,10,490-GRM0335C1H110GA01DCT-ND,5
-34,"RS5,RS2",C_0805_2012Metric,2,12K4,,Digikey,25,P20718CT-ND,12.5
-17,R7,C_0402_1005Metric,1,200K,,Digikey,10,2019-SG73P1EWTTP2003FCT-ND,10
-26,R6,C_0805_2012Metric,1,200K,,Digikey,25,ERJ-PB6B2003V,25
-20,"R11,R8",C_0402_1005Metric,2,2K2,,Digikey,25,P20630CT-ND,12.5
-30,"R10,R9",C_0805_2012Metric,2,470K,,Digikey,25,P21323CT-ND,12.5
-49,U12,SOT-23-8,1,AD799x,,Digikey,4,,4
-19,"US2,US1",MSOP-8_3x3mm_P0.65mm,2,AD8221,,Digikey,4,AD8221ARMZ-R7CT-ND,2
-45,"U9,U8",SOT-23,2,ADR510,,Digikey,10,505-ADR510ARTZ-REEL7CT-ND,5
-40,JALT1,JST_EH_S7B-EH_1x07_P2.50mm_Horizontal,1,ALTITUDE,,Digikey,10,23-0022057075-ND,10
-25,"JAPC-1,JAPC-2",PinSocket_1x07_P2.54mm_Vertical,2,APC220,,Amazon,4,,2
-5,JAUX1,PinHeader_1x12_P2.54mm_Vertical,1,AUX,,Amazon,,,0
-41,J3,BarrelJack_Horizontal,1,Barrel_Jack,,Digikey,10,2073-DCJ200-10-A-K1-K-ND,10
-11,BT1,BatteryHolder_Keystone_103_1x20mm,1,Battery_Cell,,Digikey,10,2057-BH-98-1-ND,10
-36,J4,PinSocket_1x07_P2.54mm_Vertical,1,BME280,,Amazon,,,0
-21,J5-1,PinSocket_1x06_P2.54mm_Vertical,1,BNO055-1,,Amazon,,,0
-50,J5-2,PinSocket_1x04_P2.54mm_Vertical,1,BNO055-2,,Amazon,,,0
-2,"U2,U1",Hamamatsu_C12666MA,2,C12666MA,,In Hand,2,,1
-31,"JCAM2,JCAM1",JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,2,Camera,,Digikey,10,455-2249-ND,5
-3,"JVIN1,J3V3",PinHeader_1x01_P2.54mm_Vertical,2,Conn_01x01_Male,,Amazon,,,0
-48,"JBAT2,JBAT1",Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal,2,Conn_01x02_Female,,In Hand,,,0
-6,"JAPC1,JUT1,JA1,JD1,JI2C3v-1,JI2C1",PinHeader_1x04_P2.54mm_Vertical,6,Conn_01x04_Male,,Amazon,,,0
-4,"JAC1,JAC2",ArduCam2MP,2,Conn_01x08_Female,,Amazon,4,,2
-28,"D1,D2",D_T-1_P5.08mm_Horizontal,2,D,,,,,0
-44,JDIS2,PinSocket_1x11_P2.54mm_Vertical,1,Display,,Amazon,,,0
-55,JDIS1,PinSocket_1x08_P2.54mm_Vertical,1,Display,,Amazon,,,0
-39,"Q1,Q2",SOT-23,2,FDN340P,,Mouser,10,,5
-54,D3,D_T-1_P5.08mm_Horizontal,1,Ge,,Digikey,20,PMEG120G20ELRX,20
-8,JGPS1,PinHeader_1x05_P2.54mm_Vertical,1,GPS,,Amazon,,,0
-47,J2,JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,1,GPS,,In Hand,10,,10
-51,JGPS2,PinSocket_1x05_P2.54mm_Vertical,1,GPS,,Amazon,,,0
-42,JIR1,PinHeader_1x04_P2.54mm_Horizontal,1,Infrared,,Amazon,,,0
-22,"U3,U6",TO-220-3_Vertical,2,LM7805_TO220,,In Hand,,,0
-13,"U4,U5",SOT-89-3,2,MCP112-450E/TO,,Digikey,12,MCP112T-450E/MBCT-ND,6
-15,U11,VSSOP-8_2.3x2mm_P0.5mm,1,PCA9306DC,,Digikey,3,296-17988-1-ND,3
-43,U10,SSOP-8_2.95x2.8mm_P0.65mm,1,PCA9306DC,,Digikey,10,296-17988-1-ND,10
-9,"PD1,PD2",S1336,2,S1336-18BK,,In Hand,3,,1.5
-33,JPV1,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,1,SolderJumper_2_Bridged,,PCB,,,0
-37,JPV2,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,SolderJumper_2_Open,,PCB,,,0
-7,"JP2,JP1",SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm,2,SolderJumper_3_Bridged12,,PCB,,,0
-14,"SW5,SW0,SW2,SW9,SW7,SW1,SW8,SW10,SW6,SW3,SW4",SW_PUSH_6mm_H4.3mm,11,SW_Push,,Digikey,50,679-2428-ND,4.54545454545455
-35,U7,Teensy30_31_32_LC,1,Teensy4.0,,Adafruit,2,,2
-12,"TP4,TP1,TP2,TP3,TPv1-1,TPv1-2,TP5",TestPoint_Keystone_5000-5004_Miniature,7,TestPoint,,PCB,,,0
-10,"UT2,UT1",TO-92_Eline,2,TSIC506F-TO92,,Digikey,6,2952-TSIC506FTO92-ND,3
+"Source:","/home/sjaker/gits/Gardenuino/SpectDrone/SpectDrone.kicad_sch"
+"Date:","Tue 27 Jun 2023 01:06:22 PM MDT"
+"Tool:","Eeschema 6.0.2+dfsg-1"
+"Generator:","/home/sjaker/gits/Gardenuino/bom_csv_grouped_by_value_with_fp_and_pn.py"
+"Component Count:","150"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Part Number","Vendor"
+"BT1, ","1","Battery_Cell","Battery_Cell","Battery:BatteryHolder_Keystone_3000_1x12mm","Single-cell battery","3000",""
+"C1, C11, C12, C14, C27, ","5","0.1uF","C","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor","CL05A104KA5NNNC",""
+"C2, C4, C6, ","3","10uF","C_Polarized_Small_US","Capacitor_SMD:CP_Elec_3x5.4","Polarized capacitor, small US symbol","865090368008",""
+"C3, C5, C7, C8, C9, C10, ","6","0.1uF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol","CL21B104KACNNNC",""
+"C13, ","1","10uF","C_Polarized_Small_US","Capacitor_SMD:C_0805_2012Metric","Polarized capacitor, small US symbol","CL21A106KACLRNC",""
+"C15, ","1","2.5pF","C_Small","Capacitor_SMD:C_0402_1005Metric","Unpolarized capacitor, small symbol","CL05C2R5CB5NNNC",""
+"C16, ","1","X","C_Polarized_US","Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P","Polarized capacitor, US symbol","",""
+"C17, ","1","X","C","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor","",""
+"C18, C19, C20, C21, C22, C23, C24, C25, ","8","X","C","Capacitor_SMD:C_0402_1005Metric","Unpolarized capacitor","",""
+"C26, ","1","1pF","C","Capacitor_SMD:C_0402_1005Metric","Unpolarized capacitor","CL05C010CB5NNNC",""
+"CAN1, ","1","Conn_01x02_Male","Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"CS1, CS6, ","2","11.1pF","C_Small","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor, small symbol","CL10C110JB8NNNC",""
+"CS2, CS3, CS7, CS8, ","4","1.11pF","C_Small","Capacitor_SMD:C_0402_1005Metric","Unpolarized capacitor, small symbol","CL05C010CB5NNNC",""
+"CS4, CS9, ","2","10uF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol","CL21A106KACLRNC",""
+"CS5, CS10, ","2","0.1uF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol","CL21B104KACNNNC",""
+"D1, D2, ","2","D","D","Diode_SMD:Nexperia_CFP3_SOD-123W","Diode","PMEG10010ELRX",""
+"D3, ","1","Ge","D","Diode_SMD:Nexperia_CFP3_SOD-123W","Diode","PMEG120G10ELRX",""
+"J1-1, J1-2, J1-3, ","3","Conn_02x03_Counter_Clockwise","Conn_02x04_Counter_Clockwise","Gardenuino Custom:PinSocket_2x04_P2.54mm_Vertical_renumber","Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)","RS2-08-G",""
+"J1-3-1, J1-3-2, ","2","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"J3, ","1","Barrel_Jack","Barrel_Jack_Switch","Connector_BarrelJack:BarrelJack_Horizontal","DC Barrel Jack with an internal switch","",""
+"J3V0-1, ","1","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"J3V1-1, ","1","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"J3V3, ","1","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"J4, ","1","BME280","Conn_01x07_Female","Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical","Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-07-G",""
+"J5, ","1","RFShield_OnePiece","RFShield_OnePiece","RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm","One-piece EMI RF shielding cabinet","",""
+"J5-1, ","1","BNO055-1","Conn_01x06_Female","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-06-G",""
+"J5-2, ","1","BNO055-2","Conn_01x04_Female","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-04-G",""
+"J5V3-1, J5V3-2, ","2","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"J8, ","1","QWICK","Conn_01x04","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","SM04B-SRSS-TB(LF)(SN)",""
+"JA1, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"JALT1, ","1","ALTITUDE","Conn_01x07_Male","Connector_JST:JST_EH_S7B-EH_1x07_P2.50mm_Horizontal","Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"JALT2, ","1","ALTITUDE","Conn_01x07_Male","Connector_JST:JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal","Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)","SM07B-GHS-TB(LF)(SN)",""
+"JAPC1, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"JAPC-1, JAPC-2, ","2","APC220","Conn_01x07_Female","Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical","Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-07-G",""
+"JAUX1, ","1","AUX","Conn_01x12_Male","Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical","Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-12-UA",""
+"JBAT1, JBAT2, ","2","Conn_01x02_Female","Conn_01x02_Female","Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal","Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"JCAM1, JCAM2, ","2","Camera","Conn_01x04_Male","Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","B4B-XH-A(LF)(SN)",""
+"JD1, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"JDIS1, ","1","Display","Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical","Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-08-G",""
+"JDIS2, ","1","Display","Conn_01x11_Female","Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Vertical","Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-11-G",""
+"JGND1-1, JGND1-2, ","2","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"JGPS1, ","1","GPS","Conn_01x05_Male","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-05-UA",""
+"JGPS2, ","1","GPS","Conn_01x05_Female","Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical","Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)","RS1-05G",""
+"JGPS3, ","1","GPS","Conn_01x06_Male","Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical","Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)","B6B-XH-A(LF)(SN)",""
+"JI2C1, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"JI2C3v-1, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"JIF1, ","1","Payload","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"JIF2, ","1","Base","Conn_01x04_Female","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"JIR1, ","1","Infrared","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1RB-04-UA",""
+"JUT1, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-04-UA",""
+"JVIN1, ","1","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"JVIN1-1, ","1","Conn_01x01_Male","Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","PH1-01-UA",""
+"Q1, Q2, ","2","FDN340P","FDN340P","Package_TO_SOT_SMD:SOT-23","2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23","",""
+"R1, R2, ","2","100K","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R3, ","1","330","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R4, ","1","402","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R5, ","1","174","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R6, R12, ","2","200K","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R7, ","1","200K","R","Resistor_SMD:R_0402_1005Metric","Resistor","",""
+"R8, R11, ","2","2K2","R","Resistor_SMD:R_0402_1005Metric","Resistor","",""
+"R9, ","1","470K","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R10, R15, ","2","X","R","Resistor_SMD:R_0603_1608Metric","Resistor","",""
+"R13, ","1","2K","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R14, ","1","0","R","Resistor_SMD:R_0603_1608Metric","Resistor","",""
+"R16, R18, R20, R22, ","4","0","R","Resistor_SMD:R_0402_1005Metric","Resistor","",""
+"R17, R19, R21, R23, ","4","X","R","Resistor_SMD:R_0402_1005Metric","Resistor","",""
+"R_{PD.bias}1, R_{PD.bias}2, ","2","0","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"R_{PD}1, R_{PD}2, ","2","X","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"RS2, RS5, ","2","R_{G}","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"RS3, RS6, RS7, RS8, ","4","330","R","Resistor_SMD:R_0805_2012Metric","Resistor","",""
+"RSW1, ","1","10K","R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","Resistor","",""
+"RV1, ","1","10K","R_Potentiometer","Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal","Potentiometer","",""
+"SW0, SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, ","11","SW_Push","SW_Push","Button_Switch_THT:SW_PUSH_6mm_H4.3mm","Push button switch, generic, two pins","",""
+"U1, U2, ","2","C12666MA","C12666MA","Gardenuino Custom:Hamamatsu_C12666MA","Micro spectrometer 340 to 850nm resolution 15nm","",""
+"U3, U5, ","2","MCP112-450E/TO","MCP120-xxxDxTO","Package_TO_SOT_SMD:SOT-89-3","Microcontroller supervisory circuit, TO-92","",""
+"U4, U6, ","2","LM7805_SOT223","LM7805_TO220","Package_TO_SOT_SMD:SOT-223-3_TabPin2","Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220","",""
+"U8, ","1","ADR510","ADR510_1","Package_TO_SOT_SMD:SOT-23","Shunt Regulator, SOT-23","",""
+"U9, ","1","LM4040B","ADR510","Package_TO_SOT_SMD:SOT-23","Shunt Regulator, SOT-23","",""
+"U10, ","1","TXS0102DCUR","TXS0102DCT","Package_SO:SSOP-8_2.95x2.8mm_P0.65mm","2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8","",""
+"U11, ","1","PCA9306DC","PCA9306DC","Package_SO:VSSOP-8_2.3x2mm_P0.5mm","Dual bidirectional I2C Bus and SMBus voltage level translator, VSSOP-8","",""
+"U12, ","1","AD7991","AD799x","Package_TO_SOT_SMD:SOT-23-8","","",""
+"U13, ","1","X","ADR510","Package_TO_SOT_SMD:SOT-23","Shunt Regulator, SOT-23","",""
+"U14, ","1","MCP3422A0","MCP3422","Package_SO:MSOP-8_3x3mm_P0.65mm","2-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference","",""
+"US1, US2, ","2","AD8221","AD8236","Package_SO:MSOP-8_3x3mm_P0.65mm","Single 40 μA Micropower Instrumentation Amplifier with Zero Crossover Distortion, MSOP-8","",""
+"UT1, UT2, ","2","TSIC506F-TO92","TSIC506F-TO92","Gardenuino Custom:TO-92_Eline","Digital temperature sensor, range -50 ... +150 °C, 0.3 K accuracy, TO-92","",""
