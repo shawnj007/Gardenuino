@@ -1,0 +1,35 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Part Number,Vendor
+"BT1, ",1,Battery_Cell,Battery_Cell,Battery:BatteryHolder_Keystone_3000_1x12mm,Single-cell battery,3000,Keystone Electronics
+"C2-1, ",1,10uF,C_Polarized_Small_US,Capacitor_SMD:CP_Elec_3x5.4,"Polarized capacitor, small US symbol",865090368008,Würth Elektronik
+"C2-2, ",1,0.1uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol",CL21B104KACNNNC,Samsung Electro-Mechanics
+"C3, C4, C5, C6, ",4,0.1uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol",CL21B104KACNNNC,Samsung Electro-Mechanics
+"C7-1, C7-2, ",2,0.1uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol",CL21B104KACNNNC,Samsung Electro-Mechanics
+"D1, ",1,D,D,Diode_SMD:Nexperia_CFP3_SOD-123W,Diode,PMEG10010ELRX,Nexperia USA Inc.
+"D2, ",1,HPZR-C7V0X,D,Diode_SMD:D_SOD-123F,Diode,HPZR-C7V0X,Nexperia USA Inc.
+"J1, ",1,Conn_02x03_Counter_Clockwise,Conn_02x04_Counter_Clockwise,Gardenuino Custom:PinSocket_2x04_P2.54mm_Vertical_renumber,"Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",RS2-08-G,Adam Tech
+"J2-1, J2-2, ",2,Conn_01x04_Female,Conn_01x04_Female,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",PH1-04-UA,Adam Tech
+"J3V1, ",1,Conn_01x01_Female,Conn_01x01_Female,Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",SSW-101-01-G-S,Samtec Inc.
+"JADC1, ",1,Conn_01x04_Female,Conn_01x04_Female,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",PH1-04-UA,Adam Tech
+"JAPC1, ",1,Conn_01x04_Female,Conn_01x04_Female,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",PH1-04-UA,Adam Tech
+"JAUX1, ",1,AUX,Conn_01x12_Female,Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",RS1-12-G,Adam Tech
+"JBAT1, ",1,Conn_01x02_Female,Conn_01x02_Female,Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+"JD1, ",1,Conn_01x04_Female,Conn_01x04_Female,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",PH1-04-UA,Adam Tech
+"JDC1, ",1,Barrel_Jack,Barrel_Jack_Switch,Connector_BarrelJack:BarrelJack_Horizontal,DC Barrel Jack with an internal switch,,
+"JGPS1, ",1,GPS,Conn_01x05_Female,Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",PH1-05-UA,Adam Tech
+"JUT1, ",1,Conn_01x04_Female,Conn_01x04_Female,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",PH1-04-UA,Adam Tech
+"JVIN1, ",1,Conn_01x01_Female,Conn_01x01_Female,Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",SSW-101-01-G-S,Samtec Inc.
+"Q1, ",1,FDN340P,FDN340P,Package_TO_SOT_SMD:SOT-23,"2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23",FDN340P,UMW
+"Q2, ",1,NPN 50V 1A NPN_BEC,Q_NPN_EBC,Package_TO_SOT_SMD:SOT-323_SC-70,"NPN transistor, emitter/base/collector",ZUMT618,Diodes Incorporated
+"R1, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64, R65, R66, R67, ",31,10K,R,Resistor_SMD:R_0805_2012Metric,Resistor,ERJ-6ENF1002V,Panasonic Electronic Components
+"R2, ",1,1K,R,Resistor_SMD:R_0805_2012Metric,Resistor,ERJ-6ENF1001V,Panasonic Electronic Components
+"R3, ",1,100K,R,Resistor_SMD:R_0805_2012Metric,Resistor,ERJ-6ENF1003V,Panasonic Electronic Components
+"R4, R5, R6, R68, ",4,200K,R,Resistor_SMD:R_0805_2012Metric,Resistor,ERJ-6ENF2003V,Panasonic Electronic Components
+"R7-1, R7-2, ",2,200K,R,Resistor_SMD:R_0805_2012Metric,Resistor,ERJ-6ENF2003V,Panasonic Electronic Components
+"R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, ",30,6K8,R,Resistor_SMD:R_0805_2012Metric,Resistor,ERJ-6ENF6801V,Panasonic Electronic Components
+"SW1, ",1,SW_SPDT,SW_SPDT,Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN,"Switch, single pole double throw",JS102011SAQN,C&K
+"U1, ",1,Teensy4.1,Teensy4.1,Gardenuino Custom:Teensy4.0-1,,,
+"U1-2, ",1,Teensy4.0,Teensy3.2,Teensy:Teensy40,,,
+"U2, ",1,LM7805_SOT223,LM7805_TO220,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220",LM7805_SOT223,Texas Instruments
+"U3, ",1,MCP112-450E/TO,MCP120-xxxDxTO,Package_TO_SOT_SMD:SOT-89-3,"Microcontroller supervisory circuit, TO-92",MCP112T-450E/MB,Microchip Technology
+"U4, U5, U6, ",3,NVT2010PW,TXS0108EPW,Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm,"Bidirectional  level-shifting voltage translator, TSSOP-20",NVT2010PW,NXP USA Inc.
+"U7, ",1,TXS0102DCUR,TXS0102DCT,Package_SO:SSOP-8_2.95x2.8mm_P0.65mm,"2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8",TXS0102DCUR,Texas Instruments

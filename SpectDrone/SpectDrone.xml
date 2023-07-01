@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/sjaker/gits/Gardenuino/SpectDrone/SpectDrone.kicad_sch</source>
-    <date>Tue 27 Jun 2023 01:06:22 PM MDT</date>
+    <date>Wed 28 Jun 2023 01:43:31 PM MDT</date>
     <tool>Eeschema 6.0.2+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -889,7 +889,11 @@
       <value>FDN340P</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF</datasheet>
+      <fields>
+        <field name="Part Number">FDN340P</field>
+      </fields>
       <libsource lib="Transistor_FET" part="FDN340P" description="2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23"/>
+      <property name="Part Number" value="FDN340P"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -899,7 +903,11 @@
       <value>FDN340P</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF</datasheet>
+      <fields>
+        <field name="Part Number">FDN340P</field>
+      </fields>
       <libsource lib="Transistor_FET" part="FDN340P" description="2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23"/>
+      <property name="Part Number" value="FDN340P"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -908,7 +916,11 @@
     <comp ref="R1">
       <value>100K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6ENF1003V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6ENF1003V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -917,7 +929,11 @@
     <comp ref="R2">
       <value>100K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6ENF1003V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6ENF1003V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -926,7 +942,11 @@
     <comp ref="R3">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-U6RD3300V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-U6RD3300V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -935,7 +955,11 @@
     <comp ref="R6">
       <value>200K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERA-6AED204V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERA-6AED204V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -943,8 +967,12 @@
     </comp>
     <comp ref="R7">
       <value>200K</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERA-6AED204V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERA-6AED204V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -952,8 +980,12 @@
     </comp>
     <comp ref="R8">
       <value>2K2</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERA-6AEB222V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERA-6AEB222V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -961,8 +993,12 @@
     </comp>
     <comp ref="R11">
       <value>2K2</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERA-6AEB222V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERA-6AEB222V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -971,7 +1007,11 @@
     <comp ref="R12">
       <value>200K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERA-6AED204V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERA-6AED204V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -980,7 +1020,11 @@
     <comp ref="R13">
       <value>2K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6ENF2001V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6ENF2001V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -988,8 +1032,12 @@
     </comp>
     <comp ref="RSW1">
       <value>10K</value>
-      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6ENF1002V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6ENF1002V"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1118,7 +1166,11 @@
       <value>MCP112-450E/TO</value>
       <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
       <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/20001889F.pdf</datasheet>
+      <fields>
+        <field name="Part Number">MCP112-450E/TO</field>
+      </fields>
       <libsource lib="Power_Supervisor" part="MCP120-xxxDxTO" description="Microcontroller supervisory circuit, TO-92"/>
+      <property name="Part Number" value="MCP112-450E/TO"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1128,7 +1180,11 @@
       <value>LM7805_SOT223</value>
       <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
       <datasheet>file:///home/proton/Downloads/lm340.pdf</datasheet>
+      <fields>
+        <field name="Part Number">LM7805MP/NOPB</field>
+      </fields>
       <libsource lib="Regulator_Linear" part="LM7805_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <property name="Part Number" value="LM7805MP/NOPB"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1138,7 +1194,11 @@
       <value>MCP112-450E/TO</value>
       <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
       <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/20001889F.pdf</datasheet>
+      <fields>
+        <field name="Part Number">MCP112-450E/TO</field>
+      </fields>
       <libsource lib="Power_Supervisor" part="MCP120-xxxDxTO" description="Microcontroller supervisory circuit, TO-92"/>
+      <property name="Part Number" value="MCP112-450E/TO"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1148,7 +1208,11 @@
       <value>LM7805_SOT223</value>
       <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
       <datasheet>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</datasheet>
+      <fields>
+        <field name="Part Number">LM7805MP/NOPB</field>
+      </fields>
       <libsource lib="Regulator_Linear" part="LM7805_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <property name="Part Number" value="LM7805MP/NOPB"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1158,7 +1222,11 @@
       <value>TXS0102DCUR</value>
       <footprint>Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</footprint>
       <datasheet>http://www.ti.com/lit/gpn/txs0102</datasheet>
+      <fields>
+        <field name="Part Number">TXS0102DCUR</field>
+      </fields>
       <libsource lib="Logic_LevelTranslator" part="TXS0102DCT" description="2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8"/>
+      <property name="Part Number" value="TXS0102DCUR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1168,7 +1236,11 @@
       <value>PCA9306DC</value>
       <footprint>Package_SO:VSSOP-8_2.3x2mm_P0.5mm</footprint>
       <datasheet>https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf</datasheet>
+      <fields>
+        <field name="Part Number">PCA9306DCUR</field>
+      </fields>
       <libsource lib="Interface" part="PCA9306DC" description="Dual bidirectional I2C Bus and SMBus voltage level translator, VSSOP-8"/>
+      <property name="Part Number" value="PCA9306DCUR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1178,27 +1250,39 @@
       <value>AD7991</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-8</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD7991_7995_7999.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AD7991YRJZ-0500RL7</field>
+      </fields>
       <libsource lib="Gardenuino_Custom" part="AD799x" description=""/>
+      <property name="Part Number" value="AD7991YRJZ-0500RL7"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d707ecf9-cfc3-4cd7-89cd-e7c6963ce546</tstamps>
     </comp>
     <comp ref="UT1">
-      <value>TSIC506F-TO92</value>
+      <value>TSIC716-TO92</value>
       <footprint>Gardenuino Custom:TO-92_Eline</footprint>
       <datasheet>https://www.ist-ag.com/sites/default/files/downloads/DTTSic50x_E.pdf</datasheet>
+      <fields>
+        <field name="Part Number">TSIC 716 TO92</field>
+      </fields>
       <libsource lib="Sensor_Temperature" part="TSIC506F-TO92" description="Digital temperature sensor, range -50 ... +150 °C, 0.3 K accuracy, TO-92"/>
+      <property name="Part Number" value="TSIC 716 TO92"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>414a7792-af21-425a-9ddb-15298459f428</tstamps>
     </comp>
     <comp ref="UT2">
-      <value>TSIC506F-TO92</value>
+      <value>TSIC716-TO92</value>
       <footprint>Gardenuino Custom:TO-92_Eline</footprint>
       <datasheet>https://www.ist-ag.com/sites/default/files/downloads/DTTSic50x_E.pdf</datasheet>
+      <fields>
+        <field name="Part Number">TSIC 716 TO92</field>
+      </fields>
       <libsource lib="Sensor_Temperature" part="TSIC506F-TO92" description="Digital temperature sensor, range -50 ... +150 °C, 0.3 K accuracy, TO-92"/>
+      <property name="Part Number" value="TSIC 716 TO92"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1208,10 +1292,10 @@
       <value>11.1pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="Part Number">CL10C110JB8NNNC</field>
+        <field name="Part Number">06035J100FBTTR</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL10C110JB8NNNC"/>
+      <property name="Part Number" value="06035J100FBTTR"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1221,10 +1305,10 @@
       <value>1.11pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Part Number">CL05C010CB5NNNC</field>
+        <field name="Part Number">04023J1R1PBSTR</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL05C010CB5NNNC"/>
+      <property name="Part Number" value="04023J1R1PBSTR"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1234,10 +1318,10 @@
       <value>1.11pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Part Number">CL05C010CB5NNNC</field>
+        <field name="Part Number">04023J1R1PBSTR</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL05C010CB5NNNC"/>
+      <property name="Part Number" value="04023J1R1PBSTR"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1273,10 +1357,10 @@
       <value>11.1pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="Part Number">CL10C110JB8NNNC</field>
+        <field name="Part Number">06035J100FBTTR</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL10C110JB8NNNC"/>
+      <property name="Part Number" value="06035J100FBTTR"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1286,10 +1370,10 @@
       <value>1.11pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Part Number">CL05C010CB5NNNC</field>
+        <field name="Part Number">04023J1R1PBSTR</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL05C010CB5NNNC"/>
+      <property name="Part Number" value="04023J1R1PBSTR"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1299,10 +1383,10 @@
       <value>1.11pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Part Number">CL05C010CB5NNNC</field>
+        <field name="Part Number">04023J1R1PBSTR</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL05C010CB5NNNC"/>
+      <property name="Part Number" value="04023J1R1PBSTR"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1337,7 +1421,11 @@
     <comp ref="R4">
       <value>402</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6ENF4020V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6ENF4020V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1346,7 +1434,11 @@
     <comp ref="R5">
       <value>174</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6ENF1740V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6ENF1740V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1355,7 +1447,11 @@
     <comp ref="R9">
       <value>470K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERA-6AEB474V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERA-6AEB474V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1371,7 +1467,7 @@
       <tstamps>a0032689-e541-4f0e-b571-7f4776bbc742</tstamps>
     </comp>
     <comp ref="RS2">
-      <value>R_{G}</value>
+      <value>R_{G}=X</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
@@ -1382,14 +1478,18 @@
     <comp ref="RS3">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-U6RD3300V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-U6RD3300V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
       <tstamps>4ba1327d-cfd3-4cf5-8277-a2b3eec8cfea</tstamps>
     </comp>
     <comp ref="RS5">
-      <value>R_{G}</value>
+      <value>R_{G}=X</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
@@ -1400,7 +1500,11 @@
     <comp ref="RS6">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-U6RD3300V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-U6RD3300V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1409,7 +1513,11 @@
     <comp ref="RS7">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-U6RD3300V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-U6RD3300V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1418,7 +1526,11 @@
     <comp ref="RS8">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-U6RD3300V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-U6RD3300V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1427,7 +1539,11 @@
     <comp ref="RV1">
       <value>10K</value>
       <footprint>Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal</footprint>
+      <fields>
+        <field name="Part Number">3296P-1-103LF</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Part Number" value="3296P-1-103LF"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1436,7 +1552,11 @@
     <comp ref="R_{PD.bias}1">
       <value>0</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6GEY0R00V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6GEY0R00V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1445,7 +1565,11 @@
     <comp ref="R_{PD.bias}2">
       <value>0</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-6GEY0R00V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-6GEY0R00V"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1473,7 +1597,11 @@
       <value>ADR510</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.cj-elec.com/txUpfile/20134181474991806.pdf</datasheet>
+      <fields>
+        <field name="Part Number">ADR510ARTZ-REEL7</field>
+      </fields>
       <libsource lib="" part="ADR510_1" description="Shunt Regulator, SOT-23"/>
+      <property name="Part Number" value="ADR510ARTZ-REEL7"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1483,7 +1611,11 @@
       <value>LM4040B</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.cj-elec.com/txUpfile/20134181474991806.pdf</datasheet>
+      <fields>
+        <field name="Part Number">LM4040B33FTA</field>
+      </fields>
       <libsource lib="Gardenuino_Custom" part="ADR510" description="Shunt Regulator, SOT-23"/>
+      <property name="Part Number" value="LM4040B33FTA"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1493,7 +1625,11 @@
       <value>X</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.cj-elec.com/txUpfile/20134181474991806.pdf</datasheet>
+      <fields>
+        <field name="Part Number">ADR5045BRTZ-REEL7</field>
+      </fields>
       <libsource lib="Gardenuino_Custom" part="ADR510" description="Shunt Regulator, SOT-23"/>
+      <property name="Part Number" value="ADR5045BRTZ-REEL7"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1503,7 +1639,11 @@
       <value>AD8221</value>
       <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AD8221ARMZ</field>
+      </fields>
       <libsource lib="Amplifier_Instrumentation" part="AD8236" description="Single 40 μA Micropower Instrumentation Amplifier with Zero Crossover Distortion, MSOP-8"/>
+      <property name="Part Number" value="AD8221ARMZ"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1513,7 +1653,11 @@
       <value>AD8221</value>
       <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AD8221ARMZ</field>
+      </fields>
       <libsource lib="Amplifier_Instrumentation" part="AD8236" description="Single 40 μA Micropower Instrumentation Amplifier with Zero Crossover Distortion, MSOP-8"/>
+      <property name="Part Number" value="AD8221ARMZ"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -1638,7 +1782,11 @@
     <comp ref="R14">
       <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-U030R00V</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-U030R00V"/>
       <property name="Sheetname" value="Band-stop"/>
       <property name="Sheetfile" value="Band-stop.kicad_sch"/>
       <sheetpath names="/Band-stop/" tstamps="/f5d0d74b-e372-4fad-a77c-6c2dfbdfa801/"/>
@@ -1656,7 +1804,11 @@
     <comp ref="R16">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-2GE0R00X</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-2GE0R00X"/>
       <property name="Sheetname" value="Band-stop"/>
       <property name="Sheetfile" value="Band-stop.kicad_sch"/>
       <sheetpath names="/Band-stop/" tstamps="/f5d0d74b-e372-4fad-a77c-6c2dfbdfa801/"/>
@@ -1674,7 +1826,11 @@
     <comp ref="R18">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-2GE0R00X</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-2GE0R00X"/>
       <property name="Sheetname" value="Band-stop"/>
       <property name="Sheetfile" value="Band-stop.kicad_sch"/>
       <sheetpath names="/Band-stop/" tstamps="/f5d0d74b-e372-4fad-a77c-6c2dfbdfa801/"/>
@@ -1692,7 +1848,11 @@
     <comp ref="R20">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-2GE0R00X</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-2GE0R00X"/>
       <property name="Sheetname" value="Band-stop"/>
       <property name="Sheetfile" value="Band-stop.kicad_sch"/>
       <sheetpath names="/Band-stop/" tstamps="/f5d0d74b-e372-4fad-a77c-6c2dfbdfa801/"/>
@@ -1710,7 +1870,11 @@
     <comp ref="R22">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Part Number">ERJ-2GE0R00X</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="ERJ-2GE0R00X"/>
       <property name="Sheetname" value="Band-stop"/>
       <property name="Sheetfile" value="Band-stop.kicad_sch"/>
       <sheetpath names="/Band-stop/" tstamps="/f5d0d74b-e372-4fad-a77c-6c2dfbdfa801/"/>
@@ -1724,17 +1888,6 @@
       <property name="Sheetfile" value="Band-stop.kicad_sch"/>
       <sheetpath names="/Band-stop/" tstamps="/f5d0d74b-e372-4fad-a77c-6c2dfbdfa801/"/>
       <tstamps>79db9f14-e4bb-4d45-8004-9f20fe2a7f5b</tstamps>
-    </comp>
-    <comp ref="U14">
-      <value>MCP3422A0</value>
-      <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
-      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
-      <libsource lib="Analog_ADC" part="MCP3422" description="2-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
-      <property name="Sheetname" value="18bADC"/>
-      <property name="Sheetfile" value="18bADC.kicad_sch"/>
-      <property name="exclude_from_board"/>
-      <sheetpath names="/18bADC/" tstamps="/fafd8878-d160-401f-a009-514363fc108e/"/>
-      <tstamps>e57f5dcd-3d96-42b8-8e35-41e755f6d487</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1829,29 +1982,6 @@
         <pin num="6" name="Ref" type="passive"/>
         <pin num="7" name="" type="output"/>
         <pin num="8" name="Vs+" type="power_in"/>
-      </pins>
-    </libpart>
-    <libpart lib="Analog_ADC" part="MCP3422">
-      <description>2-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference</description>
-      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</docs>
-      <footprints>
-        <fp>MSOP*3x3mm*P0.65mm*</fp>
-        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">U</field>
-        <field name="Value">MCP3422</field>
-        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</field>
-      </fields>
-      <pins>
-        <pin num="1" name="CH1+" type="input"/>
-        <pin num="2" name="CH1-" type="input"/>
-        <pin num="3" name="Vdd" type="power_in"/>
-        <pin num="4" name="SDA" type="bidirectional"/>
-        <pin num="5" name="SCL" type="input"/>
-        <pin num="6" name="Vss" type="power_in"/>
-        <pin num="7" name="CH2+" type="input"/>
-        <pin num="8" name="CH2-" type="input"/>
       </pins>
     </libpart>
     <libpart lib="Connector" part="Barrel_Jack_Switch">
@@ -2774,9 +2904,6 @@
     <library logical="Amplifier_Instrumentation">
       <uri>/usr/share/kicad/symbols//Amplifier_Instrumentation.kicad_sym</uri>
     </library>
-    <library logical="Analog_ADC">
-      <uri>/usr/share/kicad/symbols//Analog_ADC.kicad_sym</uri>
-    </library>
     <library logical="Connector">
       <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
     </library>
@@ -2874,293 +3001,281 @@
       <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="U6" pin="1" pinfunction="VI" pintype="power_in"/>
     </net>
-    <net code="10" name="/18bADC/5V_{RF}">
-      <node ref="U14" pin="3" pinfunction="Vdd" pintype="power_in"/>
-    </net>
-    <net code="11" name="/18bADC/GND_{RF}">
-      <node ref="U14" pin="6" pinfunction="Vss" pintype="power_in"/>
-    </net>
-    <net code="12" name="/18bADC/SCL">
-      <node ref="U14" pin="5" pinfunction="SCL" pintype="input"/>
-    </net>
-    <net code="13" name="/18bADC/SDA">
-      <node ref="U14" pin="4" pinfunction="SDA" pintype="bidirectional"/>
-    </net>
-    <net code="16" name="/ADR">
+    <net code="12" name="/ADR">
       <node ref="J5-2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
     </net>
-    <net code="17" name="/APC2AUX">
+    <net code="13" name="/APC2AUX">
       <node ref="JAPC-2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
-    <net code="18" name="/APC2EN">
+    <net code="14" name="/APC2EN">
       <node ref="JAPC-2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
     </net>
-    <net code="19" name="/APC2RX">
+    <net code="15" name="/APC2RX">
       <node ref="JAPC-2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JIF2" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="20" name="/APC2SET">
+    <net code="16" name="/APC2SET">
       <node ref="JAPC-2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="21" name="/APC2TX">
+    <net code="17" name="/APC2TX">
       <node ref="JAPC-2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JIF2" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="22" name="/APCAUX">
+    <net code="18" name="/APCAUX">
       <node ref="JAPC-1" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
-    <net code="23" name="/APCEN">
+    <net code="19" name="/APCEN">
       <node ref="JAPC-1" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
     </net>
-    <net code="24" name="/APCRX">
+    <net code="20" name="/APCRX">
       <node ref="J1-2" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="JAPC-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JAPC1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JIF1" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="25" name="/APCSET">
+    <net code="21" name="/APCSET">
       <node ref="JAPC-1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="26" name="/APCTX">
+    <net code="22" name="/APCTX">
       <node ref="J1-2" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="JAPC-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JAPC1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JIF1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="27" name="/BKL">
+    <net code="23" name="/BKL">
       <node ref="JDIS1" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="JDIS2" pin="11" pinfunction="Pin_11" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
     </net>
-    <net code="28" name="/BME3VO">
+    <net code="24" name="/BME3VO">
       <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
-    <net code="29" name="/BMECS">
+    <net code="25" name="/BMECS">
       <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
     </net>
-    <net code="30" name="/BMESDO">
+    <net code="26" name="/BMESDO">
       <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
     </net>
-    <net code="31" name="/BNO3VO">
+    <net code="27" name="/BNO3VO">
       <node ref="J5-1" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
-    <net code="32" name="/BNORST">
+    <net code="28" name="/BNORST">
       <node ref="J5-1" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
     </net>
-    <net code="33" name="/Broadband Photodiodes/INV1">
+    <net code="29" name="/Broadband Photodiodes/INV1">
       <node ref="RS6" pin="1" pintype="passive"/>
       <node ref="R_{PD.bias}1" pin="1" pintype="passive"/>
       <node ref="R_{PD}1" pin="2" pintype="passive"/>
     </net>
-    <net code="34" name="/Broadband Photodiodes/INV2">
+    <net code="30" name="/Broadband Photodiodes/INV2">
       <node ref="RS8" pin="1" pintype="passive"/>
       <node ref="R_{PD.bias}2" pin="1" pintype="passive"/>
       <node ref="R_{PD}2" pin="2" pintype="passive"/>
     </net>
-    <net code="35" name="/CAM1RX">
+    <net code="31" name="/CAM1RX">
       <node ref="JAUX1" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="JCAM1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="36" name="/CAM1TX">
+    <net code="32" name="/CAM1TX">
       <node ref="JAUX1" pin="11" pinfunction="Pin_11" pintype="passive"/>
       <node ref="JCAM1" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="37" name="/CAM2RX">
+    <net code="33" name="/CAM2RX">
       <node ref="JAUX1" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="JCAM2" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="38" name="/CAM2TX">
+    <net code="34" name="/CAM2TX">
       <node ref="JAUX1" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="JCAM2" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="39" name="/CAN_H">
+    <net code="35" name="/CAN_H">
       <node ref="CAN1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J1-2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JALT1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JALT2" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JUT1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="40" name="/CAN_L">
+    <net code="36" name="/CAN_L">
       <node ref="CAN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J1-2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JALT1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JALT2" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JUT1" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="42" name="/CLK1">
+    <net code="38" name="/CLK1">
       <node ref="J1-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JD1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="CLK" pintype="input"/>
     </net>
-    <net code="43" name="/CLK2">
+    <net code="39" name="/CLK2">
       <node ref="J1-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JD1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="CLK" pintype="input"/>
     </net>
-    <net code="44" name="/DCS">
+    <net code="40" name="/DCS">
       <node ref="JDIS1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JDIS2" pin="7" pinfunction="Pin_7" pintype="passive"/>
     </net>
-    <net code="45" name="/D{slash}C">
+    <net code="41" name="/D{slash}C">
       <node ref="JDIS1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JDIS2" pin="9" pinfunction="Pin_9" pintype="passive"/>
     </net>
-    <net code="46" name="/GAIN">
+    <net code="42" name="/GAIN">
       <node ref="J1-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JD1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="9" pinfunction="GAIN" pintype="output"/>
       <node ref="U2" pin="9" pinfunction="GAIN" pintype="output"/>
     </net>
-    <net code="47" name="/GPSRX">
+    <net code="43" name="/GPSRX">
       <node ref="JGPS1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JGPS2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JGPS3" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="48" name="/GPSTX">
+    <net code="44" name="/GPSTX">
       <node ref="JGPS1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JGPS2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JGPS3" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="49" name="/GPS_5V">
+    <net code="45" name="/GPS_5V">
       <node ref="JGPS1" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="50" name="/GPS_GND">
+    <net code="46" name="/GPS_GND">
       <node ref="JGPS1" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="51" name="/INT">
+    <net code="47" name="/INT">
       <node ref="J5-2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
     </net>
-    <net code="52" name="/LED">
+    <net code="48" name="/LED">
       <node ref="R3" pin="1" pintype="passive"/>
     </net>
-    <net code="54" name="/MISO_T">
+    <net code="50" name="/MISO_T">
       <node ref="JDIS2" pin="5" pinfunction="Pin_5" pintype="passive"/>
     </net>
-    <net code="56" name="/MOSI_T">
+    <net code="52" name="/MOSI_T">
       <node ref="JDIS1" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JDIS2" pin="6" pinfunction="Pin_6" pintype="passive"/>
     </net>
-    <net code="58" name="/PPS">
+    <net code="54" name="/PPS">
       <node ref="JGPS1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JGPS2" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JGPS3" pin="6" pinfunction="Pin_6" pintype="passive"/>
     </net>
-    <net code="59" name="/PS0">
+    <net code="55" name="/PS0">
       <node ref="J5-2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="60" name="/PS1">
+    <net code="56" name="/PS1">
       <node ref="J5-2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
-    <net code="61" name="/RST">
+    <net code="57" name="/RST">
       <node ref="JDIS1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JDIS2" pin="8" pinfunction="Pin_8" pintype="passive"/>
     </net>
-    <net code="62" name="/RX">
+    <net code="58" name="/RX">
       <node ref="J1-2" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JAPC1" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="68" name="/SCL3">
+    <net code="64" name="/SCL3">
       <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JI2C3v-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U11" pin="2" pinfunction="SCL1" pintype="bidirectional"/>
     </net>
-    <net code="69" name="/SCLK">
+    <net code="65" name="/SCLK">
       <node ref="JDIS1" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="JDIS2" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="70" name="/SCL_{RF}">
+    <net code="66" name="/SCL_{RF}">
       <node ref="U12" pin="1" pinfunction="SCL" pintype="bidirectional"/>
     </net>
-    <net code="72" name="/SDA3">
+    <net code="68" name="/SDA3">
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JI2C3v-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="U11" pin="3" pinfunction="SDA1" pintype="bidirectional"/>
     </net>
-    <net code="73" name="/SDA_{RF}">
+    <net code="69" name="/SDA_{RF}">
       <node ref="U12" pin="2" pinfunction="SDA" pintype="bidirectional"/>
     </net>
-    <net code="74" name="/SDCS">
+    <net code="70" name="/SDCS">
       <node ref="JDIS2" pin="10" pinfunction="Pin_10" pintype="passive"/>
     </net>
-    <net code="78" name="/ST">
+    <net code="74" name="/ST">
       <node ref="J1-1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JD1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="ST" pintype="input"/>
       <node ref="U2" pin="7" pinfunction="ST" pintype="input"/>
     </net>
-    <net code="79" name="/SW0">
+    <net code="75" name="/SW0">
       <node ref="SW0" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="80" name="/SW1">
+    <net code="76" name="/SW1">
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="81" name="/SW2">
+    <net code="77" name="/SW2">
       <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="82" name="/SW3">
+    <net code="78" name="/SW3">
       <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="83" name="/SW4">
+    <net code="79" name="/SW4">
       <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="84" name="/SW5">
+    <net code="80" name="/SW5">
       <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="85" name="/SW6">
+    <net code="81" name="/SW6">
       <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="86" name="/SW7">
+    <net code="82" name="/SW7">
       <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="87" name="/SW8">
+    <net code="83" name="/SW8">
       <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="88" name="/SW9">
+    <net code="84" name="/SW9">
       <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="89" name="/SW10">
+    <net code="85" name="/SW10">
       <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="90" name="/TX">
+    <net code="86" name="/TX">
       <node ref="J1-2" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JAPC1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="94" name="/TXS_{E}">
+    <net code="90" name="/TXS_{E}">
       <node ref="JAUX1" pin="12" pinfunction="Pin_12" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="U10" pin="6" pinfunction="OE" pintype="input"/>
     </net>
-    <net code="95" name="/UT1">
+    <net code="91" name="/UT1">
       <node ref="J1-2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JUT1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="UT1" pin="2" pinfunction="Signal" pintype="output"/>
     </net>
-    <net code="96" name="/UT2">
+    <net code="92" name="/UT2">
       <node ref="J1-2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JUT1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="UT2" pin="2" pinfunction="Signal" pintype="output"/>
     </net>
-    <net code="97" name="/VBAT1">
+    <net code="93" name="/VBAT1">
       <node ref="JBAT1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="98" name="/VBAT2">
+    <net code="94" name="/VBAT2">
       <node ref="JBAT2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="99" name="/VBAT_RTC">
+    <net code="95" name="/VBAT_RTC">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
     </net>
-    <net code="100" name="/VDC">
+    <net code="96" name="/VDC">
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J3" pin="1" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="U5" pin="2" pinfunction="VDD" pintype="power_in"/>
     </net>
-    <net code="101" name="/VIN1">
+    <net code="97" name="/VIN1">
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="JVIN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
@@ -3168,23 +3283,23 @@
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="VDD" pintype="power_in"/>
     </net>
-    <net code="102" name="1V1">
+    <net code="98" name="1V1">
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U8" pin="1" pinfunction="K" pintype="passive"/>
     </net>
-    <net code="103" name="3V0">
+    <net code="99" name="3V0">
       <node ref="J3V0-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="U9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U9" pin="3" pinfunction="REF" pintype="passive"/>
     </net>
-    <net code="104" name="5V0">
+    <net code="100" name="5V0">
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="U13" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U13" pin="3" pinfunction="REF" pintype="passive"/>
     </net>
-    <net code="105" name="5V3">
+    <net code="101" name="5V3">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
@@ -3216,7 +3331,7 @@
       <node ref="UT1" pin="3" pinfunction="V+" pintype="power_in"/>
       <node ref="UT2" pin="3" pinfunction="V+" pintype="power_in"/>
     </net>
-    <net code="106" name="GND1">
+    <net code="102" name="GND1">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
@@ -3278,7 +3393,7 @@
       <node ref="UT1" pin="1" pinfunction="GND" pintype="power_in"/>
       <node ref="UT2" pin="1" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="107" name="GND2">
+    <net code="103" name="GND2">
       <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
@@ -3295,7 +3410,7 @@
       <node ref="U5" pin="3" pinfunction="VSS" pintype="power_in"/>
       <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="108" name="GND_{RF}">
+    <net code="104" name="GND_{RF}">
       <node ref="C13" pin="2" pintype="passive"/>
       <node ref="C14" pin="2" pintype="passive"/>
       <node ref="C15" pin="1" pintype="passive"/>
@@ -3314,123 +3429,123 @@
       <node ref="U12" pin="7" pinfunction="GND" pintype="power_in"/>
       <node ref="U13" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="109" name="MISO">
+    <net code="105" name="MISO">
       <node ref="JAUX1" pin="5" pinfunction="Pin_5" pintype="passive"/>
     </net>
-    <net code="110" name="MOSI">
+    <net code="106" name="MOSI">
       <node ref="JAUX1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="111" name="Net-(C10-Pad1)">
+    <net code="107" name="Net-(C10-Pad1)">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
       <node ref="U10" pin="7" pinfunction="VCCB" pintype="power_in"/>
     </net>
-    <net code="112" name="Net-(CS1-Pad1)">
+    <net code="108" name="Net-(CS1-Pad1)">
       <node ref="CS1" pin="1" pintype="passive"/>
       <node ref="CS3" pin="1" pintype="passive"/>
       <node ref="RS3" pin="2" pintype="passive"/>
       <node ref="US1" pin="4" pinfunction="+" pintype="input"/>
     </net>
-    <net code="113" name="Net-(CS1-Pad2)">
+    <net code="109" name="Net-(CS1-Pad2)">
       <node ref="CS1" pin="2" pintype="passive"/>
       <node ref="CS2" pin="1" pintype="passive"/>
       <node ref="RS6" pin="2" pintype="passive"/>
       <node ref="US1" pin="1" pinfunction="-" pintype="input"/>
     </net>
-    <net code="114" name="Net-(CS6-Pad1)">
+    <net code="110" name="Net-(CS6-Pad1)">
       <node ref="CS6" pin="1" pintype="passive"/>
       <node ref="CS8" pin="1" pintype="passive"/>
       <node ref="RS7" pin="2" pintype="passive"/>
       <node ref="US2" pin="4" pinfunction="+" pintype="input"/>
     </net>
-    <net code="115" name="Net-(CS6-Pad2)">
+    <net code="111" name="Net-(CS6-Pad2)">
       <node ref="CS6" pin="2" pintype="passive"/>
       <node ref="CS7" pin="1" pintype="passive"/>
       <node ref="RS8" pin="2" pintype="passive"/>
       <node ref="US2" pin="1" pinfunction="-" pintype="input"/>
     </net>
-    <net code="116" name="Net-(D3-Pad1)">
+    <net code="112" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="JAUX1" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="117" name="Net-(J1-3-1-Pad1)">
+    <net code="113" name="Net-(J1-3-1-Pad1)">
       <node ref="J1-3" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="J1-3-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="118" name="Net-(J1-3-1-Pad2)">
+    <net code="114" name="Net-(J1-3-1-Pad2)">
       <node ref="J1-3" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="J1-3-1" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="119" name="Net-(J1-3-1-Pad3)">
+    <net code="115" name="Net-(J1-3-1-Pad3)">
       <node ref="J1-3" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J1-3-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="120" name="Net-(J1-3-1-Pad4)">
+    <net code="116" name="Net-(J1-3-1-Pad4)">
       <node ref="J1-3" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J1-3-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="121" name="Net-(J1-3-2-Pad1)">
+    <net code="117" name="Net-(J1-3-2-Pad1)">
       <node ref="J1-3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J1-3-2" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="122" name="Net-(J1-3-2-Pad2)">
+    <net code="118" name="Net-(J1-3-2-Pad2)">
       <node ref="J1-3" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J1-3-2" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="123" name="Net-(J1-3-2-Pad3)">
+    <net code="119" name="Net-(J1-3-2-Pad3)">
       <node ref="J1-3" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J1-3-2" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="124" name="Net-(J1-3-2-Pad4)">
+    <net code="120" name="Net-(J1-3-2-Pad4)">
       <node ref="J1-3" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J1-3-2" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="125" name="Net-(JPD1-Pad2)">
+    <net code="121" name="Net-(JPD1-Pad2)">
       <node ref="RS3" pin="1" pintype="passive"/>
       <node ref="R_{PD}1" pin="1" pintype="passive"/>
     </net>
-    <net code="127" name="Net-(JPD4-Pad2)">
+    <net code="123" name="Net-(JPD4-Pad2)">
       <node ref="RS7" pin="1" pintype="passive"/>
       <node ref="R_{PD}2" pin="1" pintype="passive"/>
     </net>
-    <net code="129" name="Net-(Q1-Pad1)">
+    <net code="125" name="Net-(Q1-Pad1)">
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
       <node ref="U3" pin="1" pinfunction="OUT" pintype="power_out"/>
     </net>
-    <net code="130" name="Net-(Q2-Pad1)">
+    <net code="126" name="Net-(Q2-Pad1)">
       <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
       <node ref="U5" pin="1" pinfunction="OUT" pintype="power_out"/>
     </net>
-    <net code="131" name="Net-(R7-Pad1)">
+    <net code="127" name="Net-(R7-Pad1)">
       <node ref="R7" pin="1" pintype="passive"/>
       <node ref="U11" pin="7" pinfunction="VREF2" pintype="power_in"/>
       <node ref="U11" pin="8" pinfunction="EN" pintype="input"/>
     </net>
-    <net code="132" name="Net-(R9-Pad1)">
+    <net code="128" name="Net-(R9-Pad1)">
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="U8" pin="3" pinfunction="REF" pintype="passive"/>
     </net>
-    <net code="133" name="Net-(R9-Pad2)">
+    <net code="129" name="Net-(R9-Pad2)">
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="134" name="Net-(RS2-Pad1)">
+    <net code="130" name="Net-(RS2-Pad1)">
       <node ref="RS2" pin="1" pintype="passive"/>
       <node ref="US1" pin="3" pinfunction="Rg" pintype="passive"/>
     </net>
-    <net code="135" name="Net-(RS2-Pad2)">
+    <net code="131" name="Net-(RS2-Pad2)">
       <node ref="RS2" pin="2" pintype="passive"/>
       <node ref="US1" pin="2" pinfunction="Rg" pintype="passive"/>
     </net>
-    <net code="136" name="Net-(RS5-Pad1)">
+    <net code="132" name="Net-(RS5-Pad1)">
       <node ref="RS5" pin="1" pintype="passive"/>
       <node ref="US2" pin="3" pinfunction="Rg" pintype="passive"/>
     </net>
-    <net code="137" name="Net-(RS5-Pad2)">
+    <net code="133" name="Net-(RS5-Pad2)">
       <node ref="RS5" pin="2" pintype="passive"/>
       <node ref="US2" pin="2" pinfunction="Rg" pintype="passive"/>
     </net>
-    <net code="138" name="Net-(RSW1-Pad2)">
+    <net code="134" name="Net-(RSW1-Pad2)">
       <node ref="RSW1" pin="2" pintype="passive"/>
       <node ref="SW0" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
@@ -3444,70 +3559,66 @@
       <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="139" name="P1">
+    <net code="135" name="P1">
       <node ref="C24" pin="1" pintype="passive"/>
       <node ref="J1-1" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="JA1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="US1" pin="7" pintype="output"/>
     </net>
-    <net code="140" name="P1_{RF}">
+    <net code="136" name="P1_{RF}">
       <node ref="C24" pin="2" pintype="passive"/>
       <node ref="C25" pin="1" pintype="passive"/>
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="R23" pin="2" pintype="passive"/>
       <node ref="U12" pin="5" pinfunction="Vin2" pintype="input"/>
-      <node ref="U14" pin="1" pinfunction="CH1+" pintype="input"/>
     </net>
-    <net code="141" name="P2">
+    <net code="137" name="P2">
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="J1-1" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JA1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="US2" pin="7" pintype="output"/>
     </net>
-    <net code="142" name="P2_{RF}">
+    <net code="138" name="P2_{RF}">
       <node ref="C20" pin="2" pintype="passive"/>
       <node ref="C21" pin="1" pintype="passive"/>
       <node ref="R18" pin="1" pintype="passive"/>
       <node ref="R19" pin="2" pintype="passive"/>
       <node ref="U12" pin="4" pinfunction="Vin1" pintype="input"/>
-      <node ref="U14" pin="8" pinfunction="CH2-" pintype="input"/>
     </net>
-    <net code="145" name="S1">
+    <net code="141" name="S1">
       <node ref="C22" pin="1" pintype="passive"/>
       <node ref="J1-1" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="JA1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="VIDEO" pintype="output"/>
     </net>
-    <net code="146" name="S1_{RF}">
+    <net code="142" name="S1_{RF}">
       <node ref="C22" pin="2" pintype="passive"/>
       <node ref="C23" pin="1" pintype="passive"/>
       <node ref="R20" pin="1" pintype="passive"/>
       <node ref="R21" pin="2" pintype="passive"/>
       <node ref="U12" pin="6" pinfunction="Vin3" pintype="input"/>
-      <node ref="U14" pin="2" pinfunction="CH1-" pintype="input"/>
     </net>
-    <net code="147" name="S2">
+    <net code="143" name="S2">
       <node ref="C18" pin="1" pintype="passive"/>
       <node ref="J1-1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JA1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R16" pin="2" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="VIDEO" pintype="output"/>
     </net>
-    <net code="148" name="S2_{RF}">
+    <net code="144" name="S2_{RF}">
       <node ref="C18" pin="2" pintype="passive"/>
       <node ref="C19" pin="1" pintype="passive"/>
       <node ref="R16" pin="1" pintype="passive"/>
       <node ref="R17" pin="2" pintype="passive"/>
       <node ref="U12" pin="3" pinfunction="Vin0" pintype="input"/>
-      <node ref="U14" pin="7" pinfunction="CH2+" pintype="input"/>
     </net>
-    <net code="149" name="SCK">
+    <net code="145" name="SCK">
       <node ref="JAUX1" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="150" name="SCL">
+    <net code="146" name="SCL">
       <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J5-1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JAUX1" pin="6" pinfunction="Pin_6" pintype="passive"/>
@@ -3515,7 +3626,7 @@
       <node ref="JIR1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U11" pin="6" pinfunction="SCL2" pintype="bidirectional"/>
     </net>
-    <net code="151" name="SDA">
+    <net code="147" name="SDA">
       <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J5-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JAUX1" pin="7" pinfunction="Pin_7" pintype="passive"/>
@@ -3523,7 +3634,7 @@
       <node ref="JIR1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U11" pin="5" pinfunction="SDA2" pintype="bidirectional"/>
     </net>
-    <net code="152" name="V_{AREF}">
+    <net code="148" name="V_{AREF}">
       <node ref="C16" pin="1" pintype="passive"/>
       <node ref="C26" pin="1" pintype="passive"/>
       <node ref="C27" pin="1" pintype="passive"/>
@@ -3535,7 +3646,7 @@
       <node ref="US1" pin="8" pinfunction="Vs+" pintype="power_in"/>
       <node ref="US2" pin="8" pinfunction="Vs+" pintype="power_in"/>
     </net>
-    <net code="153" name="V_{RF}">
+    <net code="149" name="V_{RF}">
       <node ref="C13" pin="1" pintype="passive"/>
       <node ref="C14" pin="1" pintype="passive"/>
       <node ref="C16" pin="2" pintype="passive"/>
@@ -3546,28 +3657,28 @@
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="U12" pin="8" pinfunction="VDD" pintype="power_in"/>
     </net>
-    <net code="276" name="unconnected-(JALT1-Pad4)">
+    <net code="272" name="unconnected-(JALT1-Pad4)">
       <node ref="JALT1" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
     </net>
-    <net code="277" name="unconnected-(JALT2-Pad4)">
+    <net code="273" name="unconnected-(JALT2-Pad4)">
       <node ref="JALT2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
     </net>
-    <net code="278" name="unconnected-(U1-Pad6)">
+    <net code="274" name="unconnected-(U1-Pad6)">
       <node ref="U1" pin="6" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="279" name="unconnected-(U1-Pad8)">
+    <net code="275" name="unconnected-(U1-Pad8)">
       <node ref="U1" pin="8" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="280" name="unconnected-(U1-Pad10)">
+    <net code="276" name="unconnected-(U1-Pad10)">
       <node ref="U1" pin="10" pinfunction="EOS" pintype="output+no_connect"/>
     </net>
-    <net code="281" name="unconnected-(U2-Pad6)">
+    <net code="277" name="unconnected-(U2-Pad6)">
       <node ref="U2" pin="6" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="282" name="unconnected-(U2-Pad8)">
+    <net code="278" name="unconnected-(U2-Pad8)">
       <node ref="U2" pin="8" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="283" name="unconnected-(U2-Pad10)">
+    <net code="279" name="unconnected-(U2-Pad10)">
       <node ref="U2" pin="10" pinfunction="EOS" pintype="output+no_connect"/>
     </net>
   </nets>

@@ -1,0 +1,30 @@
+### Module positions - created on Thu 29 Jun 2023 12:19:36 PM MDT ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                           Package                                                      PosX       PosY       Rot  Side
+BT1       Battery_Cell                  BatteryHolder_Keystone_3000_1x12mm                       -88.1380     0.0000  -90.0000  top
+C2-1      10uF                          CP_Elec_3x5.4                                            -80.3275    18.2880  -90.0000  top
+C2-2      0.1uF                         C_0805_2012Metric                                        -80.1980    10.1600    0.0000  top
+C3        0.1uF                         C_0805_2012Metric                                        -80.1980    12.1920  180.0000  top
+D1        D                             Nexperia_CFP3_SOD-123W                                   -88.3920    16.3830  -90.0000  top
+D2        HPZR-C7V0X                    D_SOD-123F                                               -90.4748    21.4630   90.0000  top
+J1        Conn_02x03_Counter_Clockwise  PinSocket_2x04_P2.54mm_Vertical_renumber                 -24.0026   -23.6220    0.0000  top
+JBAT1     Conn_01x02_Female             Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal   -72.6440    25.7300    0.0000  top
+JDC1      Barrel_Jack                   BarrelJack_Horizontal                                    -84.3280    22.8600  -90.0000  top
+Q1        FDN340P                       SOT-23                                                   -84.2645    17.5260  180.0000  top
+Q2        NPN_50V_1A_NPN_BEC            SOT-323_SC-70                                            -91.4400    15.2400  180.0000  top
+R1        10K                           R_0805_2012Metric                                        -22.8600     8.6360   90.0000  top
+R2        1K                            R_0805_2012Metric                                        -91.4400    18.1610  180.0000  top
+R3        100K                          R_0805_2012Metric                                        -80.1980    14.2240  180.0000  top
+SW1       SW_SPDT                       SW_SPDT_CK-JS102011SAQN                                  -22.8600    31.4960  180.0000  top
+TP1       TestPoint                     TestPoint_Keystone_5000-5004_Miniature                   -62.4840    32.5120    0.0000  top
+TP2       TestPoint                     TestPoint_Keystone_5000-5004_Miniature                   -66.5480    32.5120    0.0000  top
+TP3       TestPoint                     TestPoint_Keystone_5000-5004_Miniature                   -66.5480    28.4480    0.0000  top
+TP4       TestPoint                     TestPoint_Keystone_5000-5004_Miniature                   -66.5480    24.3840  180.0000  top
+TP5       TestPoint                     TestPoint_Keystone_5000-5004_Miniature                   -66.5480    20.3200    0.0000  top
+TP6       TestPoint                     TestPoint_Keystone_5000-5004_Miniature                   -66.5480    16.2560    0.0000  top
+U1        Teensy4.1                     Teensy4.0-1                                              -46.9900    -4.2300   90.0000  top
+U2        LM7805_SOT223                 SOT-223-3_TabPin2                                        -73.9646    15.4699  180.0000  top
+U3        MCP112-450E/TO                SOT-89-3                                                 -84.5820    13.2080    0.0000  top
+## End
