@@ -2419,9 +2419,6 @@
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/815a0815-7930-45ec-8d6e-dc110f979c75"
       (reference "JADC1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/c5e053bf-12a3-4339-9020-ec8a06217732"
-      (reference "JADC2") (unit 1) (value "Term_Block_01x08_Female") (footprint "Gardenuino Custom:Term_Block_1x08_Female")
-    )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/7d4fcb23-c914-48df-941d-94cf5f1f85b5"
       (reference "JAPC1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
@@ -2433,6 +2430,12 @@
     )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/70b53718-ed58-494c-b8a6-19eb974c07c4"
       (reference "JGPS1") (unit 1) (value "GPS") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/be5e776c-d432-4d1d-9372-2e1aee3b24de"
+      (reference "JMISO5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/7ea1c23c-14e5-40d7-b438-68ee8039d86d"
+      (reference "JMOSI5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/6f675e5f-8fe6-4148-baf1-da97afc770f8"
       (reference "JP11") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm")
@@ -2461,6 +2464,15 @@
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/f055d064-7450-41cc-8225-f430730a069e"
       (reference "JPD6") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/49832dbd-3e9a-4dd3-b866-ed58471fa789"
+      (reference "JSCK5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/93d82b9b-b8d7-4ee2-81f5-2e1c2d337b5e"
+      (reference "JSCL5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/83389342-341d-4149-aaf9-0824346fcd8e"
+      (reference "JSDA5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
     (path "/6476e233-d260-45fe-84d2-9ade7d0003a0/24cb67fc-f0c9-4f6e-88c1-7636ab854c5e"
       (reference "JUT1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
@@ -2480,16 +2492,16 @@
       (reference "R2") (unit 1) (value "2K67") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/110a75d0-4035-41e2-ab54-c56ad0244ba4"
-      (reference "R4") (unit 1) (value "402") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R4") (unit 1) (value "402") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/38fab12b-3a44-45bc-898e-d40ab088c5ca"
-      (reference "R5") (unit 1) (value "200") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R5") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/e4add989-3502-4243-878f-d4babef5c9f6"
       (reference "R6") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/3f38df9c-a880-4886-899b-baa4c40e1760"
-      (reference "R9") (unit 1) (value "470K") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R9") (unit 1) (value "470K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/6b610199-442c-4227-865f-89f007472b76"
       (reference "R10") (unit 1) (value "X") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -2558,25 +2570,25 @@
       (reference "RS2") (unit 1) (value "R_{G}") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/d54a4778-8243-4f94-a79f-00ecce758900"
-      (reference "RS3") (unit 1) (value "330") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "RS3") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/a7fe1e3b-6fe7-4104-9a98-6ae6ac6890cf"
       (reference "RS5") (unit 1) (value "R_{G}") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/1a4b5240-e2d9-41e9-a21b-814fb3c7b35a"
-      (reference "RS6") (unit 1) (value "330") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "RS6") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/8a22ddfa-0554-449c-b298-415317c9bf64"
-      (reference "RS7") (unit 1) (value "330") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "RS7") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/2b0dad91-836c-42f8-9d02-a671d13e63e9"
-      (reference "RS8") (unit 1) (value "330") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "RS8") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/81975237-87d0-4ccf-948f-3491e3cf30f9"
       (reference "RV1") (unit 1) (value "10K") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/25915a5f-4800-4383-a1d4-70417d5200b6"
-      (reference "R_{C}1") (unit 1) (value "500") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{C}1") (unit 1) (value "500") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/d890e3ce-0d5d-49bd-a448-e1b7e92c15f8"
       (reference "R_{PD.bias}1") (unit 1) (value "0") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -2585,16 +2597,16 @@
       (reference "R_{PD.bias}2") (unit 1) (value "0") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/1bef5b1c-5aba-4e23-8748-ea44cb5e23bb"
-      (reference "R_{PD}1") (unit 1) (value "1M") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{PD}1") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/5ec35fb6-fbea-4c53-bc7c-52d581e3adb1"
-      (reference "R_{PD}1.1") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{PD}1.1") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/941744c3-43df-4c8c-89c7-828cc479a95d"
-      (reference "R_{PD}2") (unit 1) (value "1M") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{PD}2") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/050d915f-ac57-4e84-bd9d-48abcef1bb87"
-      (reference "R_{PD}2.1") (unit 1) (value "2K") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "R_{PD}2.1") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/11a85d83-ca23-4a66-9a7a-3b010acc3da7"
       (reference "SW1") (unit 1) (value "SW_DPDT") (footprint "Gardenuino Custom:SW_DPDT_CK_JS202011JAQN")

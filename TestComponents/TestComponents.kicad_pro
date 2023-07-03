@@ -55,16 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "holes_co_located|171450000|86360000|53aae3bc-3b12-46d2-84e4-60654d8be9c4|4c000c17-089b-435f-898f-75910b5f4de9",
-        "holes_co_located|173990000|86360000|7c7ebd3e-cb28-40a1-b72c-ce8111780ef9|adaf0047-fcfc-4175-a4f8-d4a5883cbf02",
-        "holes_co_located|176530000|86360000|dbb58d89-dab7-406b-91d5-42c7f72a5b1e|d237d917-e737-41e3-b237-85876e4d6376",
-        "holes_co_located|179070000|86360000|61b42055-9297-49b1-ae5e-21451e411d29|cc2a8d04-c0e2-4b0f-ae08-f71d3bbac8f4",
-        "holes_co_located|181610000|86360000|98e8a4de-d9b9-4fc5-a34b-273844705d4d|2763b1a1-4b22-4938-b427-65ee506ae1af",
-        "holes_co_located|184150000|86360000|8d48da0c-a7f2-40c0-8357-4ac28134240a|531fadeb-648c-40bc-bdc4-83e86b1940a0",
-        "holes_co_located|186690000|86360000|6af50098-c332-4a30-bfc4-29365b73aee6|3542d703-e6dc-411a-b723-d1fe09fbcc8a",
-        "holes_co_located|189230000|86360000|97e4f14d-0aa9-4706-868c-d5eb93c66196|9107d2a9-d20d-45bb-ac2d-9106d28065b1"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
