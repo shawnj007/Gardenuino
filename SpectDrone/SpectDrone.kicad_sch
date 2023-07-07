@@ -12057,7 +12057,7 @@
       (reference "U8") (unit 1) (value "ADR510") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/b15f1833-1c73-492c-922e-ef0f8affc888"
-      (reference "U9") (unit 1) (value "LM4040B") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U9") (unit 1) (value "ADR5043BRTZ") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/721b0118-f7ed-41a6-8c66-6d4a657f1174"
       (reference "U10") (unit 1) (value "TXS0102DCUR") (footprint "Package_SO:SSOP-8_2.95x2.8mm_P0.65mm")
