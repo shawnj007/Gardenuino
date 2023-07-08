@@ -11883,7 +11883,7 @@
       (reference "R4") (unit 1) (value "402") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/12400bec-a035-4aa2-9a39-f72c9ebb9aa4"
-      (reference "R5") (unit 1) (value "174") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R5") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/bc8309e2-f529-40ab-b63c-a391f710836e"
       (reference "R6") (unit 1) (value "200K") (footprint "Resistor_SMD:R_0805_2012Metric")
