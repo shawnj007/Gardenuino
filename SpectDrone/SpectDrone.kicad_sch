@@ -9250,6 +9250,9 @@
     (property "Datasheet" "~" (id 3) (at 161.925 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "BMI-S-101" (id 4) (at 164.465 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 48ea6c06-49df-4397-8f17-d45fed47211b))
   )
 
