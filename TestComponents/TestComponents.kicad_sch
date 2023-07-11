@@ -2638,6 +2638,9 @@
     (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/11a85d83-ca23-4a66-9a7a-3b010acc3da7"
       (reference "SW1") (unit 1) (value "SW_DPDT") (footprint "Gardenuino Custom:SW_DPDT_CK_JS202011JAQN")
     )
+    (path "/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/1b16053e-8447-4e52-9da1-111bede1654c"
+      (reference "SW1") (unit 2) (value "SW_DPDT") (footprint "")
+    )
     (path "/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/2f3c1326-d3aa-454b-a6fd-3e9f6ecf7423"
       (reference "SW2") (unit 1) (value "SW_DP3T") (footprint "Gardenuino Custom:SW_DP3T_CK_JS203011JAQN")
     )
