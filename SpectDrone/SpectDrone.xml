@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/sjaker/gits/Gardenuino/SpectDrone/SpectDrone.kicad_sch</source>
-    <date>Wed 28 Jun 2023 01:43:31 PM MDT</date>
+    <date>Mon 10 Jul 2023 09:47:02 PM MDT</date>
     <tool>Eeschema 6.0.2+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -304,15 +304,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fd90dac5-f85a-46a5-99b3-070411286b8d</tstamps>
     </comp>
-    <comp ref="CAN1">
-      <value>Conn_01x02_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a08073c3-e1fc-41dc-a19b-ede03321166e</tstamps>
-    </comp>
     <comp ref="D1">
       <value>D</value>
       <footprint>Diode_SMD:Nexperia_CFP3_SOD-123W</footprint>
@@ -352,192 +343,18 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d4a29348-d493-4924-894f-81676203cdc1</tstamps>
     </comp>
-    <comp ref="J1-1">
-      <value>Conn_02x03_Counter_Clockwise</value>
-      <footprint>Gardenuino Custom:PinSocket_2x04_P2.54mm_Vertical_renumber</footprint>
-      <fields>
-        <field name="Part Number">RS2-08-G</field>
-      </fields>
-      <libsource lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise" description="Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS2-08-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>9d712c28-7284-4e0b-bde9-adbfdf06743f</tstamps>
-    </comp>
-    <comp ref="J1-2">
-      <value>Conn_02x03_Counter_Clockwise</value>
-      <footprint>Gardenuino Custom:PinSocket_2x04_P2.54mm_Vertical_renumber</footprint>
-      <fields>
-        <field name="Part Number">RS2-08-G</field>
-      </fields>
-      <libsource lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise" description="Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS2-08-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>955c3e56-1a4d-4f52-a415-06b75f5a0b72</tstamps>
-    </comp>
-    <comp ref="J1-3">
-      <value>Conn_02x03_Counter_Clockwise</value>
-      <footprint>Gardenuino Custom:PinSocket_2x04_P2.54mm_Vertical_renumber</footprint>
-      <fields>
-        <field name="Part Number">RS2-08-G</field>
-      </fields>
-      <libsource lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise" description="Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS2-08-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d4494bc5-79cb-47ed-a255-80df96f6da0c</tstamps>
-    </comp>
-    <comp ref="J1-3-1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>79cf9e65-8ca4-461b-a1bb-fdd5e5ad692e</tstamps>
-    </comp>
-    <comp ref="J1-3-2">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3d9e8731-42c8-43c4-9acf-3c78e43e4e8c</tstamps>
-    </comp>
-    <comp ref="J3">
-      <value>Barrel_Jack</value>
-      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
-      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2609107f-7351-46d6-94b6-871ef49beff7</tstamps>
-    </comp>
-    <comp ref="J3V0-1">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>aeb40eeb-bd87-4300-87f5-bb1939c50508</tstamps>
-    </comp>
-    <comp ref="J3V1-1">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>03db37fe-7756-4708-a539-7a30d63bb75f</tstamps>
-    </comp>
-    <comp ref="J3V3">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8b9fec4c-fe0b-42db-9878-619dbb2e8ec2</tstamps>
-    </comp>
-    <comp ref="J4">
-      <value>BME280</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">RS1-07-G</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x07_Female" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS1-07-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f62d1533-d5e5-43ef-b3e5-3d7f3c496d12</tstamps>
-    </comp>
     <comp ref="J5">
       <value>RFShield_OnePiece</value>
       <footprint>RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm</footprint>
+      <fields>
+        <field name="Part Number">BMI-S-101</field>
+      </fields>
       <libsource lib="Device" part="RFShield_OnePiece" description="One-piece EMI RF shielding cabinet"/>
+      <property name="Part Number" value="BMI-S-101"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6eb86b9e-8bbb-4bf7-9c5a-a6d9b427965e</tstamps>
-    </comp>
-    <comp ref="J5-1">
-      <value>BNO055-1</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">RS1-06-G</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x06_Female" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS1-06-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>91601dcc-5a49-413a-8886-cd19449944e5</tstamps>
-    </comp>
-    <comp ref="J5-2">
-      <value>BNO055-2</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">RS1-04-G</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS1-04-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>af6d53c8-0585-427e-baa8-3d12303057fc</tstamps>
-    </comp>
-    <comp ref="J5V3-1">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>84dbf88f-a566-49cb-a76c-2c3da0051450</tstamps>
-    </comp>
-    <comp ref="J5V3-2">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4cd53e12-15d3-46b0-b923-b2326082b899</tstamps>
     </comp>
     <comp ref="J8">
       <value>QWICK</value>
@@ -552,28 +369,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6d1860a3-107e-4663-8919-17e3714526b4</tstamps>
     </comp>
-    <comp ref="JA1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2793b064-532c-4e7a-ad83-71f95202820e</tstamps>
-    </comp>
-    <comp ref="JALT1">
-      <value>ALTITUDE</value>
-      <footprint>Connector_JST:JST_EH_S7B-EH_1x07_P2.50mm_Horizontal</footprint>
-      <libsource lib="Connector" part="Conn_01x07_Male" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8fb4d6de-def9-4763-8154-c120259d68c1</tstamps>
-    </comp>
     <comp ref="JALT2">
       <value>ALTITUDE</value>
       <footprint>Connector_JST:JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal</footprint>
@@ -587,19 +382,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2d642cec-096e-4d25-b953-3b36678bb2f3</tstamps>
     </comp>
-    <comp ref="JAPC-1">
-      <value>APC220</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">RS1-07-G</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x07_Female" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS1-07-G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>aa74443d-79db-4edb-b674-bce8681986f7</tstamps>
-    </comp>
     <comp ref="JAPC-2">
       <value>APC220</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical</footprint>
@@ -612,89 +394,6 @@
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6e9aab82-e6c0-4960-99af-e7c5a83d520f</tstamps>
-    </comp>
-    <comp ref="JAPC1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>82929dde-ddec-49ba-859e-c82cb47ebb15</tstamps>
-    </comp>
-    <comp ref="JAUX1">
-      <value>AUX</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-12-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x12_Male" description="Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-12-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f3628265-0155-43e2-a467-c40ff783e265</tstamps>
-    </comp>
-    <comp ref="JBAT1">
-      <value>Conn_01x02_Female</value>
-      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>472e94c0-a898-4fa7-9e12-6667bf6d7653</tstamps>
-    </comp>
-    <comp ref="JBAT2">
-      <value>Conn_01x02_Female</value>
-      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8ef56933-f7db-4f38-9e39-cf5c6d3106e2</tstamps>
-    </comp>
-    <comp ref="JCAM1">
-      <value>Camera</value>
-      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">B4B-XH-A(LF)(SN)</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="B4B-XH-A(LF)(SN)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>32984b2f-6738-44ba-8bb9-d029a1c04d27</tstamps>
-    </comp>
-    <comp ref="JCAM2">
-      <value>Camera</value>
-      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">B4B-XH-A(LF)(SN)</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="B4B-XH-A(LF)(SN)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d0f64c64-c647-4e0c-b575-80351983b764</tstamps>
-    </comp>
-    <comp ref="JD1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6d07fd92-72fd-4a09-ab5b-10e62e2a73b9</tstamps>
     </comp>
     <comp ref="JDIS1">
       <value>Display</value>
@@ -722,143 +421,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0882d8a1-babe-4da8-81cc-f6cdb3217c4d</tstamps>
     </comp>
-    <comp ref="JGND1-1">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>77ceeba2-26d8-411f-8467-8f988b8059f9</tstamps>
-    </comp>
-    <comp ref="JGND1-2">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>caf09327-891d-4b05-9c28-4df7562cbf90</tstamps>
-    </comp>
-    <comp ref="JGPS1">
-      <value>GPS</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-05-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-05-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>fef283ce-0a3e-4d9d-858a-615f3a2fc6cb</tstamps>
-    </comp>
-    <comp ref="JGPS2">
-      <value>GPS</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">RS1-05G</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="RS1-05G"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>011a5828-4c3c-4dde-9bdb-284a3f3c4a43</tstamps>
-    </comp>
-    <comp ref="JGPS3">
-      <value>GPS</value>
-      <footprint>Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">B6B-XH-A(LF)(SN)</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="B6B-XH-A(LF)(SN)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>79addd4c-94b0-4421-bf1a-9bce80188468</tstamps>
-    </comp>
-    <comp ref="JI2C1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a6b26d49-3511-4379-b51c-29b09d1a74f5</tstamps>
-    </comp>
-    <comp ref="JI2C3v-1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3303bd17-726e-4fee-8519-8e88505aac59</tstamps>
-    </comp>
-    <comp ref="JIF1">
-      <value>Payload</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>42537599-91ca-4f7a-8479-46dd1b2e44e5</tstamps>
-    </comp>
-    <comp ref="JIF2">
-      <value>Base</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>55718ec6-b736-4767-9f00-7f19ac456e3b</tstamps>
-    </comp>
-    <comp ref="JIR1">
-      <value>Infrared</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal</footprint>
-      <fields>
-        <field name="Part Number">PH1RB-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1RB-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>72e4d4c2-74b3-4f9a-8d71-bbda38e5099c</tstamps>
-    </comp>
-    <comp ref="JUT1">
-      <value>Conn_01x04_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-04-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-04-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b8ba3838-7e2e-4f10-a2e0-811c338a1b78</tstamps>
-    </comp>
     <comp ref="JVIN1">
       <value>Conn_01x01_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
@@ -871,19 +433,6 @@
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>24c3ed88-b44c-461f-a72a-c41465279cde</tstamps>
-    </comp>
-    <comp ref="JVIN1-1">
-      <value>Conn_01x01_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Part Number">PH1-01-UA</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Part Number" value="PH1-01-UA"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>21b8c324-9d42-486d-98d1-8e7604bf5a33</tstamps>
     </comp>
     <comp ref="Q1">
       <value>FDN340P</value>
@@ -1141,26 +690,6 @@
       <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b626b648-04ca-4e8e-922a-355cee8b64b8</tstamps>
-    </comp>
-    <comp ref="U1">
-      <value>C12666MA</value>
-      <footprint>Gardenuino Custom:Hamamatsu_C12666MA</footprint>
-      <datasheet>http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf</datasheet>
-      <libsource lib="Sensor_Optical" part="C12666MA" description="Micro spectrometer 340 to 850nm resolution 15nm"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2b83a6cd-a3db-44a5-8cff-1305c7a7d631</tstamps>
-    </comp>
-    <comp ref="U2">
-      <value>C12666MA</value>
-      <footprint>Gardenuino Custom:Hamamatsu_C12666MA</footprint>
-      <datasheet>http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf</datasheet>
-      <libsource lib="Sensor_Optical" part="C12666MA" description="Micro spectrometer 340 to 850nm resolution 15nm"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="SpectDrone.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b2c67ea0-8f8d-4861-a6a7-7e19d64e1be4</tstamps>
     </comp>
     <comp ref="U3">
       <value>MCP112-450E/TO</value>
@@ -1610,12 +1139,12 @@
     <comp ref="U9">
       <value>LM4040B</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>http://www.cj-elec.com/txUpfile/20134181474991806.pdf</datasheet>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR5040_5041_5043_5044_5045.pdf</datasheet>
       <fields>
-        <field name="Part Number">LM4040B33FTA</field>
+        <field name="Part Number">ADR5043BRTZ</field>
       </fields>
       <libsource lib="Gardenuino_Custom" part="ADR510" description="Shunt Regulator, SOT-23"/>
-      <property name="Part Number" value="LM4040B33FTA"/>
+      <property name="Part Number" value="ADR5043BRTZ"/>
       <property name="Sheetname" value="Broadband Photodiodes"/>
       <property name="Sheetfile" value="../Longwave Instrument/Longwave Instrument.kicad_sch"/>
       <sheetpath names="/Broadband Photodiodes/" tstamps="/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/"/>
@@ -2953,10 +2482,7 @@
   <nets>
     <net code="1" name="/3V1">
       <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="J3V1-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J3V3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JI2C3v-1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="U10" pin="3" pinfunction="VCCA" pintype="power_in"/>
@@ -2967,12 +2493,10 @@
       <node ref="JDIS2" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
     <net code="3" name="/3v_RX">
-      <node ref="JALT1" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JALT2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U10" pin="4" pinfunction="A2" pintype="bidirectional"/>
     </net>
     <net code="4" name="/3v_TX">
-      <node ref="JALT1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JALT2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U10" pin="5" pinfunction="A1" pintype="bidirectional"/>
     </net>
@@ -2980,7 +2504,6 @@
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="JAPC-2" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JDIS2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JIF2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U6" pin="3" pinfunction="VO" pintype="power_out"/>
     </net>
     <net code="6" name="/5v_RX">
@@ -3001,9 +2524,6 @@
       <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="U6" pin="1" pinfunction="VI" pintype="power_in"/>
     </net>
-    <net code="12" name="/ADR">
-      <node ref="J5-2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
-    </net>
     <net code="13" name="/APC2AUX">
       <node ref="JAPC-2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
@@ -3012,55 +2532,17 @@
     </net>
     <net code="15" name="/APC2RX">
       <node ref="JAPC-2" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JIF2" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
     <net code="16" name="/APC2SET">
       <node ref="JAPC-2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
     <net code="17" name="/APC2TX">
       <node ref="JAPC-2" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JIF2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-    </net>
-    <net code="18" name="/APCAUX">
-      <node ref="JAPC-1" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
-    </net>
-    <net code="19" name="/APCEN">
-      <node ref="JAPC-1" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
-    </net>
-    <net code="20" name="/APCRX">
-      <node ref="J1-2" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="JAPC-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JAPC1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JIF1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-    </net>
-    <net code="21" name="/APCSET">
-      <node ref="JAPC-1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
-    </net>
-    <net code="22" name="/APCTX">
-      <node ref="J1-2" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="JAPC-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JAPC1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JIF1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
     <net code="23" name="/BKL">
       <node ref="JDIS1" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="JDIS2" pin="11" pinfunction="Pin_11" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
-    </net>
-    <net code="24" name="/BME3VO">
-      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
-    </net>
-    <net code="25" name="/BMECS">
-      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
-    </net>
-    <net code="26" name="/BMESDO">
-      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
-    </net>
-    <net code="27" name="/BNO3VO">
-      <node ref="J5-1" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
-    </net>
-    <net code="28" name="/BNORST">
-      <node ref="J5-1" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
     </net>
     <net code="29" name="/Broadband Photodiodes/INV1">
       <node ref="RS6" pin="1" pintype="passive"/>
@@ -3072,45 +2554,11 @@
       <node ref="R_{PD.bias}2" pin="1" pintype="passive"/>
       <node ref="R_{PD}2" pin="2" pintype="passive"/>
     </net>
-    <net code="31" name="/CAM1RX">
-      <node ref="JAUX1" pin="10" pinfunction="Pin_10" pintype="passive"/>
-      <node ref="JCAM1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
-    <net code="32" name="/CAM1TX">
-      <node ref="JAUX1" pin="11" pinfunction="Pin_11" pintype="passive"/>
-      <node ref="JCAM1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
-    <net code="33" name="/CAM2RX">
-      <node ref="JAUX1" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="JCAM2" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
-    <net code="34" name="/CAM2TX">
-      <node ref="JAUX1" pin="9" pinfunction="Pin_9" pintype="passive"/>
-      <node ref="JCAM2" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
     <net code="35" name="/CAN_H">
-      <node ref="CAN1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J1-2" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JALT1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="JALT2" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JUT1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
     <net code="36" name="/CAN_L">
-      <node ref="CAN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J1-2" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JALT1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JALT2" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="JUT1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
-    <net code="38" name="/CLK1">
-      <node ref="J1-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JD1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="U1" pin="4" pinfunction="CLK" pintype="input"/>
-    </net>
-    <net code="39" name="/CLK2">
-      <node ref="J1-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JD1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="U2" pin="4" pinfunction="CLK" pintype="input"/>
     </net>
     <net code="40" name="/DCS">
       <node ref="JDIS1" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -3119,31 +2567,6 @@
     <net code="41" name="/D{slash}C">
       <node ref="JDIS1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="JDIS2" pin="9" pinfunction="Pin_9" pintype="passive"/>
-    </net>
-    <net code="42" name="/GAIN">
-      <node ref="J1-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JD1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="U1" pin="9" pinfunction="GAIN" pintype="output"/>
-      <node ref="U2" pin="9" pinfunction="GAIN" pintype="output"/>
-    </net>
-    <net code="43" name="/GPSRX">
-      <node ref="JGPS1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JGPS2" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JGPS3" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
-    <net code="44" name="/GPSTX">
-      <node ref="JGPS1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JGPS2" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JGPS3" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
-    <net code="45" name="/GPS_5V">
-      <node ref="JGPS1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-    </net>
-    <net code="46" name="/GPS_GND">
-      <node ref="JGPS1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-    </net>
-    <net code="47" name="/INT">
-      <node ref="J5-2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
     </net>
     <net code="48" name="/LED">
       <node ref="R3" pin="1" pintype="passive"/>
@@ -3155,28 +2578,12 @@
       <node ref="JDIS1" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="JDIS2" pin="6" pinfunction="Pin_6" pintype="passive"/>
     </net>
-    <net code="54" name="/PPS">
-      <node ref="JGPS1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JGPS2" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JGPS3" pin="6" pinfunction="Pin_6" pintype="passive"/>
-    </net>
-    <net code="55" name="/PS0">
-      <node ref="J5-2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
-    </net>
-    <net code="56" name="/PS1">
-      <node ref="J5-2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
-    </net>
     <net code="57" name="/RST">
       <node ref="JDIS1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="JDIS2" pin="8" pinfunction="Pin_8" pintype="passive"/>
     </net>
-    <net code="58" name="/RX">
-      <node ref="J1-2" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JAPC1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
     <net code="64" name="/SCL3">
       <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JI2C3v-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U11" pin="2" pinfunction="SCL1" pintype="bidirectional"/>
     </net>
@@ -3189,7 +2596,6 @@
     </net>
     <net code="68" name="/SDA3">
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JI2C3v-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="U11" pin="3" pinfunction="SDA1" pintype="bidirectional"/>
     </net>
@@ -3198,12 +2604,6 @@
     </net>
     <net code="70" name="/SDCS">
       <node ref="JDIS2" pin="10" pinfunction="Pin_10" pintype="passive"/>
-    </net>
-    <net code="74" name="/ST">
-      <node ref="J1-1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JD1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="ST" pintype="input"/>
-      <node ref="U2" pin="7" pinfunction="ST" pintype="input"/>
     </net>
     <net code="75" name="/SW0">
       <node ref="SW0" pin="1" pinfunction="1" pintype="passive"/>
@@ -3238,31 +2638,20 @@
     <net code="85" name="/SW10">
       <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="86" name="/TX">
-      <node ref="J1-2" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="JAPC1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
     <net code="90" name="/TXS_{E}">
-      <node ref="JAUX1" pin="12" pinfunction="Pin_12" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="U10" pin="6" pinfunction="OE" pintype="input"/>
     </net>
     <net code="91" name="/UT1">
-      <node ref="J1-2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JUT1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="UT1" pin="2" pinfunction="Signal" pintype="output"/>
     </net>
     <net code="92" name="/UT2">
-      <node ref="J1-2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JUT1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="UT2" pin="2" pinfunction="Signal" pintype="output"/>
     </net>
     <net code="93" name="/VBAT1">
-      <node ref="JBAT1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
     </net>
     <net code="94" name="/VBAT2">
-      <node ref="JBAT2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
     </net>
     <net code="95" name="/VBAT_RTC">
@@ -3271,7 +2660,6 @@
     <net code="96" name="/VDC">
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J3" pin="1" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="U5" pin="2" pinfunction="VDD" pintype="power_in"/>
     </net>
@@ -3279,7 +2667,6 @@
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="JVIN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JVIN1-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="VDD" pintype="power_in"/>
     </net>
@@ -3289,7 +2676,6 @@
       <node ref="U8" pin="1" pinfunction="K" pintype="passive"/>
     </net>
     <net code="99" name="3V0">
-      <node ref="J3V0-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="U9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U9" pin="3" pinfunction="REF" pintype="passive"/>
@@ -3306,27 +2692,12 @@
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J5-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J5V3-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J5V3-2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JALT1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="JALT2" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="JAPC-1" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="JCAM1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JCAM2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JGPS2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JGPS3" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JI2C1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JIF1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JIR1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
-      <node ref="U1" pin="1" pinfunction="VCC" pintype="power_in"/>
-      <node ref="U2" pin="1" pinfunction="VCC" pintype="power_in"/>
       <node ref="U4" pin="3" pinfunction="VO" pintype="power_out"/>
       <node ref="UT1" pin="3" pinfunction="V+" pintype="power_in"/>
       <node ref="UT2" pin="3" pinfunction="V+" pintype="power_in"/>
@@ -3350,38 +2721,17 @@
       <node ref="CS7" pin="2" pintype="passive"/>
       <node ref="CS8" pin="2" pintype="passive"/>
       <node ref="CS9" pin="2" pintype="passive"/>
-      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J5-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J8" pin="MP" pintype="passive"/>
-      <node ref="JALT1" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="JALT2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JAPC-1" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="JAUX1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JBAT1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JCAM1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JCAM2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JGND1-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JGND1-2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JGPS2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="JGPS3" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JGPS3" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JI2C1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JI2C3v-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JIF1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JIR1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R_{PD.bias}1" pin="2" pintype="passive"/>
       <node ref="R_{PD.bias}2" pin="2" pintype="passive"/>
-      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="5" pinfunction="CASE" pintype="passive"/>
       <node ref="U10" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U11" pin="4" pinfunction="GND" pintype="power_in"/>
-      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="U2" pin="5" pinfunction="CASE" pintype="passive"/>
       <node ref="U3" pin="3" pinfunction="VSS" pintype="power_in"/>
       <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U8" pin="2" pinfunction="A" pintype="passive"/>
@@ -3398,13 +2748,9 @@
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="J3" pin="2" pintype="passive"/>
-      <node ref="J3" pin="3" pintype="passive"/>
       <node ref="JAPC-2" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="JBAT2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JDIS1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="JDIS2" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JIF2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="RSW1" pin="1" pintype="passive"/>
       <node ref="U5" pin="3" pinfunction="VSS" pintype="power_in"/>
@@ -3428,12 +2774,6 @@
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="U12" pin="7" pinfunction="GND" pintype="power_in"/>
       <node ref="U13" pin="2" pinfunction="A" pintype="passive"/>
-    </net>
-    <net code="105" name="MISO">
-      <node ref="JAUX1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-    </net>
-    <net code="106" name="MOSI">
-      <node ref="JAUX1" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
     <net code="107" name="Net-(C10-Pad1)">
       <node ref="C10" pin="1" pintype="passive"/>
@@ -3466,39 +2806,6 @@
     </net>
     <net code="112" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="JAUX1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-    </net>
-    <net code="113" name="Net-(J1-3-1-Pad1)">
-      <node ref="J1-3" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="J1-3-1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-    </net>
-    <net code="114" name="Net-(J1-3-1-Pad2)">
-      <node ref="J1-3" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="J1-3-1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-    </net>
-    <net code="115" name="Net-(J1-3-1-Pad3)">
-      <node ref="J1-3" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="J1-3-1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
-    <net code="116" name="Net-(J1-3-1-Pad4)">
-      <node ref="J1-3" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J1-3-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
-    <net code="117" name="Net-(J1-3-2-Pad1)">
-      <node ref="J1-3" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J1-3-2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-    </net>
-    <net code="118" name="Net-(J1-3-2-Pad2)">
-      <node ref="J1-3" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J1-3-2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-    </net>
-    <net code="119" name="Net-(J1-3-2-Pad3)">
-      <node ref="J1-3" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J1-3-2" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
-    <net code="120" name="Net-(J1-3-2-Pad4)">
-      <node ref="J1-3" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J1-3-2" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
     <net code="121" name="Net-(JPD1-Pad2)">
       <node ref="RS3" pin="1" pintype="passive"/>
@@ -3561,8 +2868,6 @@
     </net>
     <net code="135" name="P1">
       <node ref="C24" pin="1" pintype="passive"/>
-      <node ref="J1-1" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="JA1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="US1" pin="7" pintype="output"/>
     </net>
@@ -3575,8 +2880,6 @@
     </net>
     <net code="137" name="P2">
       <node ref="C20" pin="1" pintype="passive"/>
-      <node ref="J1-1" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="JA1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="US2" pin="7" pintype="output"/>
     </net>
@@ -3589,10 +2892,7 @@
     </net>
     <net code="141" name="S1">
       <node ref="C22" pin="1" pintype="passive"/>
-      <node ref="J1-1" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="JA1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
-      <node ref="U1" pin="2" pinfunction="VIDEO" pintype="output"/>
     </net>
     <net code="142" name="S1_{RF}">
       <node ref="C22" pin="2" pintype="passive"/>
@@ -3603,10 +2903,7 @@
     </net>
     <net code="143" name="S2">
       <node ref="C18" pin="1" pintype="passive"/>
-      <node ref="J1-1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JA1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R16" pin="2" pintype="passive"/>
-      <node ref="U2" pin="2" pinfunction="VIDEO" pintype="output"/>
     </net>
     <net code="144" name="S2_{RF}">
       <node ref="C18" pin="2" pintype="passive"/>
@@ -3615,23 +2912,10 @@
       <node ref="R17" pin="2" pintype="passive"/>
       <node ref="U12" pin="3" pinfunction="Vin0" pintype="input"/>
     </net>
-    <net code="145" name="SCK">
-      <node ref="JAUX1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
     <net code="146" name="SCL">
-      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J5-1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="JAUX1" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="JI2C1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JIR1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U11" pin="6" pinfunction="SCL2" pintype="bidirectional"/>
     </net>
     <net code="147" name="SDA">
-      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="J5-1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="JAUX1" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="JI2C1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="JIR1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U11" pin="5" pinfunction="SDA2" pintype="bidirectional"/>
     </net>
     <net code="148" name="V_{AREF}">
@@ -3657,29 +2941,8 @@
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="U12" pin="8" pinfunction="VDD" pintype="power_in"/>
     </net>
-    <net code="272" name="unconnected-(JALT1-Pad4)">
-      <node ref="JALT1" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
-    </net>
     <net code="273" name="unconnected-(JALT2-Pad4)">
       <node ref="JALT2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
-    </net>
-    <net code="274" name="unconnected-(U1-Pad6)">
-      <node ref="U1" pin="6" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="275" name="unconnected-(U1-Pad8)">
-      <node ref="U1" pin="8" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="276" name="unconnected-(U1-Pad10)">
-      <node ref="U1" pin="10" pinfunction="EOS" pintype="output+no_connect"/>
-    </net>
-    <net code="277" name="unconnected-(U2-Pad6)">
-      <node ref="U2" pin="6" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="278" name="unconnected-(U2-Pad8)">
-      <node ref="U2" pin="8" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="279" name="unconnected-(U2-Pad10)">
-      <node ref="U2" pin="10" pinfunction="EOS" pintype="output+no_connect"/>
     </net>
   </nets>
 </export>

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/sjaker/gits/Gardenuino/SpectDroneControl/SpectDroneControl.kicad_sch</source>
-    <date>Thu 29 Jun 2023 12:13:38 PM MDT</date>
+    <date>Mon 10 Jul 2023 09:44:47 PM MDT</date>
     <tool>Eeschema 6.0.2+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2657,11 +2657,11 @@
     <net code="102" name="Net-(JAX3-Pad1)">
       <node ref="U1" pin="33" pinfunction="41_A17" pintype="bidirectional"/>
     </net>
-    <net code="103" name="Net-(JPAX1-Pad2)">
-      <node ref="R1" pin="2" pintype="passive"/>
-    </net>
-    <net code="104" name="Net-(JPAX1-Pad3)">
+    <net code="103" name="Net-(JGAIN1-Pad2)">
       <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(JPAX1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
     </net>
     <net code="105" name="Net-(Q1-Pad1)">
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>

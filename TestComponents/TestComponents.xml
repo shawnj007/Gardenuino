@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/sjaker/gits/Gardenuino/TestComponents/TestComponents.kicad_sch</source>
-    <date>Mon 10 Jul 2023 01:40:35 PM MDT</date>
+    <date>Mon 10 Jul 2023 09:48:05 PM MDT</date>
     <tool>Eeschema 6.0.2+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -863,12 +863,12 @@
       <fields>
         <field name="Part Number">JS202011JAQN</field>
       </fields>
-      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <libsource lib="Switch" part="SW_DPDT_x2" description="Switch, dual pole double throw, separate symbols"/>
       <property name="Part Number" value="JS202011JAQN"/>
       <property name="Sheetname" value="References"/>
       <property name="Sheetfile" value="References.kicad_sch"/>
       <sheetpath names="/References/" tstamps="/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/"/>
-      <tstamps>11a85d83-ca23-4a66-9a7a-3b010acc3da7</tstamps>
+      <tstamps>1b16053e-8447-4e52-9da1-111bede1654c 11a85d83-ca23-4a66-9a7a-3b010acc3da7</tstamps>
     </comp>
     <comp ref="U8">
       <value>ADR510</value>
@@ -2258,20 +2258,6 @@
         <pin num="6" name="C" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Switch" part="SW_SPDT">
-      <description>Switch, single pole double throw</description>
-      <docs>~</docs>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_SPDT</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="A" type="passive"/>
-        <pin num="2" name="B" type="passive"/>
-        <pin num="3" name="C" type="passive"/>
-      </pins>
-    </libpart>
   </libparts>
   <libraries>
     <library logical="ADS1219">
@@ -2754,19 +2740,28 @@
       <node ref="U2" pin="12" pinfunction="AVDD" pintype="power_in"/>
       <node ref="U2" pin="9" pinfunction="REFP" pintype="input"/>
     </net>
-    <net code="441" name="unconnected-(SW2-Pad2)">
+    <net code="441" name="unconnected-(SW1-Pad4)">
+      <node ref="SW1" pin="4" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="442" name="unconnected-(SW1-Pad5)">
+      <node ref="SW1" pin="5" pinfunction="B" pintype="passive+no_connect"/>
+    </net>
+    <net code="443" name="unconnected-(SW1-Pad6)">
+      <node ref="SW1" pin="6" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+    <net code="444" name="unconnected-(SW2-Pad2)">
       <node ref="SW2" pin="2" pinfunction="2" pintype="passive+no_connect"/>
     </net>
-    <net code="442" name="unconnected-(SW2-Pad5)">
+    <net code="445" name="unconnected-(SW2-Pad5)">
       <node ref="SW2" pin="5" pinfunction="5" pintype="passive+no_connect"/>
     </net>
-    <net code="443" name="unconnected-(SW2-Pad6)">
+    <net code="446" name="unconnected-(SW2-Pad6)">
       <node ref="SW2" pin="6" pinfunction="6" pintype="passive+no_connect"/>
     </net>
-    <net code="444" name="unconnected-(SW2-Pad7)">
+    <net code="447" name="unconnected-(SW2-Pad7)">
       <node ref="SW2" pin="7" pinfunction="7" pintype="passive+no_connect"/>
     </net>
-    <net code="445" name="unconnected-(SW2-Pad8)">
+    <net code="448" name="unconnected-(SW2-Pad8)">
       <node ref="SW2" pin="8" pinfunction="8" pintype="passive+no_connect"/>
     </net>
   </nets>

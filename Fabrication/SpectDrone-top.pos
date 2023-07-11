@@ -1,0 +1,28 @@
+### Module positions - created on Mon 10 Jul 2023 09:47:39 PM MDT ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                           Package                                                PosX       PosY       Rot  Side
+BT1       Battery_Cell                  BatteryHolder_Keystone_3000_1x12mm                -166.9809    24.2441  180.0000  top
+CAN1      Conn_01x02_Male               PinHeader_1x02_P2.54mm_Vertical                    -48.4899   -20.4599  180.0000  top
+J1-1      Conn_02x03_Counter_Clockwise  PinSocket_2x04_P2.54mm_Vertical_renumber           -24.0043     5.5880    0.0000  top
+J1-2      Conn_02x03_Counter_Clockwise  PinSocket_2x04_P2.54mm_Vertical_renumber           -24.0030    -9.0169    0.0000  top
+J1-3      Conn_02x03_Counter_Clockwise  PinSocket_2x04_P2.54mm_Vertical_renumber           -24.0030   -23.6219    0.0000  top
+J1-3-1    Conn_01x04_Male               PinHeader_1x04_P2.54mm_Vertical                    -29.0834   -23.6219    0.0000  top
+J1-3-2    Conn_01x04_Male               PinHeader_1x04_P2.54mm_Vertical                    -21.4630   -23.6219    0.0000  top
+J3V3      Conn_01x01_Male               PinHeader_1x01_P2.54mm_Vertical                    -66.8000    12.3800    0.0000  top
+J8        QWICK                         JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal   -41.1493   -33.5280    0.0000  top
+JA1       Conn_01x04_Male               PinHeader_1x04_P2.54mm_Vertical                    -29.0834     5.5881    0.0000  top
+JAC1      Conn_01x08_Female             ArduCam2MP                                          45.5528   -23.3984  -90.0000  top
+JAPC1     Conn_01x04_Male               PinHeader_1x04_P2.54mm_Vertical                    -29.0834    -9.0169    0.0000  top
+JAUX1     AUX                           PinHeader_1x12_P2.54mm_Vertical                    -68.1990   -33.3375  180.0000  top
+JD1       Conn_01x04_Male               PinHeader_1x04_P2.54mm_Vertical                    -21.4630     5.5881    0.0000  top
+JGPS1     GPS                           PinHeader_1x05_P2.54mm_Vertical                    -80.9000   -20.0110    0.0000  top
+JUT1      Conn_01x04_Male               PinHeader_1x04_P2.54mm_Vertical                    -21.4630    -9.0169    0.0000  top
+JVIN1     Conn_01x01_Male               PinHeader_1x01_P2.54mm_Vertical                    -10.4140    27.4321   90.0000  top
+PD1       S1336-18BK                    S1336                                                8.1280    25.9080  180.0000  top
+RV1       10K                           Potentiometer_Bourns_3296P_Horizontal               -9.6279    12.6871  -90.0000  top
+TP4       TestPoint                     TestPoint_Keystone_5000-5004_Miniature            -103.0863    22.7330   90.0000  top
+U2        C12666MA                      Hamamatsu_C12666MA                                   7.6200    -4.0640    0.0000  top
+UT2       TSIC716-TO92                  TO-92_Eline                                          3.5052   -12.1920   90.0000  top
+## End

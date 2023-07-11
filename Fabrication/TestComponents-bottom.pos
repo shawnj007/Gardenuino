@@ -1,0 +1,8 @@
+### Module positions - created on Mon 10 Jul 2023 09:48:52 PM MDT ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                PosX       PosY       Rot  Side
+PD1       S1336-18BK  S1336               44.3230     2.4130  180.0000  bottom
+PD2       S1336-18BK  S1336               52.5780     2.4130  180.0000  bottom
+## End

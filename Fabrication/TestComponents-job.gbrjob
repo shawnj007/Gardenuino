@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "6.0.2+dfsg-1"
     },
-    "CreationDate": "2023-07-10T21:46:13-06:00"
+    "CreationDate": "2023-07-10T21:48:36-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "SpectDroneControl",
-      "GUID": "53706563-7444-4726-9f6e-65436f6e7472",
+      "Name": "TestComponents",
+      "GUID": "54657374-436f-46d7-906f-6e656e74732e",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "SpectDroneControl-F_Cu.gbr",
+      "Path": "TestComponents-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SpectDroneControl-B_Cu.gbr",
+      "Path": "TestComponents-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SpectDroneControl-F_Paste.gbr",
+      "Path": "TestComponents-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SpectDroneControl-B_Paste.gbr",
+      "Path": "TestComponents-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SpectDroneControl-F_Silkscreen.gbr",
+      "Path": "TestComponents-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SpectDroneControl-B_Silkscreen.gbr",
+      "Path": "TestComponents-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SpectDroneControl-F_Mask.gbr",
+      "Path": "TestComponents-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SpectDroneControl-B_Mask.gbr",
+      "Path": "TestComponents-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SpectDroneControl-Edge_Cuts.gbr",
+      "Path": "TestComponents-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

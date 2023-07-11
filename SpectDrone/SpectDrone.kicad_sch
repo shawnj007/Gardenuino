@@ -8042,7 +8042,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Female") (at 128.27 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 011a5828-4c3c-4dde-9bdb-284a3f3c4a43)
     (property "Reference" "JGPS2" (id 0) (at 129.54 78.74 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8085,7 +8085,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 122.555 155.575 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 03db37fe-7756-4708-a539-7a30d63bb75f)
     (property "Reference" "J3V1-1" (id 0) (at 123.825 154.305 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -8299,7 +8299,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 122.555 150.495 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 21b8c324-9d42-486d-98d1-8e7604bf5a33)
     (property "Reference" "JVIN1-1" (id 0) (at 123.825 149.225 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -8341,7 +8341,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 234.315 38.1 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 2609107f-7351-46d6-94b6-871ef49beff7)
     (property "Reference" "J3" (id 0) (at 240.665 36.8299 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -8379,7 +8379,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 57.15 226.695 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 2793b064-532c-4e7a-ad83-71f95202820e)
     (property "Reference" "JA1" (id 0) (at 58.42 227.965 90))
     (property "Value" "Conn_01x04_Male" (id 1) (at 46.99 227.965 0)
@@ -8419,7 +8419,7 @@
   )
 
   (symbol (lib_id "Sensor_Optical:C12666MA") (at 40.005 68.58 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 2b83a6cd-a3db-44a5-8cff-1305c7a7d631)
     (property "Reference" "U1" (id 0) (at 35.56 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8524,7 +8524,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 124.46 23.495 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 32984b2f-6738-44ba-8bb9-d029a1c04d27)
     (property "Reference" "JCAM1" (id 0) (at 120.65 18.415 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -8548,7 +8548,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 21.59 151.13 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 3303bd17-726e-4fee-8519-8e88505aac59)
     (property "Reference" "JI2C3v-1" (id 0) (at 20.32 149.86 90))
     (property "Value" "Conn_01x04_Male" (id 1) (at 31.75 149.86 0)
@@ -8676,7 +8676,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 33.02 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 3d9e8731-42c8-43c4-9acf-3c78e43e4e8c)
     (property "Reference" "J1-3-2" (id 0) (at 32.385 186.69 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 43.18 184.15 0)
@@ -8765,7 +8765,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 106.68 166.37 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 42537599-91ca-4f7a-8479-46dd1b2e44e5)
     (property "Reference" "JIF1" (id 0) (at 106.68 161.29 0))
     (property "Value" "Payload" (id 1) (at 108.585 166.37 90))
@@ -8838,7 +8838,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 39.37 46.99 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 472e94c0-a898-4fa7-9e12-6667bf6d7653)
     (property "Reference" "JBAT1" (id 0) (at 40.005 45.085 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8912,7 +8912,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 104.14 153.035 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 4cd53e12-15d3-46b0-b923-b2326082b899)
     (property "Reference" "J5V3-2" (id 0) (at 105.41 151.765 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9000,7 +9000,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 123.19 166.37 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 55718ec6-b736-4767-9f00-7f19ac456e3b)
     (property "Reference" "JIF2" (id 0) (at 123.19 161.29 0))
     (property "Value" "Base" (id 1) (at 121.285 166.37 90))
@@ -9166,7 +9166,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 28.575 226.695 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 6d07fd92-72fd-4a09-ab5b-10e62e2a73b9)
     (property "Reference" "JD1" (id 0) (at 27.305 227.965 90))
     (property "Value" "Conn_01x04_Male" (id 1) (at 38.735 227.965 0)
@@ -9317,7 +9317,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 149.225 58.42 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 72e4d4c2-74b3-4f9a-8d71-bbda38e5099c)
     (property "Reference" "JIR1" (id 0) (at 149.225 53.34 0))
     (property "Value" "Infrared" (id 1) (at 150.495 59.69 90))
@@ -9354,7 +9354,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 122.555 158.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 77ceeba2-26d8-411f-8467-8f988b8059f9)
     (property "Reference" "JGND1-1" (id 0) (at 123.825 156.845 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9393,7 +9393,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Male") (at 111.76 60.96 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 79addd4c-94b0-4421-bf1a-9bce80188468)
     (property "Reference" "JGPS3" (id 0) (at 106.68 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9419,7 +9419,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 55.88 182.88 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 79cf9e65-8ca4-461b-a1bb-fdd5e5ad692e)
     (property "Reference" "J1-3-1" (id 0) (at 56.515 186.69 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 45.72 184.15 0)
@@ -9547,7 +9547,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 61.595 168.91 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 82929dde-ddec-49ba-859e-c82cb47ebb15)
     (property "Reference" "JAPC1" (id 0) (at 62.865 170.18 90))
     (property "Value" "Conn_01x04_Male" (id 1) (at 51.435 170.18 0)
@@ -9569,7 +9569,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 122.555 153.035 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 84dbf88f-a566-49cb-a76c-2c3da0051450)
     (property "Reference" "J5V3-1" (id 0) (at 123.825 151.765 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9624,7 +9624,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 64.77 44.45 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8b9fec4c-fe0b-42db-9878-619dbb2e8ec2)
     (property "Reference" "J3V3" (id 0) (at 63.5 43.18 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 65.405 41.91 0)
@@ -9704,7 +9704,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 203.2 46.99 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8ef56933-f7db-4f38-9e39-cf5c6d3106e2)
     (property "Reference" "JBAT2" (id 0) (at 203.835 45.085 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9741,7 +9741,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x07_Male") (at 129.54 99.06 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8fb4d6de-def9-4763-8154-c120259d68c1)
     (property "Reference" "JALT1" (id 0) (at 125.73 87.63 0))
     (property "Value" "ALTITUDE" (id 1) (at 130.81 99.06 90))
@@ -9779,7 +9779,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Female") (at 151.765 85.09 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 91601dcc-5a49-413a-8886-cd19449944e5)
     (property "Reference" "J5-1" (id 0) (at 149.225 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9823,7 +9823,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x04_Counter_Clockwise") (at 42.545 244.475 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 955c3e56-1a4d-4f52-a415-06b75f5a0b72)
     (property "Reference" "J1-2" (id 0) (at 43.815 238.125 0))
     (property "Value" "Conn_02x03_Counter_Clockwise" (id 1) (at 43.815 238.125 0)
@@ -9891,7 +9891,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x04_Counter_Clockwise") (at 42.545 226.695 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 9d712c28-7284-4e0b-bde9-adbfdf06743f)
     (property "Reference" "J1-1" (id 0) (at 43.815 220.345 0))
     (property "Value" "Conn_02x03_Counter_Clockwise" (id 1) (at 43.815 220.345 0)
@@ -9968,7 +9968,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 110.49 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a08073c3-e1fc-41dc-a19b-ede03321166e)
     (property "Reference" "CAN1" (id 0) (at 114.3 95.25 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10057,7 +10057,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 21.59 135.89 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a6b26d49-3511-4379-b51c-29b09d1a74f5)
     (property "Reference" "JI2C1" (id 0) (at 20.32 134.62 90))
     (property "Value" "Conn_01x04_Male" (id 1) (at 31.75 134.62 0)
@@ -10098,7 +10098,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x07_Female") (at 121.92 231.14 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid aa74443d-79db-4edb-b674-bce8681986f7)
     (property "Reference" "JAPC-1" (id 0) (at 113.03 219.71 0))
     (property "Value" "APC220" (id 1) (at 123.19 231.14 90))
@@ -10193,7 +10193,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 104.14 155.575 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid aeb40eeb-bd87-4300-87f5-bb1939c50508)
     (property "Reference" "J3V0-1" (id 0) (at 105.41 154.305 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10214,7 +10214,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 167.005 85.09 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid af6d53c8-0585-427e-baa8-3d12303057fc)
     (property "Reference" "J5-2" (id 0) (at 167.005 80.01 0))
     (property "Value" "BNO055-2" (id 1) (at 161.925 92.71 0))
@@ -10275,7 +10275,7 @@
   )
 
   (symbol (lib_id "Sensor_Optical:C12666MA") (at 73.025 68.58 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid b2c67ea0-8f8d-4861-a6a7-7e19d64e1be4)
     (property "Reference" "U2" (id 0) (at 68.58 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10394,7 +10394,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 21.59 111.76 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid b8ba3838-7e2e-4f10-a2e0-811c338a1b78)
     (property "Reference" "JUT1" (id 0) (at 20.32 113.03 90))
     (property "Value" "Conn_01x04_Male" (id 1) (at 31.75 113.03 0)
@@ -10540,7 +10540,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 104.14 158.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid caf09327-891d-4b05-9c28-4df7562cbf90)
     (property "Reference" "JGND1-2" (id 0) (at 105.41 156.845 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10596,7 +10596,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 124.46 38.735 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d0f64c64-c647-4e0c-b575-80351983b764)
     (property "Reference" "JCAM2" (id 0) (at 120.65 33.655 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10654,7 +10654,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x04_Counter_Clockwise") (at 43.18 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d4494bc5-79cb-47ed-a255-80df96f6da0c)
     (property "Reference" "J1-3" (id 0) (at 44.45 176.53 0))
     (property "Value" "Conn_02x03_Counter_Clockwise" (id 1) (at 44.45 176.53 0)
@@ -11043,7 +11043,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x12_Male") (at 90.17 179.07 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f3628265-0155-43e2-a467-c40ff783e265)
     (property "Reference" "JAUX1" (id 0) (at 91.44 181.61 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11110,7 +11110,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x07_Female") (at 167.005 63.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f62d1533-d5e5-43ef-b3e5-3d7f3c496d12)
     (property "Reference" "J4" (id 0) (at 167.005 53.34 0))
     (property "Value" "BME280" (id 1) (at 168.275 64.77 90))
@@ -11289,7 +11289,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Male") (at 128.27 60.96 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid fef283ce-0a3e-4d9d-858a-615f3a2fc6cb)
     (property "Reference" "JGPS1" (id 0) (at 129.54 63.5 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11886,7 +11886,7 @@
       (reference "R4") (unit 1) (value "402") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/12400bec-a035-4aa2-9a39-f72c9ebb9aa4"
-      (reference "R5") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R5") (unit 1) (value "174") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/bc8309e2-f529-40ab-b63c-a391f710836e"
       (reference "R6") (unit 1) (value "200K") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -12060,7 +12060,7 @@
       (reference "U8") (unit 1) (value "ADR510") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/e2721bc0-0e6a-4575-b0d1-362e0ffdee3c/b15f1833-1c73-492c-922e-ef0f8affc888"
-      (reference "U9") (unit 1) (value "ADR5043BRTZ") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U9") (unit 1) (value "LM4040B") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/721b0118-f7ed-41a6-8c66-6d4a657f1174"
       (reference "U10") (unit 1) (value "TXS0102DCUR") (footprint "Package_SO:SSOP-8_2.95x2.8mm_P0.65mm")
