@@ -1006,7 +1006,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 142.24 121.285 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00e6be3f-101c-4933-943b-058f659155e0)
     (property "Reference" "R31" (id 0) (at 135.89 118.745 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1065,7 +1065,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 142.24 139.065 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 17d11c72-2a9f-47c5-a88e-7c8b3d696141)
     (property "Reference" "C34" (id 0) (at 137.795 137.795 0))
     (property "Value" "X" (id 1) (at 137.795 140.335 0))
@@ -1080,7 +1080,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 172.72 139.065 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 239f0652-ee27-473a-acc3-66dc4e342723)
     (property "Reference" "C30" (id 0) (at 168.275 137.795 0))
     (property "Value" "X" (id 1) (at 168.275 140.335 0))
@@ -1095,7 +1095,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 172.72 121.285 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 27832e0b-26b6-40f5-9c9f-f2ea3b03a780)
     (property "Reference" "R27" (id 0) (at 166.37 118.745 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1132,7 +1132,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 142.24 151.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 2c494df6-3263-4fe0-8047-bf8f19a0c52a)
     (property "Reference" "R33" (id 0) (at 135.89 149.225 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1151,7 +1151,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 177.8 121.285 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 2dcd4b85-792a-4f41-8a96-f76f7cb27aa0)
     (property "Reference" "C29" (id 0) (at 180.34 118.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1170,7 +1170,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 177.8 70.485 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 30fbf204-bef9-4135-9949-e958965476e5)
     (property "Reference" "C21" (id 0) (at 180.34 67.945 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1189,7 +1189,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 172.72 108.585 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 33868ad3-91ae-442a-9a21-0eefd768add3)
     (property "Reference" "C28" (id 0) (at 168.275 107.315 0))
     (property "Value" "X" (id 1) (at 168.275 109.855 0))
@@ -1204,7 +1204,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 142.24 27.305 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 36f0c0d0-5fbc-41c5-b480-ee52e9c49a15)
     (property "Reference" "C22" (id 0) (at 137.795 26.035 0))
     (property "Value" "X" (id 1) (at 137.795 28.575 0))
@@ -1219,7 +1219,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 172.72 151.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 38f281f6-5d2c-44ff-a90f-427bbbf2efec)
     (property "Reference" "R29" (id 0) (at 166.37 149.225 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1238,7 +1238,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 172.72 27.305 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 3da59bc6-70b3-471f-bbfc-55990eeb98e5)
     (property "Reference" "C18" (id 0) (at 168.275 26.035 0))
     (property "Value" "X" (id 1) (at 168.275 28.575 0))
@@ -1253,7 +1253,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 142.24 40.005 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 3f494321-e87f-4a8e-bbe5-a937d805b012)
     (property "Reference" "R21" (id 0) (at 135.89 37.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1272,7 +1272,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized_US") (at 105.41 42.545 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 414df5d7-f19b-4687-a4de-327c40e73e20)
     (property "Reference" "C16" (id 0) (at 100.965 41.91 0))
     (property "Value" "X" (id 1) (at 104.14 45.085 0))
@@ -1287,7 +1287,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 147.32 40.005 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 42ba407d-a036-422b-9b59-0018a6ff74da)
     (property "Reference" "C23" (id 0) (at 149.86 37.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1306,7 +1306,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 105.41 55.245 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 43b4c41e-2f8b-4ca3-9572-a148323b8957)
     (property "Reference" "R15" (id 0) (at 99.06 54.61 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1325,7 +1325,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 172.72 70.485 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 518a4131-64e9-4ba1-a442-4691a53e2b81)
     (property "Reference" "R19" (id 0) (at 166.37 67.945 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1344,7 +1344,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 177.8 151.765 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 545bcf65-83bf-490a-9ca6-bc2c7ce18b3a)
     (property "Reference" "C31" (id 0) (at 180.34 149.225 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1403,7 +1403,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 177.8 40.005 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 61c1ad0a-88fa-4e84-b6d4-f39d3cd9072a)
     (property "Reference" "C19" (id 0) (at 180.34 37.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1422,7 +1422,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 147.32 151.765 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 6ee8023d-0627-4286-9549-2d22fb63bc56)
     (property "Reference" "C35" (id 0) (at 149.86 149.225 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1477,7 +1477,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 147.32 70.485 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a3a4ba60-3271-4e9a-ba37-9a84bcaf9db5)
     (property "Reference" "C25" (id 0) (at 149.86 67.945 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1496,7 +1496,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 147.32 121.285 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid abb3faac-9d03-4ed9-9813-3c17e6f72bb2)
     (property "Reference" "C33" (id 0) (at 149.86 118.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1569,7 +1569,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 172.72 40.005 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d86ee7d3-b7d0-400c-a7d2-6d9a947e3d7b)
     (property "Reference" "R17" (id 0) (at 166.37 37.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1588,7 +1588,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 172.72 57.785 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d976a998-0355-4b51-98dc-421418498533)
     (property "Reference" "C20" (id 0) (at 168.275 56.515 0))
     (property "Value" "X" (id 1) (at 168.275 59.055 0))
@@ -1603,7 +1603,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 142.24 108.585 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d9e6770f-822c-43ec-9a54-11d11a8afd54)
     (property "Reference" "C32" (id 0) (at 137.795 107.315 0))
     (property "Value" "X" (id 1) (at 137.795 109.855 0))
@@ -1618,7 +1618,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 110.49 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid dbc0323b-700b-465c-8416-a9e9aea1c906)
     (property "Reference" "C17" (id 0) (at 113.665 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1637,7 +1637,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 142.24 57.785 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid e93952e0-b012-4dcc-a5ce-167d55bdd575)
     (property "Reference" "C24" (id 0) (at 137.795 56.515 0))
     (property "Value" "X" (id 1) (at 137.795 59.055 0))
@@ -1652,7 +1652,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 142.24 70.485 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f69224be-c98a-48ad-a04c-1caaa0418333)
     (property "Reference" "R23" (id 0) (at 135.89 67.945 0)
       (effects (font (size 1.27 1.27)) (justify right))

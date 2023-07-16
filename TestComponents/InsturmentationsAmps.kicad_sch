@@ -2274,7 +2274,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 225.425 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 34931597-4bf2-494d-86ea-c17d2ca85fc0)
     (property "Reference" "RS2" (id 0) (at 226.695 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2659,7 +2659,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 225.425 85.09 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a7fe1e3b-6fe7-4104-9a98-6ae6ac6890cf)
     (property "Reference" "RS5" (id 0) (at 226.695 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))

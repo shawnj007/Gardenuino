@@ -8469,7 +8469,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 227.33 59.69 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 2f5b9060-9be7-463c-8dfa-d59bf011c358)
     (property "Reference" "SW4" (id 0) (at 227.33 53.34 0))
     (property "Value" "SW_Push" (id 1) (at 227.33 55.245 0))
@@ -8698,7 +8698,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 243.84 59.69 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 3f6a9e0a-c4fc-4f3e-90d8-ee716b5c32d5)
     (property "Reference" "SW7" (id 0) (at 243.84 53.34 0))
     (property "Value" "SW_Push" (id 1) (at 243.84 55.245 0))
@@ -8713,7 +8713,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 227.33 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 3fec4109-f778-485c-b9b6-42ee1605ff3d)
     (property "Reference" "SW6" (id 0) (at 227.33 73.66 0))
     (property "Value" "SW_Push" (id 1) (at 227.33 75.565 0))
@@ -8985,7 +8985,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 210.82 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 550652c6-e3c2-4ac4-8929-4e0556b26def)
     (property "Reference" "SW2" (id 0) (at 210.82 63.5 0))
     (property "Value" "SW_Push" (id 1) (at 210.82 65.405 0))
@@ -9482,7 +9482,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 210.82 59.69 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 7e1236fc-f0be-495d-bd1f-03cd985369d7)
     (property "Reference" "SW1" (id 0) (at 210.82 53.34 0))
     (property "Value" "SW_Push" (id 1) (at 210.82 55.245 0))
@@ -9643,7 +9643,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 210.82 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8bdff037-4799-4100-84b8-3ecdc05d6bf1)
     (property "Reference" "SW3" (id 0) (at 210.82 73.66 0))
     (property "Value" "SW_Push" (id 1) (at 210.82 75.565 0))
@@ -10042,7 +10042,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 227.33 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a375fe4b-e6e0-4769-8146-973d2eb9b275)
     (property "Reference" "SW5" (id 0) (at 227.33 63.5 0))
     (property "Value" "SW_Push" (id 1) (at 227.33 65.405 0))
@@ -10121,7 +10121,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 243.84 80.01 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid aaf81bc8-ba8b-4ac1-9fc2-5e11f4687dc8)
     (property "Reference" "SW9" (id 0) (at 243.84 73.66 0))
     (property "Value" "SW_Push" (id 1) (at 243.84 75.565 0))
@@ -10302,7 +10302,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 194.31 59.69 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid b626b648-04ca-4e8e-922a-355cee8b64b8)
     (property "Reference" "SW10" (id 0) (at 194.31 53.34 0))
     (property "Value" "SW_Push" (id 1) (at 194.31 55.245 0))
@@ -10903,7 +10903,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 194.31 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid e53d234c-34ee-414a-bc81-a886319740b6)
     (property "Reference" "SW0" (id 0) (at 194.31 63.5 0))
     (property "Value" "SW_Push" (id 1) (at 194.31 65.405 0))
@@ -10985,7 +10985,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 243.84 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid eaede876-3290-48c2-8cfe-bf768bd08752)
     (property "Reference" "SW8" (id 0) (at 243.84 63.5 0))
     (property "Value" "SW_Push" (id 1) (at 243.84 65.405 0))

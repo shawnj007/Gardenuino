@@ -506,8 +506,8 @@
   )
 
   (no_connect (at 155.575 111.125) (uuid 2ed11e4f-2374-4b22-89e9-0062c5b317ed))
-  (no_connect (at 155.575 116.205) (uuid 2ed11e4f-2374-4b22-89e9-0062c5b317ed))
-  (no_connect (at 165.735 113.665) (uuid 2ed11e4f-2374-4b22-89e9-0062c5b317ed))
+  (no_connect (at 155.575 116.205) (uuid 2ed11e4f-2374-4b22-89e9-0062c5b317ee))
+  (no_connect (at 165.735 113.665) (uuid 2ed11e4f-2374-4b22-89e9-0062c5b317ef))
 
   (wire (pts (xy 133.985 119.38) (xy 133.985 121.285))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -988,7 +988,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 126.365 119.38 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 6b610199-442c-4227-865f-89f007472b76)
     (property "Reference" "R10" (id 0) (at 126.365 116.84 90))
     (property "Value" "X" (id 1) (at 126.365 119.38 90))
@@ -1024,7 +1024,7 @@
   )
 
   (symbol (lib_id "Gardenuino_Custom:ADR510") (at 133.985 123.825 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 807e709a-c45b-40c6-9aaf-c177f22ad504)
     (property "Reference" "U13" (id 0) (at 132.08 122.555 90)
       (effects (font (size 1.27 1.27)) (justify right))

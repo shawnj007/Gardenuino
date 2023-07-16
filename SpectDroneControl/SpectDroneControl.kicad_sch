@@ -7477,7 +7477,7 @@
   )
 
   (symbol (lib_id "Teensy:Teensy3.2") (at 255.905 52.07 0) (unit 1)
-    (in_bom yes) (on_board no)
+    (in_bom no) (on_board no)
     (uuid 4a9eeb32-8743-438b-9ede-04fa54da5794)
     (property "Reference" "U1-2" (id 0) (at 255.905 13.97 0)
       (effects (font (size 1.524 1.524)))
@@ -8082,7 +8082,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 231.775 162.56 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 7e147d38-24dc-4430-b440-e92d0e7ef497)
     (property "Reference" "JBAT1" (id 0) (at 232.41 160.655 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9383,7 +9383,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 274.32 125.095 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid cf7797d9-314a-4cf8-ae54-7e84fb2b0baa)
     (property "Reference" "JDC1" (id 0) (at 269.24 118.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9483,7 +9483,7 @@
   )
 
   (symbol (lib_id "Teensy:Teensy4.1") (at 184.15 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d6f67c52-4f4f-47f3-ad4f-85fd57a2dc61)
     (property "Reference" "U1" (id 0) (at 184.15 13.97 0))
     (property "Value" "Teensy4.1" (id 1) (at 184.15 16.51 0))
@@ -9723,8 +9723,8 @@
     (property "Part Number" "ZUMT618" (id 4) (at 219.075 128.905 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 3b978fb5-431e-4487-9df6-f0c5321ca5da))
     (pin "1" (uuid d44d0391-377c-4cd3-b517-c487266e4f71))
+    (pin "2" (uuid 3b978fb5-431e-4487-9df6-f0c5321ca5da))
     (pin "3" (uuid dda65fc5-0922-493c-83d2-3852476fe7c3))
   )
 

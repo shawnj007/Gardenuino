@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/sjaker/gits/Gardenuino/TestComponents/TestComponents.kicad_sch</source>
-    <date>Mon 10 Jul 2023 09:48:05 PM MDT</date>
+    <date>Thu 13 Jul 2023 01:09:09 PM MDT</date>
     <tool>Eeschema 6.0.2+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -165,10 +165,10 @@
       <value>2.5pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Part Number">CL05C2R5CB5NNNC</field>
+        <field name="Part Number">CQ0402ARNPO9BN2R5</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL05C2R5CB5NNNC"/>
+      <property name="Part Number" value="CQ0402ARNPO9BN2R5"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestComponents.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -178,10 +178,10 @@
       <value>2.5pF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Part Number">CL05C2R5CB5NNNC</field>
+        <field name="Part Number">CQ0402ARNPO9BN2R5</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Part Number" value="CL05C2R5CB5NNNC"/>
+      <property name="Part Number" value="CQ0402ARNPO9BN2R5"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestComponents.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -297,104 +297,14 @@
       <footprint>Package_SO:TSSOP-16_4.4x5mm_P0.65mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ads1219.pdf</datasheet>
       <fields>
-        <field name="Part Number">ADS1219</field>
+        <field name="Part Number">ADS1219IPWR</field>
       </fields>
       <libsource lib="ADS1219" part="ADS1219" description="Low-power, quad-input, 24-bit analog to digital converter, integrated temperature sensor, SPI interface, TSSOP-16 package"/>
-      <property name="Part Number" value="ADS1219"/>
+      <property name="Part Number" value="ADS1219IPWR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestComponents.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c87cc40a-8937-4fb1-ae19-d215b61a4692</tstamps>
-    </comp>
-    <comp ref="C16">
-      <value>X</value>
-      <footprint>Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P</footprint>
-      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>414df5d7-f19b-4687-a4de-327c40e73e20</tstamps>
-    </comp>
-    <comp ref="C17">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>dbc0323b-700b-465c-8416-a9e9aea1c906</tstamps>
-    </comp>
-    <comp ref="C18">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>3da59bc6-70b3-471f-bbfc-55990eeb98e5</tstamps>
-    </comp>
-    <comp ref="C19">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>61c1ad0a-88fa-4e84-b6d4-f39d3cd9072a</tstamps>
-    </comp>
-    <comp ref="C20">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>d976a998-0355-4b51-98dc-421418498533</tstamps>
-    </comp>
-    <comp ref="C21">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>30fbf204-bef9-4135-9949-e958965476e5</tstamps>
-    </comp>
-    <comp ref="C22">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>36f0c0d0-5fbc-41c5-b480-ee52e9c49a15</tstamps>
-    </comp>
-    <comp ref="C23">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>42ba407d-a036-422b-9b59-0018a6ff74da</tstamps>
-    </comp>
-    <comp ref="C24">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>e93952e0-b012-4dcc-a5ce-167d55bdd575</tstamps>
-    </comp>
-    <comp ref="C25">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>a3a4ba60-3271-4e9a-ba37-9a84bcaf9db5</tstamps>
     </comp>
     <comp ref="C26">
       <value>1pF</value>
@@ -422,78 +332,6 @@
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>159574a9-ecec-48bb-adb0-3dc9e65d4e79</tstamps>
     </comp>
-    <comp ref="C28">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>33868ad3-91ae-442a-9a21-0eefd768add3</tstamps>
-    </comp>
-    <comp ref="C29">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>2dcd4b85-792a-4f41-8a96-f76f7cb27aa0</tstamps>
-    </comp>
-    <comp ref="C30">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>239f0652-ee27-473a-acc3-66dc4e342723</tstamps>
-    </comp>
-    <comp ref="C31">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>545bcf65-83bf-490a-9ca6-bc2c7ce18b3a</tstamps>
-    </comp>
-    <comp ref="C32">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>d9e6770f-822c-43ec-9a54-11d11a8afd54</tstamps>
-    </comp>
-    <comp ref="C33">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>abb3faac-9d03-4ed9-9813-3c17e6f72bb2</tstamps>
-    </comp>
-    <comp ref="C34">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>17d11c72-2a9f-47c5-a88e-7c8b3d696141</tstamps>
-    </comp>
-    <comp ref="C35">
-      <value>X</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>6ee8023d-0627-4286-9549-2d22fb63bc56</tstamps>
-    </comp>
     <comp ref="R14">
       <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
@@ -506,15 +344,6 @@
       <property name="Sheetfile" value="BandStop.kicad_sch"/>
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>c15af059-8b9d-458f-a49d-de88857a3451</tstamps>
-    </comp>
-    <comp ref="R15">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>43b4c41e-2f8b-4ca3-9572-a148323b8957</tstamps>
     </comp>
     <comp ref="R16">
       <value>0</value>
@@ -529,15 +358,6 @@
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>5985685d-e43d-436c-af13-33e3e86848ac</tstamps>
     </comp>
-    <comp ref="R17">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>d86ee7d3-b7d0-400c-a7d2-6d9a947e3d7b</tstamps>
-    </comp>
     <comp ref="R18">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
@@ -550,15 +370,6 @@
       <property name="Sheetfile" value="BandStop.kicad_sch"/>
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>fe148714-b0cf-44d7-9b6c-f06914620619</tstamps>
-    </comp>
-    <comp ref="R19">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>518a4131-64e9-4ba1-a442-4691a53e2b81</tstamps>
     </comp>
     <comp ref="R20">
       <value>0</value>
@@ -573,15 +384,6 @@
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>2a3624de-1e65-44b5-8315-a1c35dfa4ff3</tstamps>
     </comp>
-    <comp ref="R21">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>3f494321-e87f-4a8e-bbe5-a937d805b012</tstamps>
-    </comp>
     <comp ref="R22">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
@@ -594,15 +396,6 @@
       <property name="Sheetfile" value="BandStop.kicad_sch"/>
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>97c3e317-415d-4b4f-8101-e9340ae149a3</tstamps>
-    </comp>
-    <comp ref="R23">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>f69224be-c98a-48ad-a04c-1caaa0418333</tstamps>
     </comp>
     <comp ref="R26">
       <value>0</value>
@@ -617,15 +410,6 @@
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>d78f0543-f3b1-4a16-b18e-633dfa452b2b</tstamps>
     </comp>
-    <comp ref="R27">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>27832e0b-26b6-40f5-9c9f-f2ea3b03a780</tstamps>
-    </comp>
     <comp ref="R28">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
@@ -638,15 +422,6 @@
       <property name="Sheetfile" value="BandStop.kicad_sch"/>
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>ccf54642-1f67-4a5f-b334-102fab08b496</tstamps>
-    </comp>
-    <comp ref="R29">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>38f281f6-5d2c-44ff-a90f-427bbbf2efec</tstamps>
     </comp>
     <comp ref="R30">
       <value>0</value>
@@ -661,15 +436,6 @@
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>168eaa1a-c7f0-4c43-9cf6-2befac8f7dbc</tstamps>
     </comp>
-    <comp ref="R31">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>00e6be3f-101c-4933-943b-058f659155e0</tstamps>
-    </comp>
     <comp ref="R32">
       <value>0</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
@@ -682,15 +448,6 @@
       <property name="Sheetfile" value="BandStop.kicad_sch"/>
       <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
       <tstamps>a2c12153-45ce-44c8-abc3-c1029ef362ed</tstamps>
-    </comp>
-    <comp ref="R33">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="BandStop"/>
-      <property name="Sheetfile" value="BandStop.kicad_sch"/>
-      <sheetpath names="/BandStop/" tstamps="/c2d24be9-0a91-4ad8-a6f8-4f606bd871ac/"/>
-      <tstamps>2c494df6-3263-4fe0-8047-bf8f19a0c52a</tstamps>
     </comp>
     <comp ref="J2-1">
       <value>Conn_01x04_Male</value>
@@ -835,15 +592,6 @@
       <sheetpath names="/References/" tstamps="/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/"/>
       <tstamps>3f38df9c-a880-4886-899b-baa4c40e1760</tstamps>
     </comp>
-    <comp ref="R10">
-      <value>X</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="References"/>
-      <property name="Sheetfile" value="References.kicad_sch"/>
-      <sheetpath names="/References/" tstamps="/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/"/>
-      <tstamps>6b610199-442c-4227-865f-89f007472b76</tstamps>
-    </comp>
     <comp ref="RV1">
       <value>10K</value>
       <footprint>Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal</footprint>
@@ -897,16 +645,6 @@
       <property name="Sheetfile" value="References.kicad_sch"/>
       <sheetpath names="/References/" tstamps="/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/"/>
       <tstamps>aef03213-fa09-46b8-ab23-784908a8d6db</tstamps>
-    </comp>
-    <comp ref="U13">
-      <value>X</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>http://www.cj-elec.com/txUpfile/20134181474991806.pdf</datasheet>
-      <libsource lib="Gardenuino_Custom" part="ADR510" description="Shunt Regulator, SOT-23"/>
-      <property name="Sheetname" value="References"/>
-      <property name="Sheetfile" value="References.kicad_sch"/>
-      <sheetpath names="/References/" tstamps="/b2a165aa-ab09-4352-b1f3-7ca3517b67aa/"/>
-      <tstamps>807e709a-c45b-40c6-9aaf-c177f22ad504</tstamps>
     </comp>
     <comp ref="CS1">
       <value>11.1pF</value>
@@ -1103,15 +841,6 @@
       <sheetpath names="/InsturmentationsAmps/" tstamps="/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/"/>
       <tstamps>8a05929d-5d2a-44b5-afc4-60f97614f01d</tstamps>
     </comp>
-    <comp ref="RS2">
-      <value>R_{G}</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="InsturmentationsAmps"/>
-      <property name="Sheetfile" value="InsturmentationsAmps.kicad_sch"/>
-      <sheetpath names="/InsturmentationsAmps/" tstamps="/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/"/>
-      <tstamps>34931597-4bf2-494d-86ea-c17d2ca85fc0</tstamps>
-    </comp>
     <comp ref="RS3">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
@@ -1124,15 +853,6 @@
       <property name="Sheetfile" value="InsturmentationsAmps.kicad_sch"/>
       <sheetpath names="/InsturmentationsAmps/" tstamps="/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/"/>
       <tstamps>d54a4778-8243-4f94-a79f-00ecce758900</tstamps>
-    </comp>
-    <comp ref="RS5">
-      <value>R_{G}</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value="InsturmentationsAmps"/>
-      <property name="Sheetfile" value="InsturmentationsAmps.kicad_sch"/>
-      <sheetpath names="/InsturmentationsAmps/" tstamps="/fcc3e372-6be4-4e20-89ea-15d74da3ea1f/"/>
-      <tstamps>a7fe1e3b-6fe7-4104-9a98-6ae6ac6890cf</tstamps>
     </comp>
     <comp ref="RS6">
       <value>330</value>
@@ -2430,16 +2150,10 @@
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="U2" pin="13" pinfunction="DVDD" pintype="power_in"/>
     </net>
-    <net code="38" name="5V0">
-      <node ref="R10" pin="1" pintype="passive"/>
-      <node ref="U13" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U13" pin="3" pinfunction="REF" pintype="passive"/>
-    </net>
     <net code="39" name="5V3">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="JAUX1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R10" pin="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
     </net>
@@ -2480,31 +2194,12 @@
       <node ref="C13" pin="2" pintype="passive"/>
       <node ref="C14" pin="2" pintype="passive"/>
       <node ref="C15" pin="1" pintype="passive"/>
-      <node ref="C17" pin="2" pintype="passive"/>
-      <node ref="C19" pin="2" pintype="passive"/>
-      <node ref="C21" pin="2" pintype="passive"/>
-      <node ref="C23" pin="2" pintype="passive"/>
-      <node ref="C25" pin="2" pintype="passive"/>
-      <node ref="C29" pin="2" pintype="passive"/>
-      <node ref="C31" pin="2" pintype="passive"/>
-      <node ref="C33" pin="2" pintype="passive"/>
-      <node ref="C35" pin="2" pintype="passive"/>
       <node ref="C38" pin="1" pintype="passive"/>
       <node ref="J5" pin="1" pinfunction="Shield" pintype="passive"/>
       <node ref="J6" pin="1" pinfunction="Shield" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
-      <node ref="R15" pin="1" pintype="passive"/>
-      <node ref="R17" pin="1" pintype="passive"/>
-      <node ref="R19" pin="1" pintype="passive"/>
-      <node ref="R21" pin="1" pintype="passive"/>
-      <node ref="R23" pin="1" pintype="passive"/>
-      <node ref="R27" pin="1" pintype="passive"/>
-      <node ref="R29" pin="1" pintype="passive"/>
-      <node ref="R31" pin="1" pintype="passive"/>
-      <node ref="R33" pin="1" pintype="passive"/>
       <node ref="R34" pin="1" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
-      <node ref="U13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="AGND" pintype="power_in"/>
       <node ref="U2" pin="8" pinfunction="REFN" pintype="input"/>
     </net>
@@ -2592,19 +2287,15 @@
       <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="68" name="Net-(RS2-Pad1)">
-      <node ref="RS2" pin="1" pintype="passive"/>
       <node ref="US1" pin="3" pinfunction="Rg" pintype="passive"/>
     </net>
     <net code="69" name="Net-(RS2-Pad2)">
-      <node ref="RS2" pin="2" pintype="passive"/>
       <node ref="US1" pin="2" pinfunction="Rg" pintype="passive"/>
     </net>
     <net code="70" name="Net-(RS5-Pad1)">
-      <node ref="RS5" pin="1" pintype="passive"/>
       <node ref="US2" pin="3" pinfunction="Rg" pintype="passive"/>
     </net>
     <net code="71" name="Net-(RS5-Pad2)">
-      <node ref="RS5" pin="2" pintype="passive"/>
       <node ref="US2" pin="2" pinfunction="Rg" pintype="passive"/>
     </net>
     <net code="72" name="Net-(R_{C}1-Pad1)">
@@ -2620,47 +2311,31 @@
       <node ref="U3" pin="6" pinfunction="S" pintype="passive"/>
     </net>
     <net code="75" name="P1">
-      <node ref="C24" pin="1" pintype="passive"/>
-      <node ref="C34" pin="1" pintype="passive"/>
       <node ref="JADC1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="R32" pin="2" pintype="passive"/>
       <node ref="US1" pin="7" pintype="output"/>
     </net>
     <net code="76" name="P1_{RF}">
-      <node ref="C24" pin="2" pintype="passive"/>
-      <node ref="C25" pin="1" pintype="passive"/>
       <node ref="R22" pin="1" pintype="passive"/>
-      <node ref="R23" pin="2" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="Vin2" pintype="input"/>
     </net>
     <net code="77" name="P1_{RF}-2">
-      <node ref="C34" pin="2" pintype="passive"/>
-      <node ref="C35" pin="1" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
-      <node ref="R33" pin="2" pintype="passive"/>
       <node ref="U2" pin="6" pinfunction="AIN3" pintype="input"/>
     </net>
     <net code="78" name="P2">
-      <node ref="C20" pin="1" pintype="passive"/>
-      <node ref="C30" pin="1" pintype="passive"/>
       <node ref="JADC1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="R28" pin="2" pintype="passive"/>
       <node ref="US2" pin="7" pintype="output"/>
     </net>
     <net code="79" name="P2_{RF}">
-      <node ref="C20" pin="2" pintype="passive"/>
-      <node ref="C21" pin="1" pintype="passive"/>
       <node ref="R18" pin="1" pintype="passive"/>
-      <node ref="R19" pin="2" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="Vin1" pintype="input"/>
     </net>
     <net code="80" name="P2_{RF}-2">
-      <node ref="C30" pin="2" pintype="passive"/>
-      <node ref="C31" pin="1" pintype="passive"/>
       <node ref="R28" pin="1" pintype="passive"/>
-      <node ref="R29" pin="2" pintype="passive"/>
       <node ref="U2" pin="10" pinfunction="AIN1" pintype="input"/>
     </net>
     <net code="81" name="PD(V)_{BIAS}">
@@ -2668,52 +2343,35 @@
       <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
     </net>
     <net code="82" name="S1">
-      <node ref="C22" pin="1" pintype="passive"/>
-      <node ref="C32" pin="1" pintype="passive"/>
       <node ref="JADC1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="R30" pin="2" pintype="passive"/>
     </net>
     <net code="83" name="S1_{RF}">
-      <node ref="C22" pin="2" pintype="passive"/>
-      <node ref="C23" pin="1" pintype="passive"/>
       <node ref="R20" pin="1" pintype="passive"/>
-      <node ref="R21" pin="2" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="Vin3" pintype="input"/>
     </net>
     <net code="84" name="S1_{RF}-2">
-      <node ref="C32" pin="2" pintype="passive"/>
-      <node ref="C33" pin="1" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
-      <node ref="R31" pin="2" pintype="passive"/>
       <node ref="U2" pin="7" pinfunction="AIN2" pintype="input"/>
     </net>
     <net code="85" name="S2">
-      <node ref="C18" pin="1" pintype="passive"/>
-      <node ref="C28" pin="1" pintype="passive"/>
       <node ref="JADC1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="R16" pin="2" pintype="passive"/>
       <node ref="R26" pin="2" pintype="passive"/>
     </net>
     <net code="86" name="S2_{RF}">
-      <node ref="C18" pin="2" pintype="passive"/>
-      <node ref="C19" pin="1" pintype="passive"/>
       <node ref="R16" pin="1" pintype="passive"/>
-      <node ref="R17" pin="2" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="Vin0" pintype="input"/>
     </net>
     <net code="87" name="S2_{RF}-2">
-      <node ref="C28" pin="2" pintype="passive"/>
-      <node ref="C29" pin="1" pintype="passive"/>
       <node ref="R26" pin="1" pintype="passive"/>
-      <node ref="R27" pin="2" pintype="passive"/>
       <node ref="U2" pin="11" pinfunction="AIN0" pintype="input"/>
     </net>
     <net code="88" name="VIN">
       <node ref="JVIN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="89" name="V_{AREF}">
-      <node ref="C16" pin="1" pintype="passive"/>
       <node ref="C26" pin="1" pintype="passive"/>
       <node ref="C27" pin="1" pintype="passive"/>
       <node ref="CS10" pin="2" pintype="passive"/>
@@ -2730,12 +2388,9 @@
     <net code="90" name="V_{RF}">
       <node ref="C13" pin="1" pintype="passive"/>
       <node ref="C14" pin="1" pintype="passive"/>
-      <node ref="C16" pin="2" pintype="passive"/>
-      <node ref="C17" pin="1" pintype="passive"/>
       <node ref="C26" pin="2" pintype="passive"/>
       <node ref="C27" pin="2" pintype="passive"/>
       <node ref="R14" pin="2" pintype="passive"/>
-      <node ref="R15" pin="2" pintype="passive"/>
       <node ref="U1" pin="8" pinfunction="VDD" pintype="power_in"/>
       <node ref="U2" pin="12" pinfunction="AVDD" pintype="power_in"/>
       <node ref="U2" pin="9" pinfunction="REFP" pintype="input"/>
