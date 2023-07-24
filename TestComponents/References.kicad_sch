@@ -7,37 +7,4 @@
   (lib_symbols
   )
 
-
-  (polyline (pts (xy 159.385 24.13) (xy 207.01 24.13))
-    (stroke (width 0) (type default))
-    (uuid 63185c31-ad5f-44ac-b17d-b1f042949a09)
-  )
-  (polyline (pts (xy 159.385 24.13) (xy 159.385 29.845))
-    (stroke (width 0) (type default))
-    (uuid a57bb225-91da-4308-8f84-ba9e147bca9b)
-  )
-  (polyline (pts (xy 207.01 24.13) (xy 207.01 29.845))
-    (stroke (width 0) (type default))
-    (uuid a9ce2ecb-eff8-45cc-ba2d-4bdf7cc1bce6)
-  )
-  (polyline (pts (xy 207.01 29.845) (xy 159.385 29.845))
-    (stroke (width 0) (type default))
-    (uuid d41ebf9e-bf40-42d7-939e-e39262e6f2fc)
-  )
-
-  (text "V_{drop} = IR -> I = V_{drop} / R\n\nR4\nI = (5-1)V / .402Kohm = 9.95mA = ~10.0mA\n\nR5\nI = (5-3)V / .200Kohm = 10.0mA\n\nR5\nI = (5-3.3)V / .174Kohm = 9.77mA"
-    (at 160.02 34.925 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9e6e3ded-700a-475b-bc5d-3ecec9e707f4)
-  )
-  (text "\nV_{S} = 5 v\nV_{out} = 2.5 v\n\nV = 5 v - 2.5 v = 2.5 v\n\nR_{BIAS}(I_{L_min (1PD)}) = 2.5 v /  1.3 mA = 1923 ohm\nR_{BIAS}(I_{L_min (2PD)}) = 2.5 v /  2.5 mA = 1000 ohm\nR_{BIAS}(I_{L_max}) = 2.5 v / 10.0 mA = 250 ohm\n\nR_{BIAS} = 250 ohm\nL = 2.5 V / 250 ohm = 10.00 mA\nR4 = 250 ohm"
-    (at 230.505 59.69 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b059fe72-b59b-4ecd-aa2b-a2fb2a470999)
-  )
-  (text "\nV_{S} = 5 v\nV_{out} = 4.096 v\n\nV = 5 v - 4.096 v = .904 v\n\nR_{BIAS}(I_{L_min (1PD)}) = 0.904 v /  1.3 mA =  769 ohm\nR_{BIAS}(I_{L_min (2PD)}) = 0.904 v /  2.5 mA =  400 ohm\nR_{BIAS}(I_{L_max}) = 0.904 v / 10.0 mA = 90.4 ohm\n\nR_{BIAS} = 91 ohm\nL = 0.904 V / 0.091 Kohm = 9.93 mA\nR5 = 91 ohm"
-    (at 231.14 109.855 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid c422530d-e9bd-47f2-aeef-acf3e686a649)
-  )
 )
