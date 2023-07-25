@@ -9,23 +9,22 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
-      "pads": 0.5199999809265137,
-      "tracks": 0.5099999904632568,
-      "vias": 0.5099999904632568,
-      "zones": 0.28999999165534973
+      "pads": 1.0,
+      "tracks": 1.0,
+      "vias": 1.0,
+      "zones": 0.6
     },
-    "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
-      "footprints": false,
-      "graphics": false,
-      "keepouts": false,
-      "lockedItems": true,
-      "otherItems": false,
-      "pads": false,
+      "dimensions": true,
+      "footprints": true,
+      "graphics": true,
+      "keepouts": true,
+      "lockedItems": false,
+      "otherItems": true,
+      "pads": true,
       "text": true,
       "tracks": true,
-      "vias": false,
+      "vias": true,
       "zones": true
     },
     "visible_items": [
@@ -35,12 +34,12 @@
       3,
       4,
       5,
+      8,
       9,
       10,
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
@@ -62,13 +61,14 @@
       34,
       35,
       36,
-      37
+      39,
+      40
     ],
-    "visible_layers": "0001000_7ffffffe",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "TestComponents.kicad_prl",
+    "filename": "Simulations.kicad_prl",
     "version": 3
   },
   "project": {

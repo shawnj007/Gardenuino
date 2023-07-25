@@ -57,7 +57,9 @@
         }
       ],
       "drc_exclusions": [
-        "lib_footprint_mismatch|120283625|90139904|b82fcd3f-61a2-404f-9095-16a50ccf5e1c|00000000-0000-0000-0000-000000000000"
+        "lib_footprint_mismatch|120283625|90139904|b82fcd3f-61a2-404f-9095-16a50ccf5e1c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|149770900|79588125|231109e9-cba9-4863-bbb1-87ce924d4a20|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|186690000|107980095|80d446ae-42d8-444b-8b14-ae75dabb347b|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -140,7 +142,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 5,
-          "td_on_pad_in_zone": false,
+          "td_on_pad_in_zone": true,
           "td_onpadsmd": true,
           "td_onroundshapesonly": false,
           "td_ontrackend": false,
