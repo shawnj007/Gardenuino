@@ -251,11 +251,11 @@
         )
       )
     )
-    (symbol "Connector:Barrel_Jack_Switch" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "Connector:Barrel_Jack" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 5.334 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "Barrel_Jack_Switch" (at 0 -5.08 0)
+      (property "Value" "Barrel_Jack" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 1.27 -1.016 0)
@@ -267,13 +267,13 @@
       (property "ki_keywords" "DC power barrel jack connector" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "DC Barrel Jack with an internal switch" (at 0 0 0)
+      (property "ki_description" "DC Barrel Jack" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_fp_filters" "BarrelJack*" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "Barrel_Jack_Switch_0_1"
+      (symbol "Barrel_Jack_0_1"
         (rectangle (start -5.08 3.81) (end 5.08 -3.81)
           (stroke (width 0.254) (type default))
           (fill (type background))
@@ -288,26 +288,8 @@
         )
         (polyline
           (pts
-            (xy 1.27 -2.286)
-            (xy 1.905 -1.651)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 5.08 2.54)
             (xy 3.81 2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 5.08 0)
-            (xy 1.27 0)
-            (xy 1.27 -2.286)
-            (xy 0.635 -1.651)
           )
           (stroke (width 0.254) (type default))
           (fill (type none))
@@ -329,7 +311,7 @@
           (fill (type outline))
         )
       )
-      (symbol "Barrel_Jack_Switch_1_1"
+      (symbol "Barrel_Jack_1_1"
         (pin passive line (at 7.62 2.54 180) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -337,10 +319,6 @@
         (pin passive line (at 7.62 -2.54 180) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at 7.62 0 180) (length 2.54)
-          (name "~" (effects (font (size 1.27 1.27))))
-          (number "3" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -4450,10 +4428,6 @@
     (stroke (width 0) (type default))
     (uuid 525b1146-7709-41e8-b8dd-421e6227f74e)
   )
-  (wire (pts (xy 266.7 125.095) (xy 266.7 127.635))
-    (stroke (width 0) (type default))
-    (uuid 52acc645-0e94-4723-8a3a-adcba32cc9d3)
-  )
   (wire (pts (xy 34.925 130.175) (xy 60.325 130.175))
     (stroke (width 0) (type default))
     (uuid 544fa990-1e93-4c0b-a02e-85ead3ee2b86)
@@ -6788,7 +6762,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x12_Female") (at 113.03 35.56 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 06665bf8-cef1-4e75-8d5b-1537b3c1b090)
     (property "Reference" "JAUX1" (at 111.76 38.1 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7381,7 +7355,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 257.175 160.02 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 243c3e72-c005-4901-9d99-1b7f6dbbc517)
     (property "Reference" "J3V1" (at 258.445 158.75 0)
       (effects (font (size 1.27 1.27)))
@@ -7799,7 +7773,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x04_Counter_Clockwise") (at 63.5 -31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 41609430-bac5-4e0d-a94e-1c7a6a92ed5d)
     (property "Reference" "J1" (at 64.77 -38.1 0)
       (effects (font (size 1.27 1.27)))
@@ -8055,7 +8029,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 257.175 154.94 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 4b4885e7-948c-4816-bd37-941b16496b33)
     (property "Reference" "JVIN1" (at 255.905 153.67 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -8877,7 +8851,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Female") (at 118.11 42.545 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 80cbf5ab-6e94-411f-a273-79a281f27e76)
     (property "Reference" "JGPS1" (at 119.38 45.085 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9053,7 +9027,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 76.2 -31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 83e4f5b2-2aa2-4328-b1f7-13d7940d942d)
     (property "Reference" "J2-1" (at 75.565 -27.94 0)
       (effects (font (size 1.27 1.27)))
@@ -9417,7 +9391,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 118.11 28.575 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 96a36776-2275-43df-bb7e-fb07042edfba)
     (property "Reference" "JUT1" (at 119.38 29.845 90)
       (effects (font (size 1.27 1.27)))
@@ -10063,7 +10037,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 53.34 -31.75 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b7c8d0aa-544c-4aec-b23f-13caaf02b8c0)
     (property "Reference" "J2-2" (at 53.975 -27.94 0)
       (effects (font (size 1.27 1.27)))
@@ -10290,7 +10264,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 40.005 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c3d5daf8-d359-42b2-a7c2-0d080ba7e212)
     (property "Reference" "JD1" (at 38.735 27.94 90)
       (effects (font (size 1.27 1.27)))
@@ -10404,7 +10378,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 76.835 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c7cd39db-931a-4d86-96b8-57e6b39f58f9)
     (property "Reference" "JAPC1" (at 75.565 27.94 90)
       (effects (font (size 1.27 1.27)))
@@ -10652,7 +10626,7 @@
     )
   )
 
-  (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 274.32 125.095 0) (mirror y) (unit 1)
+  (symbol (lib_id "Connector:Barrel_Jack") (at 274.32 125.095 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid cf7797d9-314a-4cf8-ae54-7e84fb2b0baa)
     (property "Reference" "JDC1" (at 269.24 118.11 0)
@@ -10661,7 +10635,7 @@
     (property "Value" "Barrel_Jack" (at 269.24 120.015 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (at 273.05 126.111 0)
+    (property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal" (at 273.05 126.111 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 273.05 126.111 0)
@@ -10669,7 +10643,6 @@
     )
     (pin "1" (uuid 79c7f254-cba0-4fc1-8c74-e371db85b3c7))
     (pin "2" (uuid e8f551ec-cafe-472b-b3f9-d7f7505164bc))
-    (pin "3" (uuid 602a0ae2-3632-4871-a746-967955f26c28))
     (instances
       (project "SpectDroneControl"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -10901,7 +10874,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Female") (at 59.055 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid da546d77-4b03-4562-8fc6-837fd68e7691)
     (property "Reference" "JADC1" (at 57.785 27.94 90)
       (effects (font (size 1.27 1.27)))

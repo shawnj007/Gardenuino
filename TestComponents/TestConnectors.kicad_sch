@@ -4543,7 +4543,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 173.99 127 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 0df376e0-b3b8-4926-8318-ef70bcc43326)
     (property "Reference" "JD1" (at 175.26 128.27 90)
       (effects (font (size 1.27 1.27)))
@@ -4574,7 +4574,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 253.365 128.905 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 24cb67fc-f0c9-4f6e-88c1-7636ab854c5e)
     (property "Reference" "JUT1" (at 252.095 130.175 90)
       (effects (font (size 1.27 1.27)))
@@ -5080,7 +5080,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 173.99 141.605 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 6f75ea3e-6135-44f5-9313-1aad839ab6f6)
     (property "Reference" "J2-2" (at 174.625 145.415 0)
       (effects (font (size 1.27 1.27)))
@@ -5111,7 +5111,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Male") (at 253.365 142.875 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 70b53718-ed58-494c-b8a6-19eb974c07c4)
     (property "Reference" "JGPS1" (at 252.095 145.415 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5143,7 +5143,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 212.09 127 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 7d4fcb23-c914-48df-941d-94cf5f1f85b5)
     (property "Reference" "JAPC1" (at 213.36 128.27 90)
       (effects (font (size 1.27 1.27)))
@@ -5200,7 +5200,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 191.77 127 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 815a0815-7930-45ec-8d6e-dc110f979c75)
     (property "Reference" "JADC1" (at 193.04 128.27 90)
       (effects (font (size 1.27 1.27)))
@@ -5257,7 +5257,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 212.09 141.605 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 92cf4db4-2dba-4763-9cd8-3c7f8aff8f24)
     (property "Reference" "J2-1" (at 212.725 145.415 0)
       (effects (font (size 1.27 1.27)))
@@ -5314,7 +5314,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x12_Male") (at 248.285 135.89 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 95a40d19-41c6-4680-9b37-9cb1bed1a413)
     (property "Reference" "JAUX1" (at 249.555 138.43 90)
       (effects (font (size 1.27 1.27)) (justify left))
