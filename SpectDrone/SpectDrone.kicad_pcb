@@ -821,10 +821,15 @@
       (net 18 "/GAIN") (pinfunction "GAIN") (pintype "output") (tstamp 8c6e5b83-779d-4d82-9395-411a3cba6f50))
     (pad "10" thru_hole circle (at 7.62 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
       (net 259 "unconnected-(U2-EOS-Pad10)") (pinfunction "EOS") (pintype "output+no_connect") (tstamp 9fbea946-b446-4a57-8629-cb1db9a27b19))
-    (model "$USER_HOME/gits/Gardenuino/Parts/C12666MA-Fusion006.step"
-      (offset (xyz 3.81 -7.62 0))
+    (model "/home/sjaker/gits/Gardenuino/Parts/C12666MA-Fusion006.step"
+      (offset (xyz 3.81 -7.62 4.125))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Package_DIP.3dshapes/DIP-14_W7.62mm_Socket.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1358,7 +1363,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${USER_HOME}/gits/Gardenuino/Parts/ArduCam2MP-simple.step"
+    (model "/home/sjaker/gits/Gardenuino/Parts/ArduCam2MP-simple.step"
       (offset (xyz 2.54 -21.07 4.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -3105,7 +3110,7 @@
     (pad "3" thru_hole oval (at 1.27 0 90) (size 1.05 1.5) (drill 0.75) (layers "*.Cu" "*.Mask")
       (net 238 "5V3") (pinfunction "V+") (pintype "power_in") (tstamp 8151566a-681b-4743-bb3c-3408042b25b4))
     (model "$USER_HOME/gits/Gardenuino/Parts/TO-92 eline.step"
-      (offset (xyz 0 0 3.8))
+      (offset (xyz 0 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -7326,7 +7331,7 @@
     (pad "3" thru_hole oval (at 1.27 0 270) (size 1.05 1.5) (drill 0.75) (layers "*.Cu" "*.Mask")
       (net 238 "5V3") (pinfunction "V+") (pintype "power_in") (tstamp da2cb4c0-018c-4158-ae8a-3bd59e35efa5))
     (model "$USER_HOME/gits/Gardenuino/Parts/TO-92 eline.step"
-      (offset (xyz 0 0 3.8))
+      (offset (xyz 0 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -8943,10 +8948,15 @@
       (net 18 "/GAIN") (pinfunction "GAIN") (pintype "output") (tstamp 6920a75c-d782-429e-b16a-b03368ced2a6))
     (pad "10" thru_hole circle (at 7.62 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
       (net 256 "unconnected-(U1-EOS-Pad10)") (pinfunction "EOS") (pintype "output+no_connect") (tstamp 7027134e-6da5-4943-8d69-39f925bee598))
-    (model "$USER_HOME/gits/Gardenuino/Parts/C12666MA-Fusion006.step"
-      (offset (xyz 3.81 -7.62 0))
+    (model "/home/sjaker/gits/Gardenuino/Parts/C12666MA-Fusion006.step"
+      (offset (xyz 3.81 -7.62 4.125))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
+    )
+    (model "${KICAD7_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W7.62mm_Socket.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -13702,7 +13712,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${USER_HOME}/gits/Gardenuino/Parts/ArduCam2MP-simple.step"
+    (model "/home/sjaker/gits/Gardenuino/Parts/ArduCam2MP-simple.step"
       (offset (xyz 2.54 -21.07 4.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
