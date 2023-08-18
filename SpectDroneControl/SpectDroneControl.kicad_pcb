@@ -822,10 +822,25 @@
       (net 140 "unconnected-(A1-PROGRAM-Pad53)") (pinfunction "PROGRAM") (pintype "input+no_connect") (tstamp 2e15df79-ad57-4ad3-939e-3dc05a825080))
     (pad "54" thru_hole circle locked (at 16.51 -5.08 90) (size 1.6 1.6) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 141 "unconnected-(A1-ON_OFF-Pad54)") (pinfunction "ON_OFF") (pintype "input+no_connect") (tstamp 9fbe9397-1371-4620-9ac0-019613f9b089))
-    (model "${KICAD_USER_DIR}/teensy.pretty/Teensy_4.1_Assembly.STEP"
-      (offset (xyz 0 0 0.762))
+    (model "${USER_HOME}/gits/Gardenuino/Parts/teensy.pretty/Teensy_4.1_Assembly.STEP"
+      (offset (xyz 0 0 2.54))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Package_DIP.3dshapes/DIP-48_W15.24mm_Socket.step" hide
+      (offset (xyz 29.21 7.62 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
+      (offset (xyz 29.21 7.62 -4.2))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
+      (offset (xyz 29.21 -7.62 -4.2))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
     )
   )
 
