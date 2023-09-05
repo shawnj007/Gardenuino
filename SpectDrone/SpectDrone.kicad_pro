@@ -56,7 +56,18 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|171524735|132571995|79cf2e8d-41f8-44e8-aac8-0d67864b5901|c1a18f74-a42c-4afc-acea-8274e502b185",
+        "text_height|199571513|110371994|00864a64-0b04-41ca-b711-440b8e3fe313|00000000-0000-0000-0000-000000000000",
+        "text_height|200257313|106206394|c8230f4b-2724-4ee2-879b-f7410c5f88c1|00000000-0000-0000-0000-000000000000",
+        "text_height|200739913|101354994|0101eea4-9ae8-40df-9cfc-1d75bbac6401|00000000-0000-0000-0000-000000000000",
+        "text_height|202949713|104758594|94f763a6-b1fe-4e2b-9639-1b0fb82a2607|00000000-0000-0000-0000-000000000000",
+        "text_height|204626113|102421794|49b515dd-cbc5-4f8c-8fa3-16a6b38bd667|00000000-0000-0000-0000-000000000000",
+        "text_height|206275813|120582794|9876191f-9a0b-47eb-8f65-48450d034104|00000000-0000-0000-0000-000000000000",
+        "text_height|206275813|84514794|68aebd1e-fe34-4393-94da-740175ed1282|00000000-0000-0000-0000-000000000000",
+        "text_height|209069813|117983000|4b7a8cbc-e747-44f2-a79d-7b305d8bab1a|00000000-0000-0000-0000-000000000000",
+        "text_height|209069813|81915000|92238c28-b581-44b1-89e6-31795704d45f|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -82,7 +93,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "error",
@@ -98,8 +109,8 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "ignore",
-        "text_thickness": "ignore",
+        "text_height": "warning",
+        "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -123,8 +134,8 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7999999999999999,
-        "min_text_thickness": 0.08,
+        "min_text_height": 0.89,
+        "min_text_thickness": 0.09,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
